@@ -1,0 +1,327 @@
+[data-md-color-scheme="dmarpglight"] {
+    /* -------------------- Header -------------------- */
+    .md-header {
+        background-color: #543A14; /* Header background */
+        color:            #fcf5d1; /* Header text */
+    }
+    .md-header a {
+        color:            #fcf5d1; /* Header links */
+    }
+    .md-header a:hover {
+        color:            #E07B39; /* Header links on hover */
+    }
+
+    /* -------------------- Accent -------------------- */
+    a {
+        color:            #E07B39; /* Links highlight */
+    }
+    a:hover {
+        color:            #1f84c6; /* Links on hover */
+    }
+
+    /* --------------------  Background -------------------- */
+    .md-container {
+        background-color: #fffdf1 !important; /* Background color */
+    }
+    .md-border {
+        border-color:     #F3BC79; /* Borders and dividers */
+    }
+
+    /* -------------------- Footer -------------------- */
+    .md-footer {
+        color:            #E2E1E0; /* Footer highlight text */
+        background-color: #F3BC79; /* Footer background */
+    }
+    .md-footer-light {
+        color:            #A29F9D; /* Footer text */
+    }
+
+    /* -------------------- Text -------------------- */
+    .md-typeset {
+        color:            #3d211f; /* Body text */
+    }
+    .md-text-secondary {
+        color:            #443230; /* Subtitles text */
+    }
+    a {
+        color:            #E07B39; /* Links highlight */
+    }
+    a:hover {
+        color:            #1f84c6; /* Links on hover */
+    }
+    .md-typeset h1, h2, h3, h4 {
+        color: #131313;
+        font-weight: bold;
+    }
+
+    /* -------------------- Sidebar -------------------- */
+    /* maldito gradiente no topo da barra */
+    --md-default-bg-color: #fff0;
+    /* sidebar esquerda */
+    .md-nav--primary .md-nav__title ~ .md-nav__list {
+        background-color: #fcf5d1;
+    }
+    /* sidebar direita */
+    .md-nav--secondary .md-nav__title ~ .md-nav__list {
+        background-color: #fcf5d1;
+    }
+    /* links na sidebar */
+    .md-sidebar .md-nav__link {
+        color: #3d211f;
+        
+    }
+    .md-sidebar .md-nav__link:hover {
+        color: #E07B39;
+        
+    }
+    /* Sidebar header */
+    .md-sidebar .md-nav__title {
+        background-color: #F3BC79; /* Sidebar header background */
+        color:            #6b6060; /* Sidebar header text */
+    }
+    /* Active Sidebar Item */
+    .md-sidebar .md-nav__item--active {
+        background-color: #FAE3C6; /* Background for active item */
+    }
+    .md-nav--primary .md-nav__item--active > .md-nav__link {
+        color:            #E07B39; /* Selected text color */
+        font-weight:        bold;    /* Selected font weight */
+    }
+
+    /* -------------------- Code -------------------- */
+    code {
+        color:            #865C2C; /* Soft yellow for code */
+        background-color: #FAE3C6; /* Dark background */
+    }
+    code:hover {
+        color:            #E07B39; /* Code font color */
+        background-color: #fcf5d1; /* Code background */
+    }
+    .highlight span.filename {
+        background-color: #F3BC79;
+        border-color: #543A14;
+    }
+    /* -------------------- Table -------------------- */
+    .md-typeset__table th {
+        background-color: #F3BC79; /* Table header background */
+    }
+    .md-typeset__table tr {
+        background-color: #fcf5d1; /* Table row background */
+    }
+    .md-typeset table tr:hover {
+        background-color: #FAE3C6 !important; /* Row hover color */
+    }
+
+    /* -------------------- Tabbed -------------------- */
+    /* Cor de fundo do conteúdo das tabs */
+    .md-typeset .tabbed-content {
+        background-color: #fcf5d1;
+        padding: 1em;
+        border: 2px solid #F3BC79;
+        border-top: 2px solid #F3BC79;
+    }
+
+    /* Cor de fundo das labels das tabs */
+    .tabbed-set label {
+        background-color: #FAE3C6;
+        color: #865C2C;
+        border-bottom: 0rem solid transparent;
+        border-left: 2px solid #F3BC79;
+        border-top: 2px solid #F3BC79;
+        border-right: 2px solid #F3BC79;
+        border-top-left-radius: 0.2rem;
+        border-top-right-radius: 0.2rem;
+        transition: background-color 250ms, color 250ms;
+    }
+
+    /* -------------------- Cards -------------------- */
+    .md-typeset .grid.cards > ol > li, .md-typeset .grid.cards > ul > li, .md-typeset .grid > .card {
+    border:
+    2px solid #F3BC79;
+    border-radius:
+    .2rem;
+    display: block;
+    margin:
+    0;
+    padding:
+    .8rem;
+    transition:
+    border .25s,box-shadow .25s;
+    color: #3d211f; /* fonte */
+    background-color: #FAE3C6; /* fundo */
+    }
+    /* Hover bonito */
+    .md-typeset .grid.cards > ol > li:focus-within, .md-typeset .grid.cards > ol > li:hover, .md-typeset .grid.cards > ul > li:focus-within, .md-typeset .grid.cards > ul > li:hover, .md-typeset .grid > .card:focus-within, .md-typeset .grid > .card:hover {
+        border-color:#543A14;
+        box-shadow: var(--md-shadow-z2);
+        background-color: #fcf5d1;
+    }
+}
+
+[data-md-color-scheme="dmarpgdark"] {
+    /* -------------------- Header -------------------- */
+    .md-header {
+        background-color: #131313; /* Header background */
+        color:            #E2E1E0; /* Header text */
+    }
+    .md-header a {
+        color:            #E2E1E0; /* Header links */
+    }
+    .md-header a:hover {
+        color:            #1f84c6; /* Header links on hover */
+    }
+    
+    /* -------------------- Accent -------------------- */
+    a {
+        color:            #1f84c6; /* Links highlight */
+    }
+    a:hover {
+        color:            #E07B39; /* Links on hover */
+    }
+    
+    /* -------------------- Background -------------------- */
+    .md-container {
+        background-color: #2A2825 !important; /* Background color */
+    }
+    .md-border {
+        border-color:     #5C534A; /* Borders and dividers */
+    }
+    
+    /* -------------------- Footer -------------------- */
+    .md-footer {
+        color:            #E2E1E0; /* Footer highlight text */
+        background-color: #1F1E1B; /* Footer background */
+    }
+    .md-footer-light {
+        color:            #A29F9D; /* Footer text */
+    }
+    
+    /* -------------------- Text -------------------- */
+    .md-typeset {
+        color:            #cdcccb; /* Body text */
+    }
+    .md-text-secondary {
+        color:            #A29F9D; /* Subtitles text */
+    }
+    a {
+        color:            #1f84c6; /* Links highlight */
+    }
+    a:hover {
+        color:            #E07B39; /* Links on hover */
+    }
+    .md-typeset h1, h2, h3, h4 {
+        color: #E2E1E0; /* headings color */
+        font-weight: bold;
+    }
+
+    /* -------------------- Sidebar -------------------- */
+    /* maldito gradiente no topo da barra */
+    --md-default-bg-color: #fff0;
+    /* sidebar esquerda */
+    .md-nav--primary .md-nav__title ~ .md-nav__list {
+        background-color: #615e50;
+    }
+    /* sidebar direita */
+    .md-nav--secondary .md-nav__title ~ .md-nav__list {
+        background-color: #615e50;
+    }
+    /* links na sidebar */
+    .md-sidebar .md-nav__link {
+        color: #E2E1E0;
+        
+    }
+    .md-sidebar .md-nav__link:hover {
+        color: #1f84c6;
+        
+    }
+    /* Sidebar header */
+    .md-sidebar .md-nav__title {
+        background-color: #1F1E1B; /* Sidebar header background */
+        color:            #E2E1E0; /* Sidebar header text */
+    }
+    /* Sidebar links */
+    .md-sidebar a {
+        color:            #1f84c6; /* Sidebar links */
+    }
+    .md-sidebar a:hover {
+        color:            #E07B39; /* Sidebar link hover */
+    }
+
+    /* Active Sidebar Item */
+    .md-sidebar .md-nav__item--active {
+        background-color: #131313; /* Background for active item */
+    }
+    .md-nav--primary .md-nav__item--active > .md-nav__link {
+        color:            #E2E1E0; /* Selected text color */
+        font-weight:        bold;    /* Selected font weight */
+    }
+
+    /* -------------------- Code -------------------- */
+    code {
+        color:            #F5DFA0; /* Soft yellow for code */
+        background-color: #3A332D; /* Dark background */
+    }
+    code:hover {
+        color:            #D9A441; /* Code font color */
+        background-color: #615e50; /* Code background */
+    }
+    .highlight span.filename {
+        background-color: #1F1E1B;
+        border-color: #131313;
+    }
+    /* -------------------- Table -------------------- */
+    .md-typeset__table th {
+        background-color: #1F1E1B; /* Table header background */
+    }
+    .md-typeset__table tr {
+        background-color: #615e50; /* Table row background */
+    }
+    .md-typeset table tr:hover {
+        background-color: #3A332D !important; /* Table hover color */
+    }
+
+    /* -------------------- Tabbed -------------------- */
+    /* Cor de fundo do conteúdo das tabs */
+    .md-typeset .tabbed-content {
+        background-color: #615e50;
+        padding: 1em;
+        border: 2px solid #1F1E1B;
+        border-top: 2px solid #1F1E1B;
+    }
+
+    /* Cor de fundo das labels das tabs */
+    .tabbed-set label {
+        background-color: #3A332D;
+        color: #E2E1E0;
+        border-bottom: 0rem solid transparent;
+        border-left: 2px solid #131313;
+        border-top: 2px solid #131313;
+        border-right: 2px solid #131313;
+        border-top-left-radius: 0.2rem;
+        border-top-right-radius: 0.2rem;
+        transition: background-color 250ms, color 250ms;
+    }
+
+    /* -------------------- Cards -------------------- */
+    .md-typeset .grid.cards > ol > li, .md-typeset .grid.cards > ul > li, .md-typeset .grid > .card {
+        border:
+        2px solid #1F1E1B;
+        border-radius:
+        .2rem;
+        display: block;
+        margin:
+        0;
+        padding:
+        .8rem;
+        transition:
+        border .25s,box-shadow .25s;
+        color: #fff; /* fonte */
+        background-color: #3A332D; /* fundo */
+    }
+    /* Hover bonito */
+    .md-typeset .grid.cards > ol > li:focus-within, .md-typeset .grid.cards > ol > li:hover, .md-typeset .grid.cards > ul > li:focus-within, .md-typeset .grid.cards > ul > li:hover, .md-typeset .grid > .card:focus-within, .md-typeset .grid > .card:hover {
+        border-color:#131313;
+        box-shadow: var(--md-shadow-z2);
+        background-color: #615e50;
+    }
+}

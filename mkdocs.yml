@@ -1,0 +1,87 @@
+site_name: RPG de Cartinhas do Chowder
+site_url: https://chowrpg.io
+site_author: João Pedro (Chowder) Trevisan
+site_description: >-
+  Wiki do rpg experimental de cartas do Chowder.
+
+# ------ THEME ------
+extra_css:
+  - stylesheets/extra.css
+
+theme:
+  name: material
+  palette:
+    - scheme: dmarpglight
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Dark Mode
+
+    - scheme: dmarpgdark
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Light Mode
+
+  logo: assets/favicon.png
+  favicon: assets/favicon.png
+
+  # Navigation
+  features:
+    - navigation.path
+    - navigation.top
+    - navigation.indexes 
+
+  #font:
+    #text:
+
+copyright: 2025, DMChowder
+
+# ------ EXT ------
+markdown_extensions:
+  # Emoji/Cards/Images
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
+  - pymdownx.blocks.html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji 
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+  # Lists
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+  # Content tabs
+  - pymdownx.tabbed:
+      alternate_style: true
+
+# ------ NAV ------
+nav:
+  - Introdução: index.md
+  - Elementos do Jogo: elementos.md
+  - Personagens:
+    - Classes:
+      - Sobre Personagens e Classes: classes/classes.md
+      - Lutador: classes/lutador.md
+      - Elemental: classes/elemental.md
+      - Divino: classes/divino.md
+    - Progressão: progressao.md
+    - Proezas: proezas.md
+    - Profissões: profissoes.md
+    - Talentos: talentos.md
+    - Arsenal: arsenal.md
+  - Aventurando-se:
+    - Viagem: viagem.md
+    - Descanso: descanso.md
+    - Armadilhas: armadilhas.md
+    - Correria: correria.md
+    - Combate e Iniciativa: iniciativa.md
+    - Estados: estados.md
+    - Morte: morte.md
+  - Bases: bases.md
+  - tools: tools.md
+  - todo: todo.md
