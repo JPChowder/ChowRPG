@@ -2,7 +2,7 @@
 
 A base de explorações dos jogadores é um conceito criado não só para apoiar o estilo de jogo de mesa aberta, mas também objetivos que melhorem de maneira permanente o lugar de onde todos jogadores saem. Dessa maneira torna-se interessante jogadores de longa data tentarem novos personagens numa mesma mesa e faz jogadores novos se interessarem por um mundo vivo que muda com suas ações.
 
-A base dos jogadores possui postos com pessoas que trabalham por lá e cada um desses postos não só serve uma função aos jogadores mas também pode ser melhorado com seus esforços e pode gerar missões com as mais diversas recompensas.
+A base dos jogadores possui postos com pessoas que trabalham por lá e cada um desses postos não só serve uma função aos jogadores mas também pode ser melhorado com seus esforços e pode gerar missões com as mais diversas recompensas. **Á princípio, o número máximo de postos de trabalho são 4** e deve-se melhorar postos específicos para aumentar as capacidades do forte.
 
 Cada um desses postos possui níveis e conforme forem feitas missões para melhorar os postos suas utilidades serão expandidas, melhorando a base.
 
@@ -52,7 +52,7 @@ Este é o lugar que você vai quando passa muito próximo da morte ou quando que
  - **Nível 2**: Descansar no forte recupera todos pontos de vida de um personagem, pode-se curar doenças e envenenamentos.
  - **Nível 3**: Os responsáveis pela enfermaria passam a vender bálsamos de cura e antídotos para os aventureiros.
 
-### A Biblioteca
+## A Biblioteca
 A casa do conhecimento do forte, ajudara a entender a magia desse mundo, seja ela encontrada ou construída e no nível máximo ajudará na mobilidade dos aventureiros com um círculo de teletransporte.
 
  - **Nível 1**: Dá a capacidade de identificar itens mágicos e em combinação com um Oficina de Ferreiro nível 2 permite melhorar itens mágicos.
