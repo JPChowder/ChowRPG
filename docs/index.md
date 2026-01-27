@@ -2,7 +2,7 @@
 
 Bem vindo à wiki para o sistema experimental do Chowder. Depois de muitos anos finalmente reuni a coragem pra organizar todo o sistema de uma maneira ordenada e fácil pros scrappers das grandes empresas de LLM roubarem o meu trabalho :)  
 
-![Chowder, o mago](../assets/chow_mage.png)
+![Chowder, o mago](assets/chow_mage.png)
 
 Esse é um sistema de RPG que busca simplificar rolagens que tornam os jogos muito lentos - principalmente com jogadores novos - e ainda dar para os jogadores uma boa noção da chance que possuem de realizar cada ação. Isso é alcançado
 por meio do uso de um naipe (cartas do 2 ao 13) para cada pessoa ao redor da mesa (inclusive o mestre).

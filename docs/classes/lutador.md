@@ -70,37 +70,37 @@ O que afeta a capacidade de um Lutador de realizar manobras de combate é a arma
 
 === "Armas Médias e Grandes"
 
-    **Golpe nas Pernas**: Ataca as pernas de um alvo que tem sua movimentação reduzida pela metade. Mira a defesa de AGILIDADE.
+    **Golpe nas Pernas**: Ataca as pernas de um alvo que tem sua movimentação reduzida pela metade. Mira a defesa de AGILIDADE.  
     *Armas Médias*: +1 de fôlego por turno extra de duração.
 
-    **Corte Sangrento** O indivíduo recebe 2 de dano de sangramento por turno. Mira a defesa de FORTALEZA e a arma deve ser capaz de causar dano cortante para realizar esta manobra.
+    **Corte Sangrento** O indivíduo recebe 2 de dano de sangramento por turno. Mira a defesa de FORTALEZA e a arma deve ser capaz de causar dano cortante para realizar esta manobra.  
     *Armas Médias*: +2 de fôlego por turno extra de duração.
 
-    **Golpe Desnorteador**: Um indivíduo tonto deve escolher entre uma ação de combate ou de movimento em seu turno. Mira a defesa de FORTALEZA e a arma deve ser capaz de causar dano contundente para realizar esta manobra.
+    **Golpe Desnorteador**: Um indivíduo tonto deve escolher entre uma ação de combate ou de movimento em seu turno. Mira a defesa de FORTALEZA e a arma deve ser capaz de causar dano contundente para realizar esta manobra.  
     *Armas Médias* e *Armas Grandes*: +2 de fôlego por turno extra de duração.
 
-    **Ataque Aleijante**: Tem a movimentação reduzida pela metade. Ataca com desvantagem menor. Concede vantagem menor. Mira a defesa de AGILIDADE.
+    **Ataque Aleijante**: Tem a movimentação reduzida pela metade. Ataca com desvantagem menor. Concede vantagem menor. Mira a defesa de AGILIDADE.  
     *Armas Médias* e *Armas Grandes*: +3 de fôlego por turno extra de duração.
 
-    **Pancada Atordoante**: Alvo fica incapaz de se mover ou agir e concede vantagem menor. Mira a defesa de FORTALEZA.
+    **Pancada Atordoante**: Alvo fica incapaz de se mover ou agir e concede vantagem menor. Mira a defesa de FORTALEZA.  
     *Escudo*: +4 de fôlego por turno extra de duração.
 
     **Desarmar**: Tira a arma de um inimigo e a joga ao chão. Mira a defesa de AGILIDADE.
 
-    **Desmaiar Inimigo**: O alvo perde a consciência. Todo ataque contra alguém inconsciente é um crítico. Concede vantagem maior. Mira a defesa de FORTALEZA e a arma deve ser capaz de causar dano contundente para realizar a manobra.
+    **Desmaiar Inimigo**: O alvo perde a consciência. Todo ataque contra alguém inconsciente é um crítico. Concede vantagem maior. Mira a defesa de FORTALEZA e a arma deve ser capaz de causar dano contundente para realizar a manobra.  
     *Armas Grandes*: +4 de fôlego por turno extra de duração.
 
     **Mirar Golpe**: Gasta um turno para estudar o inimigo e calcular seu próximo ataque com calma. Ganha vantagem menor no próximo ataque.
 
 === "Armas de Projétil"
 
-    **Tiro nas Pernas**: Ataca as pernas de um alvo que tem sua movimentação reduzida pela metade. Mira a defesa de AGILIDADE.
+    **Tiro nas Pernas**: Ataca as pernas de um alvo que tem sua movimentação reduzida pela metade. Mira a defesa de AGILIDADE.  
     *Armas de Projétil*: +1 de fôlego por turno extra de duração.
 
-    **Tiro Sangrento**: O indivíduo recebe 2 de dano de sangramento por turno. Mira a defesa de FORTALEZA e a arma deve ser capaz de causar dano cortante para realizar esta manobra.
+    **Tiro Sangrento**: O indivíduo recebe 2 de dano de sangramento por turno. Mira a defesa de FORTALEZA e a arma deve ser capaz de causar dano cortante para realizar esta manobra.  
     *Armas de Projétil*: +2 de fôlego por turno extra de duração.
 
-    **Tiro Aleijante**: Tem a movimentação reduzida pela metade. Ataca com desvantagem menor. Concede vantagem menor. Mira a defesa de AGILIDADE.
+    **Tiro Aleijante**: Tem a movimentação reduzida pela metade. Ataca com desvantagem menor. Concede vantagem menor. Mira a defesa de AGILIDADE.  
     *Armas de Projétil*: +2 de fôlego por turno extra de duração.
 
     **Atirar Duas Flechas**: Exclusivo para usuários de Arcos. Ataca simultaneamente dois alvos que devem estar dentro de um cone de base 11 com a ponta no atirador e não pode mirar 2 flechas num mesmo alvo. Mira a defesa de ARMADURA.
