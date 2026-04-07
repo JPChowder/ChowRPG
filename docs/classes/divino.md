@@ -84,13 +84,13 @@ Os milagres dos Divinos tem efeitos e áreas bem definidos, isso vem do fato del
 
     **Obscurecer**: Concede vantagem menor em jogadas de furtividade para um alvo a até 5m de distância.
 
-    **Cegueira**: Ataca a defesa de FORTALEZA de todos na área e os deixa CEGOS. Area inicial de 1x1, areas aumentam para 2x2, 3x3\ldots.
+    **Cegueira**: Ataca a defesa de FORTALEZA de todos na área e os deixa CEGOS. Area inicial de 1x1, areas aumentam para 2x2, 3x3...
 
-    **Escuridão**: Conjura uma nuvem de névoa negra de área inicial 1x2. Cega todos indivíduos dentro, mas você e criaturas alinhadas a divindade da escuridão podem enxergar através da névoa. Areas aumentam para 2x2, 3x3\ldots
+    **Escuridão**: Conjura uma nuvem de névoa negra de área inicial 1x2. Cega todos indivíduos dentro, mas você e criaturas alinhadas a divindade da escuridão podem enxergar através da névoa. Areas aumentam para 2x2, 3x3...
 
     **Forma de Sombra**: Torna-se uma nuvem de nevoa negra e desloca-se sem causar ataques de oportunidade e pode atravessar grades e espaços estreitos sem dificuldade. Deve manter-se no chão durante o deslocamento, mas é possível saltar até 2m de distância.
 
-    **Sono**: Ataca a defesa de VONTADE de todos alvos numa área inicial de 2x2. Inimigos atingidos ficam INCONSCIENTES pela duração do milagre ou até serem atacados. Areas aumentam para 3x3, 4x4\ldots
+    **Sono**: Ataca a defesa de VONTADE de todos alvos numa área inicial de 2x2. Inimigos atingidos ficam INCONSCIENTES pela duração do milagre ou até serem atacados. Areas aumentam para 3x3, 4x4...
 
     **Clone Sombrio**: Cria um clone feito de névoa negra que possui 7 + CARISMA em todas as defesas e 1 de vida. O clone copia as vestes, armas e símbolo divino do milagreiro e é controlado durante o turno do conjurador que o criou. O clone pode interagir livremente com o mundo mas não pode ficar a mais de 5m do seu criador. Ele causa de dano baseado na arma que empunha assim como um personagem normal ataque e possui graça igual a graça restante do milagreiro após a conjuração, porém os clones só podem conjurar **Forma de Sombra**. Se o milagreiro original conjurar **Forma de Sombra** ele pode escolher levar um clone ou mais consigo ainda que eles estejam longe. O clone é indistinguível do original salvo pelo fato que não pode falar.
 
@@ -100,7 +100,7 @@ Os milagres dos Divinos tem efeitos e áreas bem definidos, isso vem do fato del
 
     **Esporos Infecciosos**: Atira uma bola de esporos num alvo e ataca sua defesa de FORTALEZA. Tem alcance de 10m e causa 1+ CARISMA de dano de veneno no final do turno do inimigo
 
-    **Raízes Entrelaçantes**: Área inicial de 1x1. Faz saírem do chão raízes que fazem aqueles que estão inicialmente na área incapazes de se moverem e a área se torna terreno acidentado (passar por ela custa 2m por quadrado) depois da conjuração inicial. Ataca a defesa de FORTALEZA dos alvos quando é conjurado e se o alvo ficou preso recebe ataques na sua FORTALEZA até que um desses ataques erre e ele se solte ou até o tempo acabar. Areas aumentam para 2x2, 3x3\ldots
+    **Raízes Entrelaçantes**: Área inicial de 1x1. Faz saírem do chão raízes que fazem aqueles que estão inicialmente na área incapazes de se moverem e a área se torna terreno acidentado (passar por ela custa 2m por quadrado) depois da conjuração inicial. Ataca a defesa de FORTALEZA dos alvos quando é conjurado e se o alvo ficou preso recebe ataques na sua FORTALEZA até que um desses ataques erre e ele se solte ou até o tempo acabar. Areas aumentam para 2x2, 3x3...
 
     **Cura**: Pode curar nível/2 vezes por descanso longo. Cura instantaneamente um alvo com um toque.
 
@@ -114,18 +114,16 @@ Os milagres dos Divinos tem efeitos e áreas bem definidos, isso vem do fato del
 
 === "Milagres da Morte"
 
-    **LENTIDÃO**: Afeta os músculos das pernas do alvo causando LENTIDÃO. Ataca a defesa de FORTALEZA. 10m de alcance.
+    **Lentidão**: Afeta os músculos das pernas do alvo causando LENTIDÃO. Ataca a defesa de FORTALEZA. 10m de alcance.
 
-    **MORTIFICAR**: Necrosa um alvo a até 10m causando CARISMA + 3 de dano necrótico. Ataca a defesa de FORTALEZA.
+    **Mortificar**: Necrosa um alvo a até 10m causando CARISMA + 3 de dano necrótico. Ataca a defesa de FORTALEZA.
 
-    **TONTURA**: Prejudica os senti de um alvo a até 10m deixando-o TONTO. 10m de alcance, mira a defesa de FORTALEZA.
+    **Tontura**: Prejudica os senti de um alvo a até 10m deixando-o TONTO. 10m de alcance, mira a defesa de FORTALEZA.
 
-    **AFASTAR MORTO-VIVO**: Ataca a defesa de VONTADE de um morto-vivo causando TERROR sobre ele.
+    **Afastar Morto-Vivo**: Ataca a defesa de VONTADE de um morto-vivo causando TERROR sobre ele.
 
-    **LEVANTAR MORTO-VIVO**: Faz com que um ser recém caído se levante para lutar por você. Ele possui 7 + CARISMA em todas as defesas e ataca com CARISMA de bônus. Mortos-vivos criados dessa maneira não podem ser curados e a vida com a qual levantam é igual à sau vida original ou o CARSIMA + nível/2 do conjurador, escolha a MENOR. Só se pode controlar uma quantidade de mortos-vivos igual a metade de seu nível. Isso é visto como um ato de extrema crueldade por qualquer um fora da sua religião. 
+    **Levantar Morto-Vivo**: Faz com que um ser recém caído se levante para lutar por você. Ele possui 7 + CARISMA em todas as defesas e ataca com CARISMA de bônus. Mortos-vivos criados dessa maneira não podem ser curados e a vida com a qual levantam é igual à sau vida original ou o CARSIMA + nível/2 do conjurador, escolha a MENOR. Só se pode controlar uma quantidade de mortos-vivos igual a metade de seu nível. Isso é visto como um ato de extrema crueldade por qualquer um fora da sua religião. 
 
-    **TRANSFERIR VIDA**: Ataca a defesa de FORTALEZA de um alvo a até 10m causando dano necrótico igual ao nível do milagreiro e curando imediatamente um alvo próximo.
+    **Transferir Vida**: Ataca a defesa de FORTALEZA de um alvo a até 10m causando dano necrótico igual ao nível do milagreiro e curando imediatamente um alvo próximo.
 
-    **MATAR**: Usa uma palavra de poder para assassinar um alvo. Você recebe todas as penalidades de quase morte imediatamente. Só se pode realizar este milagre se não há nenhuma penalidade imposta sobre o personagem.
-
-
+    **Matar**: Usa uma palavra de poder para assassinar um alvo. Você recebe todas as penalidades de quase morte imediatamente. Só se pode realizar este milagre se não há nenhuma penalidade imposta sobre o personagem.

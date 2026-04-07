@@ -91,7 +91,7 @@ Todas as magias aqui expostas são uma gama de efeitos que são possíveis de se
 
 === "Magias de Terra"
 
-    **Revestir**: O Elemental se cobre de minerais retirados do chão e assim ganha defesas e uma fonte de dano. Sempre que o Elemental for atingido ele perderá uma camada de seu revestimento, cada nível possui 2 camadas. Os níveis de revestimento são descritos a seguir e só se pode alcançar um dado nível de revestimento igual ao do personagem.
+    **Revestir**: O Elemental se cobre de minerais retirados do chão e assim ganha defesas e uma fonte de dano. Sempre que o Elemental for atingido ele perderá uma camada de seu revestimento, cada nível possui 2 camadas. Os níveis de revestimento são descritos a seguir:
 
     - *Nível 1* - Reveste seus braços com pedras e se torna capaz de causar dano contundente. Recebe +1 de armadura e é capaz de causar 4 de dano contundente. Acertar um ataque num inimigo também retira uma camada de nível 1.
 
@@ -117,17 +117,17 @@ Todas as magias aqui expostas são uma gama de efeitos que são possíveis de se
 
 === "Magias de Ar"
 
-    **Empurrão**: Ataca a defesa de FORTALEZA de um alvo e faz com que uma forte corrente de vento o empurre em qualquer direção. Se o alvo colidir com terreno recebe 3 + MENTE de dano contundente e se ele colidir com outro indivíduo ambos recebem 3 + MENTE de dano contundente. Possui 10m de alcance e se for conjurado em uma área cônica ou linear move todos os alvos na mesma direção, já se for conjurado em áreas quadradas pode mover todos em uma mesma direção, unir todos no centro ou jogar todos para longe do centro da área.
+Empurrão: Ataca a defesa de FORTALEZA de um alvo e faz com que uma forte corrente de vento o empurre em qualquer direção. Se o alvo colidir com terreno recebe 3 + MENTE de dano contundente e se ele colidir com outro indivíduo ambos recebem 3 + MENTE de dano contundente. Possui 10m de alcance e se for conjurado em uma área cônica ou linear move todos os alvos na mesma direção, já se for conjurado em áreas quadradas pode mover todos em uma mesma direção, unir todos no centro ou jogar todos para longe do centro da área.
 
-    **Tontura**: Faz com que um alvo que sofre um ataque em sua defesa de FORTALEZA gire no próprio eixo e fique TONTO. 10m de alcance.
+Tontura: Faz com que um alvo que sofre um ataque em sua defesa de FORTALEZA gire no próprio eixo e fique TONTO. 10m de alcance.
 
-    **Queda**: Faz com que um tufão que vem de baixo para cima derrube alguém com as pernas para o alto. Mira a defesa de AGILIDADE e tem 10m de alcance
+Queda: Faz com que um tufão que vem de baixo para cima derrube alguém com as pernas para o alto. Mira a defesa de AGILIDADE e tem 10m de alcance
 
-    **Sangramento**: Já ouviu falar de vento que corta? O Elemental do Ar pode mirar um alvo a 10m de si e atacar sua defesa de FORTALEZA para abrir fissuras em sua pele e fazê-lo sangrar recebendo 2 de dano de sangramento ao fim do seu turno.
+Sangramento: Já ouviu falar de vento que corta? O Elemental do Ar pode mirar um alvo a 10m de si e atacar sua defesa de FORTALEZA para abrir fissuras em sua pele e fazê-lo sangrar recebendo 2 de dano de sangramento ao fim do seu turno.
 
-    **Sufocamento**: Impede que um alvo a 10m de si respire. Cada turno que o efeito estiver ativo o alvo recebe um ataque em sua defesa de FORTALEZA e se for atingido ele agirá com desvantagem menor e estará LENTO. Depois de 3 turnos sob o efeito o(s) alvo(s) fica(m) CAÍDO(S) INCONSCIENTE(S) por 2 turnos.
+Sufocamento: Impede que um alvo a 10m de si respire. Cada turno que o efeito estiver ativo o alvo recebe um ataque em sua defesa de FORTALEZA e se for atingido ele agirá com desvantagem menor e estará LENTO. Depois de 3 turnos sob o efeito o(s) alvo(s) fica(m) CAÍDO(S) INCONSCIENTE(S) por 2 turnos.
 
-    **Levitar Alvo**: Ataca a defesa de AGILIDADE de um alvo a até 10m que se for incapaz de resistir a ventania será erguido 2m no ar e não poderá andar. Além disso o alvo age com desvantagem menor e pode ser movido até 5m por turno. Múltiplos alvos devem ser movidos todos na mesma direção.
+Levitar Alvo: Ataca a defesa de AGILIDADE de um alvo a até 10m que se for incapaz de resistir a ventania será erguido 2m no ar e não poderá andar. Além disso o alvo age com desvantagem menor e pode ser movido até 5m por turno. Múltiplos alvos devem ser movidos todos na mesma direção.
 
 === "Magia de Gelo"
 
@@ -143,7 +143,7 @@ Todas as magias aqui expostas são uma gama de efeitos que são possíveis de se
 
     O máximo nível dessa magia corresponde ao nível dela que o Elemental é capaz de conjurar com uma única ação.
 
-    **Queimadura de Frio**: Atira uma esfera de névoa congelante a até 10m de distância, ela mira a defesa de armadura de um alvo e causa-lhe 3 de dano congelante.
+//**Queimadura de Frio**: Atira uma esfera de névoa congelante a até 10m de distância, ela mira a defesa de armadura de um alvo e causa-lhe 3 de dano congelante.
 
     **Congelar Arma**: Toca uma arma e a faz emanar uma névoa pálida e gélida. Adiciona 2 de dano congelante aos ataques da arma até o final do turno de seu usuário.
 
