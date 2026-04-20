@@ -73,7 +73,7 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Proteção Leve**: É capaz de usar armaduras leves, broquel e escudo médio (o elemental que possui este talento é incapaz de usar escudos).
 
-    **Proteção da Mente**: Tem o atributo de MENTE somado a sua defesa de armadura e de **VONTADE**. Tem o valor de **MENTE/2** somado nas defesas de **AGILIDADE** e **FORTALEZA** além dos atributos normais.
+    **Proteção da Mente**: Tem o atributo de MENTE somado a sua Defesa de Armadura e de **VONTADE**. Tem o valor de **MENTE/2** somado nas defesas de **AGILIDADE** e **FORTALEZA** além dos atributos normais.
 
     **Talentos de Especialização**
 
@@ -93,13 +93,11 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Talentos de Defesa**
 
-    **Proteção Leve**: É capaz de usar armaduras leves, broquel e escudo médio (o elemental que possui este talento é incapaz de usar escudos).
+    **Proteção Leve**: É capaz de usar armaduras leves, broquel e escudo médio.
 
     **Proteção Média** : É capaz de usar armaduras médias, broquel e escudo médio.
 
-    **Proteção Leve**: É capaz de usar armaduras leves, broquel e escudo médio (o elemental que possui este talento é incapaz de usar escudos).
-
-    **Proteção Média** : É capaz de usar armaduras médias, broquel e escudo médio.
+    **Proteção Divina**: Tem o atributo de CARISMA somado a sua Defesa de Armadura e de **VONTADE**. Tem o valor de **CARISMA/2** somado nas defesas de **AGILIDADE** e **FORTALEZA** além dos atributos normais.
 
 
     **Talentos de Especialização**
@@ -108,7 +106,7 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Catalisador Divino**: Efeitos que beneficiem aliados duram 1 turno a mais.
 
-    **Maldição Persistente**: Efeitos divinos impostos a inimigos duram um turno a mais.
+    **Maldição Persistente**: Efeitos divinos impostos a inimigos duram 1 turno a mais.
 
 
 ## Talentos de Nível 3

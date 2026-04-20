@@ -19,29 +19,33 @@ Se um jogador quiser usar um tipo de arma que não existe neste arsenal ele deve
     - 4 de dano perfurante se atirado no alvo
  - **Machadinha**: 3 de dano cortante.
     - 4 de dano cortante se atirado no alvo.
- - **Funda**: 3 de dano contundente. 
-    - Ataques furtivos e críticos deixam o alvo TONTO.
  - **Porrete**: 3 de dano contundente. 
     - Ataques furtivos e críticos deixam o alvo TONTO.
 
 ### Armas Médias
 
- - **Espada** Longa: 4 de dano cortante, 3 de dano perfurante.
+ - **Espada Longa**: 4 de dano cortante, 3 de dano perfurante.
  - **Machado**/**Facão**: 5 de dano cortante.
  - **Maça**/**Martelo**/**Mangual**: 5 de dano contundente.
  - **Rapieira**: 4 de dano perfurante, 3 de dano cortante.
-    - Ataca usando o atributo de **Agilidade**
+    - Ataca usando o atributo de **Agilidade**.
+ - **Cimitarra** : 4 de dano cortante, 3 de dano perfurante.
+    - Ataca usando o atributo de **Agilidade**.
  - **Bastão**: 5 de dano contundente. 
-    - Deve ser empunhado com 2 mãos, +1 de alcance.
+    - **Deve** ser empunhado com 2 mãos, +1 de alcance.
+    - Arma longa.
  - **Lança**: 4 de dano perfurante, 3 de dano cortante. 
     - Se empunhada com ambas as mãos: +1 de alcance.
+    - Arma longa.
  - **Tridente**: 4 de dano perfurante, 3 de dano contundente.
     - Se empunhado com ambas as mãos: +1 de alcance.
+    - Arma longa.
 
 ### Armas Pesadas
 
  - **Alabarda**: 4 de dano cortante, 4 de dano perfurante, 4 de dano contundente.
     - +1 de alcance, -1 movimentação.
+    - Arma longa.
  - **Espada Grande**: 5 de dano cortante, 4 de dano perfurante.
     - -1 movimentação.
  - **Machado Pesado**: 6 de dano cortante.
@@ -55,6 +59,8 @@ Se um jogador quiser usar um tipo de arma que não existe neste arsenal ele deve
     - Recarga livre.
  - **Besta Pesada**: 5 de dano perfurante.
     - Deve gastar metade de sua movimentação para recarregar a arma.
+ - **Funda**: 4 de dano contundente.
+   - Crítico deixa o alvo TONTO além de dobrar o dano.
 
 ### Escudos
 

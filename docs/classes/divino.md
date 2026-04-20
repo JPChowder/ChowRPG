@@ -58,7 +58,7 @@ Os milagres dos Divinos tem efeitos e áreas bem definidos, isso vem do fato del
 | :------- | :----: |
 | Lentidão | 2 de graça + 2 por turno extra |
 | Mortificar | 3 de graça + 2 por alvo extra |
-| Tontura | 4 de graça + 2 por turno extra |
+| Amortecer os Sentidos | 4 de graça + 2 por turno extra |
 | Afastar Morto-Vivo | 5 de graça + 3 por alvo extra |
 | Levantar Morto-Vivo | 10 de graça + 5 por alvo extra |
 | Transferir Vida | 12 de graça |
@@ -66,11 +66,11 @@ Os milagres dos Divinos tem efeitos e áreas bem definidos, isso vem do fato del
 
 === "Milagres da Luz"
 
-    **Arma da Luz**: Adiciona 1+ CARISMA dano radiante a uma arma até o final do turno de quem a empunha. Precisa tocar a arma para conjurar e não exige rolagem.
+    **Arma da Luz**: Adiciona 1+ CARISMA dano radiante a uma arma até o final do turno de quem a empunha. Precisa tocar a arma para conjurar e não exige rolagem. Pode sacrificar a jogada de movimento para conjurar.
 
     **Raio de Luz**: Um raio que ataca a defesa de ARMADURA de um alvo e causa 3 + CARISMA da dano radiante. Possui 10m de alcance.
 
-    **Armadura Radiante**: Faz as vestes de um indivíduo brilharem e adiciona seu atributo de CARISMA na defesa de ARMADURA do alvo até o fim do turno dele. Deve tocar o alvo para conjurar e não exige rolagem.
+    **Armadura Radiante**: Faz as vestes de um indivíduo brilharem e adiciona seu atributo de CARISMA na defesa de ARMADURA do alvo até o fim do turno dele. Deve tocar o alvo para conjurar e não exige rolagem. Pode sacrificar a jogada de movimento para conjurar.
 
     **Flash**: Uma liberação repentina e violenta de luz da palma da mão do clérigo que CEGA em um cone de base 3 partindo do conjurador. Ataca a defesa de FORTALEZA.
 
@@ -88,7 +88,7 @@ Os milagres dos Divinos tem efeitos e áreas bem definidos, isso vem do fato del
 
     **Escuridão**: Conjura uma nuvem de névoa negra de área inicial 1x2. Cega todos indivíduos dentro, mas você e criaturas alinhadas a divindade da escuridão podem enxergar através da névoa. Areas aumentam para 2x2, 3x3...
 
-    **Forma de Sombra**: Torna-se uma nuvem de nevoa negra e desloca-se sem causar ataques de oportunidade e pode atravessar grades e espaços estreitos sem dificuldade. Deve manter-se no chão durante o deslocamento, mas é possível saltar até 2m de distância.
+    **Forma de Sombra**: Torna-se uma nuvem de nevoa negra e desloca-se sem causar ataques de oportunidade e pode atravessar indivíduos e espaços estreitos sem dificuldade. O deslocamento inicial é igual a metade do deslocamento do divino e ele pode ascender até 3m.
 
     **Sono**: Ataca a defesa de VONTADE de todos alvos numa área inicial de 2x2. Inimigos atingidos ficam INCONSCIENTES pela duração do milagre ou até serem atacados. Areas aumentam para 3x3, 4x4...
 
@@ -100,7 +100,7 @@ Os milagres dos Divinos tem efeitos e áreas bem definidos, isso vem do fato del
 
     **Esporos Infecciosos**: Atira uma bola de esporos num alvo e ataca sua defesa de FORTALEZA. Tem alcance de 10m e causa 1+ CARISMA de dano de veneno no final do turno do inimigo
 
-    **Raízes Entrelaçantes**: Área inicial de 1x1. Faz saírem do chão raízes que fazem aqueles que estão inicialmente na área incapazes de se moverem e a área se torna terreno acidentado (passar por ela custa 2m por quadrado) depois da conjuração inicial. Ataca a defesa de FORTALEZA dos alvos quando é conjurado e se o alvo ficou preso recebe ataques na sua FORTALEZA até que um desses ataques erre e ele se solte ou até o tempo acabar. Areas aumentam para 2x2, 3x3...
+    **Raízes Entrelaçantes**: Área inicial de 1x1. Faz saírem do chão raízes que fazem aqueles que estão inicialmente na área incapazes de se moverem. A área se torna terreno acidentado (passar por ela custa 2m por quadrado) depois da conjuração inicial. Ataca a defesa de FORTALEZA dos alvos quando é conjurado e se o alvo ficou preso ele concede vantagem maior e deve gastar todo um turno apenas para sair da área. Areas aumentam para 2x2, 3x3...
 
     **Cura**: Pode curar nível/2 vezes por descanso longo. Cura instantaneamente um alvo com um toque.
 
@@ -108,9 +108,9 @@ Os milagres dos Divinos tem efeitos e áreas bem definidos, isso vem do fato del
 
     **Ferocidade Predadora**: Com um toque faz com que o alvo use sua fúria para atacar com vantagem menor e somar seu modificador de FORTALEZA no dano causado. Alvos abençoados por este milagre usam sua ação para atacar qualquer um que esteja adjacente a ele ao fim de seu turno ou causa dano a si mesmo (dano da arma ou da magia de dano mais fraca).
 
-    **Forma de Predador**: O divino transforma-se num ser parte homem parte besta que é capaz de cortar com suas garras e perfurar com seus dentes, o dano destes ataques é igual nível + CARISMA e ele recebe +1 em FORT e AGI, nunca superando o máximo de 3 em algum desses atributos. Enquanto transformado o divino é incapaz de realizar milagres ou recuperar **graça**, mas pode usar sua arma. Este milagre só pode ser conjurado sobre si mesmo e o divino gasta uma ação para voltar ao normal, além de recuperar **graça** apenas um turno após ter voltado a sua forma normal. Quando o divino está transformado ele só é capaz de conjurar **Velocidade da Presa** e **Ferocidade Predadora** sobre sí mesmo e o milagre **Rugido Aterrorizante** com custo de 10 pontos de **graça**.
+    **Forma de Predador**: O divino transforma-se num ser parte homem parte besta que é capaz de cortar com suas garras e perfurar com seus dentes, o dano destes ataques é igual nível/2 + CARISMA + FORTALEZA e ele recebe +1 em FORTALEZA e AGILIDADE, nunca superando o máximo de 3 em algum desses atributos. Enquanto transformado o divino é incapaz de realizar milagres ou recuperar **graça**, mas pode usar sua arma. Este milagre só pode ser conjurado sobre si mesmo e o divino gasta uma ação para voltar ao normal, além de recuperar **graça** apenas um turno após ter voltado a sua forma normal. Quando o divino está transformado ele só é capaz de conjurar **Velocidade da Presa** e **Ferocidade Predadora** sobre sí mesmo e o milagre **Rugido Aterrorizante** com custo de 10 pontos de **graça**.
 
-    **Rugido Aterrorizante**: Afeta todos num raio de 5m, ataca a VONTADE. Afetados fogem de você gastando metade da sua movimentação e lhe concedem vantagem menor.
+    **Rugido Aterrorizante**: Afeta todos num raio de 3m, ataca a VONTADE. Afetados fogem de você gastando metade da sua movimentação e lhe concedem vantagem menor.
 
 === "Milagres da Morte"
 
@@ -118,11 +118,11 @@ Os milagres dos Divinos tem efeitos e áreas bem definidos, isso vem do fato del
 
     **Mortificar**: Necrosa um alvo a até 10m causando CARISMA + 3 de dano necrótico. Ataca a defesa de FORTALEZA.
 
-    **Tontura**: Prejudica os senti de um alvo a até 10m deixando-o TONTO. 10m de alcance, mira a defesa de FORTALEZA.
+    **Amortecer os Sentidos**: Prejudica os sentidos de um alvo a até 10m deixando-o TONTO. 10m de alcance, mira a defesa de FORTALEZA.
 
     **Afastar Morto-Vivo**: Ataca a defesa de VONTADE de um morto-vivo causando TERROR sobre ele.
 
-    **Levantar Morto-Vivo**: Faz com que um ser recém caído se levante para lutar por você. Ele possui 7 + CARISMA em todas as defesas e ataca com CARISMA de bônus. Mortos-vivos criados dessa maneira não podem ser curados e a vida com a qual levantam é igual à sau vida original ou o CARSIMA + nível/2 do conjurador, escolha a MENOR. Só se pode controlar uma quantidade de mortos-vivos igual a metade de seu nível. Isso é visto como um ato de extrema crueldade por qualquer um fora da sua religião. 
+    **Levantar Morto-Vivo**: Faz com que um ser recém caído se levante para lutar por você. Ele possui 7 + CARISMA em todas as defesas e ataca com CARISMA de bônus. Mortos-vivos criados dessa maneira não podem ser curados e a vida com a qual levantam é igual ao CARSIMA + nível/2 do conjurador. Só se pode controlar uma quantidade de mortos-vivos igual a metade de seu nível. Isso é visto como um ato de extrema crueldade por qualquer um fora da sua religião. 
 
     **Transferir Vida**: Ataca a defesa de FORTALEZA de um alvo a até 10m causando dano necrótico igual ao nível do milagreiro e curando imediatamente um alvo próximo.
 
