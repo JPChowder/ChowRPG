@@ -20,6 +20,8 @@ Além disso, eu pretendo desenvolver alguns sistemas em segredo para então apre
 2. Terminar talentos de níveis altos
 3. Terminar progressão após nvl. 10
 4. Atualizar fichas de jogadores
+5. Unificar regras de carregar itens com regras de viagem
+6. Regras para quantidade de itens mágicos equipados
 
 ## Horizonte de Atualizações
 

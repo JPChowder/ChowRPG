@@ -60,6 +60,15 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 - **Refeição Saudável**: Todos que comerem uma refeição preparada por uma habilidade do cozinheiro antes de dormir recebem 2 de cura ao longo de um descanso longo.
 
 
+**Curandeiro**: O Curandeiro é um conhecedor das plantas e fungos que existem na natureza. Isso vai muito além de saber quais delas são comestíveis, um curandeiro é capaz de extrair propriedades úteis, salvadoras e até mortais da flora de qualquer lugar. Pode criar **bálsamo de cura**, **antídoto** e **veneno**. Deve possuir um destilador de **Herbalista** que custa 1pp.
+
+- **Bálsamo de Cura**: Ao longo de uma hora conduz um processo que resulta em um bálsamo que cura uma pessoa ao longo de um descanso curto. Só um bálsamo funciona em cada personagem por vez. Cada grupo pode carregar 5 desses por **Herbalista** no grupo.
+
+- **Antídoto**: Gasta uma hora para preparar um antídoto para venenos e doenças simples. Pode fazer um por dia e pode carregar até 3 antídotos.
+
+- **Veneno**: O erveiro consegue destilar das folhas, caules e raízes em mãos uma combinação de óleos essenciais que contém metais pesados. O óleo pode ser passado em lâminas, flechas e objetos pontiagudos e causa 2 de dano de veneno por 2 turnos num alvo. Se usado fora de combate aquele que consumir o veneno passa mal e recebe dano. Consumir ou receber 3 doses do veneno deixa uma pessoa inconsciente. Cada **Herbalista** do grupo pode carregar 3 desses e demora 1 hora para extrair um veneno.
+
+
 **Engenhoqueiro**: Um engenhoqueiro é um personagem que mistura as sabedorias de um mecânico e de um artesão, dessa maneira ele é capaz de criar dispositivos úteis em muitas situações diferentes da vida de um explorador. As criações possíveis são **munição especial**, **granada  de fumaça** e **bomba direcional**. Necessita de um conjunto de ferramentas finas que custa 1pp.
 
 - **Munição Especial**: O artífice pode gastar uma hora para criar munição (sejam flechas ou balas) que causem dano contundente, cortante ou flamejante. Pode se criar 3 projéteis por vez uma vez por dia, demora uma hora para criá-las e cada jogador pode carregar quantas quiser.
@@ -94,17 +103,6 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 - **Identificar Item Mágico**: Igual do **Estudante do Arcano**.
 
 - **Teletransportar**: Por meio deste ritual é possível teletransportar tudo num volume de 3x3x2. O destino é um Círculo de teletransporte, então das duas uma: O ritualista pode ir de um círculo existente para um outro que esteja atrelado ao primeiro, ou ele pode criar um círculo temporário e teletransportar para um único outro círculo com o qual ele tenha se ligado. Se ligar a um circulo leva 30 minutos, o ritual de teletransporte envolve o posicionamento de cristais, a vibração de diapasões e leva uma hora. Criar um círculo de teletransporte fixo é uma missão à parte.
-
-
-**Herbalista**: O personagem deve possuir a profissão de Curandeiro para poder virar um **Herbalista**. Permite ao jogador criar químicos que beneficiam os atributos de quem os consumir. Eles são o **perfume do vento**, o **elixir da força**, a **carne dos deuses** e o **pito de pango**. Precisa do destilador de herbalista para extrair propriedades das plantas.
-
-- **Perfume do Vento**: O Herbalista deve trabalhar por uma hora para extrair óleos essenciais que quando combinados transformam-se em uma mistura que quando inalada garante vantagem menor em jogadas de **AGILIDADE** por toda uma hora. Pode-se carregar 1 Perfume do Vento por Herbalista no grupo.
-
-- **Elixir da Força**: De uma mistura de folhas fervidas por uma hora o herbalista destila um líquido que concede vantagem menor em jogadas de **FORTALEZA** por uma hora. Pode-se carregar apenas 1 desses por herbalista no grupo.
-
-- **Carne dos Deuses**: O Herbalista passa uma hora preparando uma mistura de fungos e ervas que quando consumidos garante vantagem em jogadas de **MENTE** por uma hora. Pode-se carregar 1 desses por grupo.
-
-- **Pito de Pango**: Durante uma hora o Herbalista mistura ervas secas e as enrola em uma folha especial, confeccionado um cigarro que quando fumado concede vantagem menor em jogadas de **CARISMA** por uma hora. Pode-se carregar 1 desses por Herbalista no grupo.
 
 
 **Nobre**: O nobre é aquele que pertence a classe de maior prestígio na sociedade. Nobreza é algo herdado no sangue ou comprado com um título, seja qual for a maneira que você chegou lá você é maior que os comuns independente da sua condição material atual. Suas vantagens tem a ver com status e são a **carteirada**, a **barganha esnobe** e a **reputação venerável**. Precisa de um meio de provar sua nobreza, seja por título, brasão, vestes ou grana bruta.
@@ -150,20 +148,22 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 - **Consumir Presa**: Uma vez por dia o caçador pode tentar obter alimento de animais que tenha derrotado e que não sejam mortos-vivos. O jogador deve baixar uma carta de seu monte por animal do qual queira obter alimento e ele obterá uma unidade de comida para cada carta maior ou igual a 6 que ele baixe.
 
 
-**Curandeiro**: O Curandeiro é um conhecedor das plantas e fungos que existem na natureza. Isso vai muito além de saber quais delas são comestíveis, um curandeiro é capaz de extrair propriedades úteis, salvadoras e até mortais da flora de qualquer lugar. Pode criar **bálsamo de cura**, **antídoto** e **veneno**. Deve possuir um destilador de **Herbalista** que custa 1pp.
-
-- **Bálsamo de Cura**: Ao longo de uma hora conduz um processo que resulta em um bálsamo que cura uma pessoa ao longo de um descanso curto. Só um bálsamo funciona em cada personagem por vez. Cada grupo pode carregar 5 desses por **Herbalista** no grupo.
-
-- **Antídoto**: Gasta uma hora para preparar um antídoto para venenos e doenças simples. Pode fazer um por dia e pode carregar até 3 antídotos.
-
-- **Veneno**: O erveiro consegue destilar das folhas, caules e raízes em mãos uma combinação de óleos essenciais que contém metais pesados. O óleo pode ser passado em lâminas, flechas e objetos pontiagudos e causa 2 de dano de veneno por 2 turnos num alvo. Se usado fora de combate aquele que consumir o veneno passa mal e recebe dano. Consumir ou receber 3 doses do veneno deixa uma pessoa inconsciente. Cada **Herbalista** do grupo pode carregar 3 desses e demora 1 hora para extrair um veneno.
-
-
 **Ferreiro**: Com experiência um aprendiz se torna um profissional, o Ferreiro agora é capaz de **melhorar equipamento** e **customizar armadura**. Deve estar munido de sua confiante sacola de ferramentas de oficina para trabalhar. Tornar-se um Ferreiro envolve primeiro ser um Ajudante de Oficina.
 
 - **Melhorar Equipamento**: O Ferreiro com acesso a uma oficina, sua sacola de ferramentas e aos materiais de melhoria apropriados é capaz de melhorar equipamento sem precisar pagar para alguém fazê-lo.
 
 - **Customizar Armadura**: O ferreiro com acesso a uma oficina e a sua sacola de ferramentas é capaz de remover um ponto de uma das defesas de uma armadura e adicionar um ponto nas penalidades de [*Proezas*](proezas.md) para adicionar um ponto em qualquer uma das outras defesas dessa armadura.
+
+
+**Herbalista**: O personagem deve possuir a profissão de Curandeiro para poder virar um **Herbalista**. Permite ao jogador criar químicos que beneficiam os atributos de quem os consumir. Eles são o **perfume do vento**, o **elixir da força**, a **carne dos deuses** e o **pito de pango**. Precisa do destilador de herbalista para extrair propriedades das plantas.
+
+- **Perfume do Vento**: O Herbalista deve trabalhar por uma hora para extrair óleos essenciais que quando combinados transformam-se em uma mistura que quando inalada garante vantagem menor em jogadas de **AGILIDADE** por toda uma hora. Pode-se carregar 1 Perfume do Vento por Herbalista no grupo.
+
+- **Elixir da Força**: De uma mistura de folhas fervidas por uma hora o herbalista destila um líquido que concede vantagem menor em jogadas de **FORTALEZA** por uma hora. Pode-se carregar apenas 1 desses por herbalista no grupo.
+
+- **Carne dos Deuses**: O Herbalista passa uma hora preparando uma mistura de fungos e ervas que quando consumidos garante vantagem em jogadas de **MENTE** por uma hora. Pode-se carregar 1 desses por grupo.
+
+- **Pito de Pango**: Durante uma hora o Herbalista mistura ervas secas e as enrola em uma folha especial, confeccionado um cigarro que quando fumado concede vantagem menor em jogadas de **CARISMA** por uma hora. Pode-se carregar 1 desses por Herbalista no grupo.
 
 
 **Ritualista**: O ritualista que possui essa profissão conseguiu aprender novos rituais e refinar suas técnicas. Ele aprende a **fechar corpo**, **esconder acampamento** e usar a **visão verdadeira**. Deve estar munido de seu conjunto de cristais e diapasões para conjurar. Para adquirir esta profissão é necessário ser um estudante dos cristais
