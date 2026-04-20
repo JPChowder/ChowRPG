@@ -1,0 +1,1427 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Wiki do rpg experimental de cartas do Chowder.">
+      
+      
+        <meta name="author" content="João Pedro (Chowder) Trevisan">
+      
+      
+        <link rel="canonical" href="https://chowrpg.io/classes/divino/">
+      
+      
+        <link rel="prev" href="../elemental/">
+      
+      
+        <link rel="next" href="../../progressao/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Divino - RPG de Cartinhas do Chowder</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="dmarpglight" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#o-divino" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="RPG de Cartinhas do Chowder" class="md-header__button md-logo" aria-label="RPG de Cartinhas do Chowder" data-md-component="logo">
+      
+  <img src="../../assets/favicon.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            RPG de Cartinhas do Chowder
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Divino
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="dmarpglight" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Dark Mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Dark Mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="dmarpgdark" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Light Mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Light Mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="RPG de Cartinhas do Chowder" class="md-nav__button md-logo" aria-label="RPG de Cartinhas do Chowder" data-md-component="logo">
+      
+  <img src="../../assets/favicon.png" alt="logo">
+
+    </a>
+    RPG de Cartinhas do Chowder
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introdução
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elementos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elementos do Jogo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Personagens
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Personagens
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Classes
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Classes
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../classes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sobre Personagens e Classes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lutador/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lutador
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../elemental/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elemental
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Divino
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Divino
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#milagres" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Milagres
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../progressao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Progressão
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../proezas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Proezas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../profissoes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Profissões
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../talentos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Talentos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../arsenal/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Arsenal
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Aventurando-se
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Aventurando-se
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../viagem/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Viagem
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../descanso/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Descanso
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../armadilhas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Armadilhas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../correria/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Correria
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../iniciativa/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Combate e Iniciativa
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../estados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Estados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../morte/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Morte
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bases/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bases
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#milagres" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Milagres
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+  <nav class="md-path" aria-label="Navigation" >
+    <ol class="md-path__list">
+      
+        
+  
+  
+    <li class="md-path__item">
+      <a href="../.." class="md-path__link">
+        
+  <span class="md-ellipsis">
+    Introdução
+  </span>
+
+      </a>
+    </li>
+  
+
+      
+      
+        
+  
+  
+    
+    
+      
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../classes/" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Personagens
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../classes/" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Classes
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ol>
+  </nav>
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="o-divino">O Divino</h1>
+<p>O Divino é um guerreiro da fé. Ele é uma pessoa tocada por uma divindade e que dedica sua vida a lutar por aquela divindade seja por meio da espada ou dos milagres que seu deus canaliza através dele. Divinos são treinados no uso de armas e armaduras e usam seu CARISMA para conjurar efeitos milagrosos que dependem do deus que eles servem. </p>
+<p>As divindades deste mundo não tem um só nome, porém são de quatro domínios muito bem definidos e cada um deles com seu oposto. Elas são: Luz, Trevas, Vida e Morte e cada uma dessas divindades se manifesta de uma maneira diferente dando capacidades únicas a seus servos. Fé apenas não garante poderes milagrosos, todo divino é alguém escolhido pelo seu deus e só por isso pode usar de seus poderes. </p>
+<p>Para além dos milagres dados por seu deus, o divino se aventura fazendo o uso de armaduras que podem ser leves ou médias e de armas que podem ser médias ou pesados, mas não são capazes de realizar manobras de combate. Os ataques com as armas usam como bônus o atributo de FORTALEZA. </p>
+<p>A força dos Divinos aumenta muito no nível 6 quando são capazes de realizar mais que uma ação por turno, partindo deste ponto pode-se escolher realizar 2 ataques com arma ou 1 ataque e 1 milagre, porém nunca será possível realizar 2 milagres num mesmo turno. Também é possível realizar uma proeza junto de um ataque ou milagre.</p>
+<p>Ao realizar ataques com suas armas, pode ser que o jogador obtenha crítico e se isso ocorrer este ataque acertará automaticamente e causará o dobro do dano. Já se o jogador obtiver crítico ao realizar um milagre ele dobrará a duração de efeitos impostos por este milagre ou dobrará o dano do milagre se este for um milagre de dano. </p>
+<p>É importante lembrar que a divindade escolhida por um divino jamais poderá ser trocada e um mesmo divino nunca será relacionado com duas divindades. Além disso, para conjurar milagres é necessário possuir um <strong>símbolo divino</strong> pelo qual o efeito será canalizado. Os <strong>símbolos divinos</strong>, quer sejam relacionados com divindades da Luz, Trevas, Vida ou Morte, podem qualquer objeto que seja relacionado ao seu deus. A única regra é que o <strong>símbolo</strong> deve ser empunhado na hora de conjurar um milagre ocupando uma das mãos do milagreiro. Assim sendo, os <strong>símbolos</strong> podem ser estatuetas de pessoas divinas, colares com <strong>símbolos</strong> do deus, objetos análogos a crucifixos, objetos análogos a terços ou qualquer coisa do gênero que o jogador queira criar e usar como <strong>símbolo</strong> de seu deus. </p>
+<h2 id="milagres">Milagres</h2>
+<p>Os milagres dos Divinos tem efeitos e áreas bem definidos, isso vem do fato deles serem um poder de uma divindade conjurado por meio de um servo que não tem controle desse poder, ele é apenas o catalisador da sua manifestação. A seguir temos a lista de milagres de cada divindade</p>
+<p><strong>Milagres da Luz</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Milagre</th>
+<th style="text-align: center;">Custos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Arma de Luz</td>
+<td style="text-align: center;">2 de graça + 2 por ataque extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Raio de Luz</td>
+<td style="text-align: center;">3 de graça</td>
+</tr>
+<tr>
+<td style="text-align: left;">Armadura Radiante</td>
+<td style="text-align: center;">4 de graça + 3 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Flash</td>
+<td style="text-align: center;">5 de graça + 3 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Brilho Hipnotizante</td>
+<td style="text-align: center;">9 de graça + 5 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Onda Luminosa</td>
+<td style="text-align: center;">8 de graça</td>
+</tr>
+<tr>
+<td style="text-align: left;">Raio de Sol</td>
+<td style="text-align: center;">15 de graça</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Milagres das Trevas</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Milagre</th>
+<th style="text-align: center;">Custos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Obscurecer</td>
+<td style="text-align: center;">2 de graça + 2 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Cegueira</td>
+<td style="text-align: center;">3 de graça + 1 por turno + 2 por área</td>
+</tr>
+<tr>
+<td style="text-align: left;">Escuridão</td>
+<td style="text-align: center;">4 de graça + 2 por turno + 2 por área</td>
+</tr>
+<tr>
+<td style="text-align: left;">Forma de Sombra</td>
+<td style="text-align: center;">5 de graça + 1 por metro extra de deslocamento</td>
+</tr>
+<tr>
+<td style="text-align: left;">Sono</td>
+<td style="text-align: center;">8 de graça + 4 por turno + 6 por área</td>
+</tr>
+<tr>
+<td style="text-align: left;">Clone Sombrio</td>
+<td style="text-align: center;">9 de graça + 5 por clone extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Mimica Sombria</td>
+<td style="text-align: center;">12 de graça + 4 por alvo extra</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Milagres da Vida</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Milagre</th>
+<th style="text-align: center;">Custos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Esporos Infecciosos</td>
+<td style="text-align: center;">3 de graça + 2 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Raízes Entrelaçantes</td>
+<td style="text-align: center;">4 de graça + 2 por turno + 3 por área</td>
+</tr>
+<tr>
+<td style="text-align: left;">Cura</td>
+<td style="text-align: center;">5 de graça</td>
+</tr>
+<tr>
+<td style="text-align: left;">Velocidade da Presa</td>
+<td style="text-align: center;">5 de graça + 4 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Ferocidade Predadora</td>
+<td style="text-align: center;">6 de graça + 3 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Forma de Predador</td>
+<td style="text-align: center;">10 de graça + 5 de vida</td>
+</tr>
+<tr>
+<td style="text-align: left;">Rugido Aterrorizante</td>
+<td style="text-align: center;">12 de graça + 5 por turno extra</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Milagres da Morte</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Milagre</th>
+<th style="text-align: center;">Custos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Lentidão</td>
+<td style="text-align: center;">2 de graça + 2 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Mortificar</td>
+<td style="text-align: center;">3 de graça + 2 por alvo extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Amortecer os Sentidos</td>
+<td style="text-align: center;">4 de graça + 2 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Afastar Morto-Vivo</td>
+<td style="text-align: center;">5 de graça + 3 por alvo extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Levantar Morto-Vivo</td>
+<td style="text-align: center;">10 de graça + 5 por alvo extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Transferir Vida</td>
+<td style="text-align: center;">12 de graça</td>
+</tr>
+<tr>
+<td style="text-align: left;">Matar</td>
+<td style="text-align: center;">20 de graça + 10 de vida</td>
+</tr>
+</tbody>
+</table>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:4"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><input id="__tabbed_1_4" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">Milagres da Luz</label><label for="__tabbed_1_2">Milagres das Trevas</label><label for="__tabbed_1_3">Milagres da Vida</label><label for="__tabbed_1_4">Milagres da Morte</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p><strong>Arma da Luz</strong>: Adiciona 1+ CARISMA dano radiante a uma arma até o final do turno de quem a empunha. Precisa tocar a arma para conjurar e não exige rolagem. Pode sacrificar a jogada de movimento para conjurar.</p>
+<p><strong>Raio de Luz</strong>: Um raio que ataca a defesa de ARMADURA de um alvo e causa 3 + CARISMA da dano radiante. Possui 10m de alcance.</p>
+<p><strong>Armadura Radiante</strong>: Faz as vestes de um indivíduo brilharem e adiciona seu atributo de CARISMA na defesa de ARMADURA do alvo até o fim do turno dele. Deve tocar o alvo para conjurar e não exige rolagem. Pode sacrificar a jogada de movimento para conjurar.</p>
+<p><strong>Flash</strong>: Uma liberação repentina e violenta de luz da palma da mão do clérigo que CEGA em um cone de base 3 partindo do conjurador. Ataca a defesa de FORTALEZA.</p>
+<p><strong>Brilho Hipnotizante</strong>: Uma luz hipnotizante brilha na mão do milagreiro e todos num cone de base 3 a frente dele são atacados em sua defesa de VONTADE. Quem for atingido fica ATORDOADO e caminha em direção ao conjurador 1m por turno que esteja sob o efeito.</p>
+<p><strong>Onda Luminosa</strong>: Aponta para um alvo a até 10m de distância, amigo ou inimigo, e faz emanar dele uma onda de energia luminosa que ataca a defesa de FORTALEZA de todos ao redor. Causa CARISMA + 3 de dano radiante.</p>
+<p><strong>Raio de Sol</strong>: Faz com que do céu parta um concentrado raio de luz que atinge uma área de 3x3 com o centro a até 10m do conjurador. Inimigos nesta área são atacados na defesa de FORTALEZA e se atingidos recebem nível + CARISMA dano radiante, caso o ataque falhe os alvos recebem metade do dano. Deve-se estar em um ambiente aberto para conjurar.</p>
+</div>
+<div class="tabbed-block">
+<p><strong>Obscurecer</strong>: Concede vantagem menor em jogadas de furtividade para um alvo a até 5m de distância.</p>
+<p><strong>Cegueira</strong>: Ataca a defesa de FORTALEZA de todos na área e os deixa CEGOS. Area inicial de 1x1, areas aumentam para 2x2, 3x3...</p>
+<p><strong>Escuridão</strong>: Conjura uma nuvem de névoa negra de área inicial 1x2. Cega todos indivíduos dentro, mas você e criaturas alinhadas a divindade da escuridão podem enxergar através da névoa. Areas aumentam para 2x2, 3x3...</p>
+<p><strong>Forma de Sombra</strong>: Torna-se uma nuvem de nevoa negra e desloca-se sem causar ataques de oportunidade e pode atravessar indivíduos e espaços estreitos sem dificuldade. O deslocamento inicial é igual a metade do deslocamento do divino e ele pode ascender até 3m.</p>
+<p><strong>Sono</strong>: Ataca a defesa de VONTADE de todos alvos numa área inicial de 2x2. Inimigos atingidos ficam INCONSCIENTES pela duração do milagre ou até serem atacados. Areas aumentam para 3x3, 4x4...</p>
+<p><strong>Clone Sombrio</strong>: Cria um clone feito de névoa negra que possui 7 + CARISMA em todas as defesas e 1 de vida. O clone copia as vestes, armas e símbolo divino do milagreiro e é controlado durante o turno do conjurador que o criou. O clone pode interagir livremente com o mundo mas não pode ficar a mais de 5m do seu criador. Ele causa de dano baseado na arma que empunha assim como um personagem normal ataque e possui graça igual a graça restante do milagreiro após a conjuração, porém os clones só podem conjurar <strong>Forma de Sombra</strong>. Se o milagreiro original conjurar <strong>Forma de Sombra</strong> ele pode escolher levar um clone ou mais consigo ainda que eles estejam longe. O clone é indistinguível do original salvo pelo fato que não pode falar.</p>
+<p><strong>Mímica Sombria</strong>: Faz com que sua sombra e a de um alvo a até 5m se liguem e ele seja forçado a imitar todas as suas ações por até 3 turnos. Ataca a defesa de VONTADE e alvos extra devem estar a até 5m de algum outro alvo.</p>
+</div>
+<div class="tabbed-block">
+<p><strong>Esporos Infecciosos</strong>: Atira uma bola de esporos num alvo e ataca sua defesa de FORTALEZA. Tem alcance de 10m e causa 1+ CARISMA de dano de veneno no final do turno do inimigo</p>
+<p><strong>Raízes Entrelaçantes</strong>: Área inicial de 1x1. Faz saírem do chão raízes que fazem aqueles que estão inicialmente na área incapazes de se moverem. A área se torna terreno acidentado (passar por ela custa 2m por quadrado) depois da conjuração inicial. Ataca a defesa de FORTALEZA dos alvos quando é conjurado e se o alvo ficou preso ele concede vantagem maior e deve gastar todo um turno apenas para sair da área. Areas aumentam para 2x2, 3x3...</p>
+<p><strong>Cura</strong>: Pode curar nível/2 vezes por descanso longo. Cura instantaneamente um alvo com um toque.</p>
+<p><strong>Velocidade da Presa</strong>: Com um toque concede +4 metros de movimentação para um alvo. Aliados buffados não provocam ataques de oportunidade por movimentação e recebem vantagem menor se correrem antes de atacar um inimigo.</p>
+<p><strong>Ferocidade Predadora</strong>: Com um toque faz com que o alvo use sua fúria para atacar com vantagem menor e somar seu modificador de FORTALEZA no dano causado. Alvos abençoados por este milagre usam sua ação para atacar qualquer um que esteja adjacente a ele ao fim de seu turno ou causa dano a si mesmo (dano da arma ou da magia de dano mais fraca).</p>
+<p><strong>Forma de Predador</strong>: O divino transforma-se num ser parte homem parte besta que é capaz de cortar com suas garras e perfurar com seus dentes, o dano destes ataques é igual nível/2 + CARISMA + FORTALEZA e ele recebe +1 em FORTALEZA e AGILIDADE, nunca superando o máximo de 3 em algum desses atributos. Enquanto transformado o divino é incapaz de realizar milagres ou recuperar <strong>graça</strong>, mas pode usar sua arma. Este milagre só pode ser conjurado sobre si mesmo e o divino gasta uma ação para voltar ao normal, além de recuperar <strong>graça</strong> apenas um turno após ter voltado a sua forma normal. Quando o divino está transformado ele só é capaz de conjurar <strong>Velocidade da Presa</strong> e <strong>Ferocidade Predadora</strong> sobre sí mesmo e o milagre <strong>Rugido Aterrorizante</strong> com custo de 10 pontos de <strong>graça</strong>.</p>
+<p><strong>Rugido Aterrorizante</strong>: Afeta todos num raio de 3m, ataca a VONTADE. Afetados fogem de você gastando metade da sua movimentação e lhe concedem vantagem menor.</p>
+</div>
+<div class="tabbed-block">
+<p><strong>Lentidão</strong>: Afeta os músculos das pernas do alvo causando LENTIDÃO. Ataca a defesa de FORTALEZA. 10m de alcance.</p>
+<p><strong>Mortificar</strong>: Necrosa um alvo a até 10m causando CARISMA + 3 de dano necrótico. Ataca a defesa de FORTALEZA.</p>
+<p><strong>Amortecer os Sentidos</strong>: Prejudica os sentidos de um alvo a até 10m deixando-o TONTO. 10m de alcance, mira a defesa de FORTALEZA.</p>
+<p><strong>Afastar Morto-Vivo</strong>: Ataca a defesa de VONTADE de um morto-vivo causando TERROR sobre ele.</p>
+<p><strong>Levantar Morto-Vivo</strong>: Faz com que um ser recém caído se levante para lutar por você. Ele possui 7 + CARISMA em todas as defesas e ataca com CARISMA de bônus. Mortos-vivos criados dessa maneira não podem ser curados e a vida com a qual levantam é igual ao CARSIMA + nível/2 do conjurador. Só se pode controlar uma quantidade de mortos-vivos igual a metade de seu nível. Isso é visto como um ato de extrema crueldade por qualquer um fora da sua religião. </p>
+<p><strong>Transferir Vida</strong>: Ataca a defesa de FORTALEZA de um alvo a até 10m causando dano necrótico igual ao nível do milagreiro e curando imediatamente um alvo próximo.</p>
+<p><strong>Matar</strong>: Usa uma palavra de poder para assassinar um alvo. Você recebe todas as penalidades de quase morte imediatamente. Só se pode realizar este milagre se não há nenhuma penalidade imposta sobre o personagem.</p>
+</div>
+</div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      2025, DMChowder
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.path", "navigation.top", "navigation.indexes"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>

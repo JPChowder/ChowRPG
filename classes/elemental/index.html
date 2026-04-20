@@ -1,0 +1,1471 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+        <meta name="description" content="Wiki do rpg experimental de cartas do Chowder.">
+      
+      
+        <meta name="author" content="João Pedro (Chowder) Trevisan">
+      
+      
+        <link rel="canonical" href="https://chowrpg.io/classes/elemental/">
+      
+      
+        <link rel="prev" href="../lutador/">
+      
+      
+        <link rel="next" href="../divino/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../../assets/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>Elemental - RPG de Cartinhas do Chowder</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="dmarpglight" data-md-color-primary="custom" data-md-color-accent="custom">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#o-elemental" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="RPG de Cartinhas do Chowder" class="md-header__button md-logo" aria-label="RPG de Cartinhas do Chowder" data-md-component="logo">
+      
+  <img src="../../assets/favicon.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            RPG de Cartinhas do Chowder
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Elemental
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="dmarpglight" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Dark Mode"  type="radio" name="__palette" id="__palette_0">
+    
+      <label class="md-header__button md-icon" title="Dark Mode" for="__palette_1" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12z"/></svg>
+      </label>
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="dmarpgdark" data-md-color-primary="custom" data-md-color-accent="custom"  aria-label="Light Mode"  type="radio" name="__palette" id="__palette_1">
+    
+      <label class="md-header__button md-icon" title="Light Mode" for="__palette_0" hidden>
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="m17.75 4.09-2.53 1.94.91 3.06-2.63-1.81-2.63 1.81.91-3.06-2.53-1.94L12.44 4l1.06-3 1.06 3zm3.5 6.91-1.64 1.25.59 1.98-1.7-1.17-1.7 1.17.59-1.98L15.75 11l2.06-.05L18.5 9l.69 1.95zm-2.28 4.95c.83-.08 1.72 1.1 1.19 1.85-.32.45-.66.87-1.08 1.27C15.17 23 8.84 23 4.94 19.07c-3.91-3.9-3.91-10.24 0-14.14.4-.4.82-.76 1.27-1.08.75-.53 1.93.36 1.85 1.19-.27 2.86.69 5.83 2.89 8.02a9.96 9.96 0 0 0 8.02 2.89m-1.64 2.02a12.08 12.08 0 0 1-7.8-3.47c-2.17-2.19-3.33-5-3.49-7.82-2.81 3.14-2.7 7.96.31 10.98 3.02 3.01 7.84 3.12 10.98.31"/></svg>
+      </label>
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="Search">
+        
+        <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            Initializing search
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="RPG de Cartinhas do Chowder" class="md-nav__button md-logo" aria-label="RPG de Cartinhas do Chowder" data-md-component="logo">
+      
+  <img src="../../assets/favicon.png" alt="logo">
+
+    </a>
+    RPG de Cartinhas do Chowder
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Introdução
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../elementos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elementos do Jogo
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3" id="__nav_3_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Personagens
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_3_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Personagens
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_3_1" checked>
+        
+          
+          <label class="md-nav__link" for="__nav_3_1" id="__nav_3_1_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Classes
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="2" aria-labelledby="__nav_3_1_label" aria-expanded="true">
+          <label class="md-nav__title" for="__nav_3_1">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Classes
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../classes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Sobre Personagens e Classes
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../lutador/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Lutador
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elemental
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Elemental
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#magias" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Magias
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#focos-arcanos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Focos Arcanos
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../divino/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Divino
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../progressao/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Progressão
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../proezas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Proezas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../profissoes/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Profissões
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../talentos/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Talentos
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../arsenal/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Arsenal
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+        
+      
+    
+    
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_4" >
+        
+          
+          <label class="md-nav__link" for="__nav_4" id="__nav_4_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Aventurando-se
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_4_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_4">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    Aventurando-se
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../viagem/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Viagem
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../descanso/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Descanso
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../armadilhas/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Armadilhas
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../correria/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Correria
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../iniciativa/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Combate e Iniciativa
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../estados/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Estados
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../morte/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Morte
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../../bases/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Bases
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#magias" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Magias
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#focos-arcanos" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        Focos Arcanos
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+                
+
+
+
+  
+
+
+  <nav class="md-path" aria-label="Navigation" >
+    <ol class="md-path__list">
+      
+        
+  
+  
+    <li class="md-path__item">
+      <a href="../.." class="md-path__link">
+        
+  <span class="md-ellipsis">
+    Introdução
+  </span>
+
+      </a>
+    </li>
+  
+
+      
+      
+        
+  
+  
+    
+    
+      
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../classes/" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Personagens
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+    
+  
+
+      
+        
+  
+  
+    
+    
+      <li class="md-path__item">
+        <a href="../classes/" class="md-path__link">
+          
+  <span class="md-ellipsis">
+    Classes
+  </span>
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ol>
+  </nav>
+
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="o-elemental">O Elemental</h1>
+<p>O Elemental é um indivíduo que nasceu com inexplicáveis habilidades. Ele possui uma afinidade natural com um de quatro elementos: Fogo, terra, ar ou gelo. É através da manipulação do elemento que o escolheu no nascimento que o Elemental ganha sua vida de explorador ou é por causa dele que o Elemental vive com um segredo que tenta esconder toda a vida.</p>
+<p>Qualquer que seja seu elemento, os elementais usam sua <strong>mana</strong> para causar efeitos em seus opositores e cada um desses efeitos pode ser alterado para se manifestar em áreas moldadas pelo controlador, pode ser intensificado para causar mais estrago ou até alterado para impor penalidades por mais tempo. Os elementais, além de <strong>mana</strong>, precisam de um <strong>foco arcano</strong> pelo qual conjurarão, estes focos são objetos relacionados a algum dos elementos e serão explicados adiante.</p>
+<p>Dentro do jogo diferentes <strong>talentos</strong> podem mudar perfil de um Elemental. Eles podem permiti-lo usar armas e armaduras, podem focá-lo em causar efeitos em inimigos ou em aliados e podem aumentar a efetividade de suas magias que miram alvos únicos ou que miram grupos.</p>
+<p>O ponto de progressão onde os elementais tem um pico de poder é o nível 6, partindo deste nível é possível conjurar 2 magias por turno e se o Elemental possuir o talento de <em>Conjurador Combatente</em> ele pode realizar 1 ataque armado e conjurar uma magia. Ações simples também podem ser feitas em pares e se uma proeza for realizada ela não pode vir juto de uma outra proeza, apenas de um ataque com arma ou conjuração.</p>
+<p>Ao fazer uma jogada de conjuração pode ser que o jogador obtenha um acerto crítico. Magias críticas acertam automaticamente e se a carta usada for par a magia terá o dobro do dano, se for ímpar a magia terá o dobro da duração. Se a magia apenas causar dano um crítico dobra este dano e se ela apenas causar um efeito sua duração é dobrada.</p>
+<p>Habilidades mágicas podem ser usada foras de combate de acordo com um acordo entre jogador e mestre para queimar regeneração máxima até o próximo descanso longo. Imagine que um Elemental do ar queira usar suas habilidades para planar sobre um precipício e chegar ao outro lado, ele gastará x pontos de sua regeneração de <strong>mana</strong>, efetivamente reduzindo ela em x pontos até seu próximo descanso longo. Uma coisa trivial pode não custar nada, uma ação fácil pode custar até 2 de regeneração, uma ação média até 4 e uma ação difícil até 6. Descansos curtos não afetam regeneração perdida desta forma.</p>
+<h2 id="magias">Magias</h2>
+<p>Os deferentes elementos trazem estilos de jogo bastante distintos para cada tipo de Elemental.</p>
+<p>Elementais do fogo são especializados em causar dano. Se você deseja ser um conjurador combatente que vai direto ao ponto (da morte) escolha o Elemental do fogo. </p>
+<p>Elementais da terra são pau pra toda obra. Não só eles são capazes de causar todo tipo de dano físico eles também podem impor uma série de efeitos nos inimigos. </p>
+<p>Elementais do ar são muito peculiares pois diferente dos demais não possuem nenhuma habilidade que cause dano imediato, porém eles podem causar uma série de efeitos que seus pares não conseguem. </p>
+<p>Elementais do gelo são muito versáteis podendo causar não apenas dano físico mas também dano mágico. Sua magia definidora é a <strong>orbe do inverno</strong>, uma concentração de seus poderes que os permite dosar seu poder ou atacar com toda a força de uma avalanche. </p>
+<p><strong>Magias dos Elementais do fogo</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Magia</th>
+<th style="text-align: center;">Custos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Tiro de fogo</td>
+<td style="text-align: center;">1 de mana</td>
+</tr>
+<tr>
+<td style="text-align: left;">Incendiar Indivíduo</td>
+<td style="text-align: center;">3 de mana + 2 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Incendiar área</td>
+<td style="text-align: center;">2 de mana + 2 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Incendiar arma</td>
+<td style="text-align: center;">2 de mana + 2 por turno extra</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Magias dos Elementais da terra</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Magia</th>
+<th style="text-align: center;">Custos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Revestir em Pedras</td>
+<td style="text-align: center;">2 de mana + 4 por nível extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Parede de Terra</td>
+<td style="text-align: center;">3 de mana</td>
+</tr>
+<tr>
+<td style="text-align: left;">Terreno Acidentado</td>
+<td style="text-align: center;">3 de mana + 2 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Pedrada</td>
+<td style="text-align: center;">5 de mana</td>
+</tr>
+<tr>
+<td style="text-align: left;">Terremoto</td>
+<td style="text-align: center;">7 de mana</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Magias dos Elementais do Ar</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Magia</th>
+<th style="text-align: center;">Custos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Empurrão</td>
+<td style="text-align: center;">1 de mana + 2 por metro extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Vendaval Desnorteador</td>
+<td style="text-align: center;">3 de mana + 2 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Tufão Desestabilizante</td>
+<td style="text-align: center;">4 de mana</td>
+</tr>
+<tr>
+<td style="text-align: left;">Vento Cortante</td>
+<td style="text-align: center;">4 de mana + 3 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Sufocamento</td>
+<td style="text-align: center;">5 de mana + 4 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Levitar Alvo</td>
+<td style="text-align: center;">6 de mana + 5 por turno extra</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Magias dos Elementais de Gelo</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Magia</th>
+<th style="text-align: center;">Custos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Queimadura de Frio</td>
+<td style="text-align: center;">2 de mana</td>
+</tr>
+<tr>
+<td style="text-align: left;">Parede de Gelo</td>
+<td style="text-align: center;">3 de mana</td>
+</tr>
+<tr>
+<td style="text-align: left;">Terreno Deslizante</td>
+<td style="text-align: center;">5 de mana + 4 por turno extra</td>
+</tr>
+<tr>
+<td style="text-align: left;">Projétil de Gelo</td>
+<td style="text-align: center;">7 de mana</td>
+</tr>
+<tr>
+<td style="text-align: left;">Congelamento</td>
+<td style="text-align: center;">9 de mana + 4 por turno extra</td>
+</tr>
+</tbody>
+</table>
+<p>Todas as magias aqui expostas são uma gama de efeitos que são possíveis de se causar com cada elemento, os Elementais podem ainda escolher (ou não) uma área sobre a qual estes efeitos vão se desenrolar. Além disso, para que uma magia cause mais dano pode-se usar um modificador para isso, este modificador pode ser usado múltiplas vezes se houver mana</p>
+<p><strong>Modificadores de Magias</strong></p>
+<table>
+<thead>
+<tr>
+<th style="text-align: left;">Modificador</th>
+<th style="text-align: center;">Custos</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align: left;">Área Quadrada</td>
+<td style="text-align: center;">3 de mana + 3 por metro de lado</td>
+</tr>
+<tr>
+<td style="text-align: left;">Área Cônica</td>
+<td style="text-align: center;">4 de mana + 3 por 2 metros de base</td>
+</tr>
+<tr>
+<td style="text-align: left;">Área Linear</td>
+<td style="text-align: center;">4 de mana + 2 por metro de comprimento</td>
+</tr>
+<tr>
+<td style="text-align: left;">Aumentar Dano</td>
+<td style="text-align: center;">3 de mana</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Efeitos de Magias</strong></p>
+<div class="tabbed-set tabbed-alternate" data-tabs="1:5"><input checked="checked" id="__tabbed_1_1" name="__tabbed_1" type="radio" /><input id="__tabbed_1_2" name="__tabbed_1" type="radio" /><input id="__tabbed_1_3" name="__tabbed_1" type="radio" /><input id="__tabbed_1_4" name="__tabbed_1" type="radio" /><input id="__tabbed_1_5" name="__tabbed_1" type="radio" /><div class="tabbed-labels"><label for="__tabbed_1_1">Magias de Fogo</label><label for="__tabbed_1_2">Magias de Terra</label><label for="__tabbed_1_3">Magias de Ar</label><label for="__tabbed_1_4">Magias de Gelo</label><label for="__tabbed_1_5">Modificadores</label></div>
+<div class="tabbed-content">
+<div class="tabbed-block">
+<p><strong>Tiro de Fogo</strong>: Um projétil flamejante que causa 4 de dano de fogo. 10m de alcance, mira a defesa de armadura.</p>
+<p><strong>Incendiar Indivíduo</strong>: Ateia fogo em um indivíduo a até 10m atacando sua defesa de FORTALEZA. Causa 3 de dano flamejante por turno. Inicialmente dura 2 turnos</p>
+<p><strong>Incendiar Área</strong>: Faz o chão queimar e aqueles que atravessarem a área (aliados inclusive) são atacados em sua defesa de AGILIDADE recebendo 2 de dano flamejante caso atingidos. Área inicial de 1x1.</p>
+<p><strong>Incendiar Arma</strong>: Toca uma arma e a faz arder até o fim do turno daquele que a empunha. Adiciona 2 de dano flamejante aos ataques da arma por um turno.</p>
+</div>
+<div class="tabbed-block">
+<p><strong>Revestir em Pedras</strong>: O Elemental se cobre de minerais retirados do chão e assim ganha defesas e uma fonte de dano. Além disso, quando revestido em pedras o elemental ganha acesso às manobras de Lutador <strong>Pose Defensiva</strong>, <strong>Pancada Deslocante</strong> e <strong>Pancada Atordoante</strong> como se tivesse uma <em>arma contundente grande</em>. As manobras de combate tem o mesmo custo de fôlego que para os lutadores, porém usando mana. Os níveis de revestimento são descritos a seguir:</p>
+<ul>
+<li>
+<p><em>Nível 1</em> - Reveste seus braços com pedras e se torna capaz de causar dano contundente. Recebe +1 de armadura e é capaz de causar 4 de dano contundente.</p>
+</li>
+<li>
+<p><em>Nível 2</em> - O revestimento do Elemental é melhorado e agora suas pernas também são revestidas, recebe + 1 de armadura e +1 de resistência a cortes e perfurações. Causa 5 de dano contundente com um golpe.</p>
+</li>
+<li>
+<p><em>Nível 3</em> - Neste nível o Elemental está completamente coberto por pedras. Recebe +1 de armadura e +1 de resistência a cortes, perfurações e contusões. Ele causa agora 6 de dano por ataque e aumenta sua FORTALEZA em 1. Ele perde 1 metro de movimentação. Além disso ele pode escolher um tipo de dano físico secundário para causar com um de seus braços, se for escolhido dano cortante o elemental ganha acesso à manobra <strong>Corte Sangrento</strong>, se for escolhido dano perfurante ganha a manobra <strong>Estocada Firme</strong>. </p>
+</li>
+<li>
+<p><em>Nível 4</em> - Agora o Elemental se torna um golem de pedra, ele alcança até 2,5m de altura. Seu dano (primário e secundário) é igual a 8 com um golpe e suas resistências a corte, perfuração e contusão sobem em +1 assim como sua armadura e FORTALEZA. Com 4 níveis de revestimento o Elemental só consegue conjurar <strong>Pedrada</strong> e <strong>Terremoto</strong>, que são conjurados com vantagem menor e com 1 instância do modificador de aumento de dano. Perde 1 quadrado/metro de movimento.</p>
+</li>
+</ul>
+<p>O máximo nível dessa magia corresponde ao nível que o Elemental é capaz de conjurar com uma única ação.</p>
+<p>No nível 1 o elemental recebe penalidade em proezas baseadas em agilidade e na proeza de atletismo como se vestisse uma armadura leve, no nível 2 a penalidade é de armadura média e no 3 de armadura pesada. No último nível é impossível realizar proezas baseadas em agilidade ou proezas de atletismo.</p>
+<p>Caso tenha gasto camadas com a <strong>Pedrada</strong> pode repor esta camada usando 4 de mana. Se o Elemental chegar a 0 de vida enquanto ainda possui níveis de revestimento ele perde todos eles e cai deitado sobre uma pilha de pedras. Esta magia não pode receber modificadores de área</p>
+<p><strong>Parede de Terra</strong>: Ergue uma parede do material do chão de até 1,5m naquela área. Tem área inicial de 1x1 e a altura da parede pode ser dobrada gastando o dobro da mana na conjuração inicial.</p>
+<p><strong>Terreno Acidentado</strong>: Magia que cria uma área de pedregulhos pontiagudos que impõe LENTIDÃO a todos que estejam dentro dela. Tem área inicial de 2x2.</p>
+<p><strong>Pedrada</strong>: O elemental deve ter conjurado pelo menos um nível de <strong>Revestir em Pedras</strong> para conjurar esta magia. Gasta uma camada de revestimento para atirar um projétil em um inimigo. Tem como alvo a Defesa de AGILIDADE, alcance de 10m e causa 4 de dano contundente. Se conjurada a partir do 3º nível de revestimento, o elemental pode escolher causar seu dano secundário.</p>
+<p><strong>Terremoto</strong>: O elemental realiza um pisão no chão que gera um ataque modificado pela FORTALEZA do Elemental que ataca a defesa de FORTALEZA, inimigos atingidos sofrem uma QUEDA e recebem 4 de dano contundente. Tem alcance de 10m e área inicial de 1x1.</p>
+</div>
+<div class="tabbed-block">
+<p><strong>Empurrão</strong>: Ataca a defesa de FORTALEZA de um alvo e faz com que uma forte corrente de vento o empurre em qualquer direção. Se o alvo colidir com terreno recebe 3 + MENTE de dano contundente e se ele colidir com outro indivíduo ambos recebem 3 + MENTE de dano contundente. Possui 10m de alcance e se for conjurado em uma área cônica ou linear move todos os alvos na mesma direção, já se for conjurado em áreas quadradas pode mover todos em uma mesma direção, unir todos no centro ou jogar todos para longe do centro da área.</p>
+<p><strong>Vendaval Desnorteador</strong>: Faz com que um alvo que sofre um ataque em sua defesa de FORTALEZA gire no próprio eixo e fique TONTO. 10m de alcance.</p>
+<p><strong>Tufão Desestabilizante</strong>: Faz com que um tufão que vem de baixo para cima derrube alguém com as pernas para o alto. Mira a defesa de AGILIDADE, tem 10m de alcance e causa 3 de dano contundente pela queda.</p>
+<p><strong>Vento Cortante</strong>: O Elemental do Ar pode mirar um alvo a 10m de si e atacar sua defesa de FORTALEZA para abrir fissuras em sua pele e fazê-lo sangrar recebendo 2 de dano de sangramento ao fim do seu turno.</p>
+<p><strong>Sufocamento</strong>: Impede que um alvo a 10m de si respire. Cada turno que o efeito estiver ativo o alvo recebe um ataque em sua defesa de FORTALEZA e se for atingido ele fica SUFOCADO. Depois de 3 turnos sob o efeito o(s) alvo(s) fica(m) DERRUBADO(S) e INCONSCIENTE(S) por 2 turnos.</p>
+<p><strong>Levitar Alvo</strong>: Ataca a defesa de AGILIDADE de um alvo a até 10m que se for incapaz de resistir a ventania será erguido 2m no ar e não poderá andar. Além disso o alvo age com desvantagem menor e pode ser movido até 5m por turno. Múltiplos alvos devem ser movidos todos na mesma direção.</p>
+</div>
+<div class="tabbed-block">
+<p><strong>Queimadura de Frio</strong>: Atira uma esfera de névoa congelante a até 10m de distância, ela mira a Defesa de Armadura de um alvo, causa 3 de dano congelante e deixa o alvo LENTO por um turno. Acertar um alvo que já está LENTO o deixa ALEIJADO, acertar um alvo ALEIJADO o deixa ALEIJADO + TONTO, acertar um alvo neste último estado o deixa CONGELADO.</p>
+<p><strong>Parede de Gelo</strong>: Ergue uma parede congelada de até 1,5m a até 5m de distância. Tem área inicial de 1x1 e a altura da parede pode ser dobrada gastando o dobro da mana na conjuração inicial.</p>
+<p><strong>Terreno Deslizante</strong>: Cobre o chão com uma fina camada de gelo e aqueles que atravessarem a área (aliados inclusive) são atacados em sua defesa de AGILIDADE e se forem atingidos ficam DERRUBADOS deslizam até o fim da área congelada. Área inicial de 1x1.</p>
+<p><strong>Projétil de Gelo</strong>: O elemental cria uma lança de gelo e a atira em direção a um alvo a até 15m, mirando sua Defesa de AGILIDADE. Causa 2 de dano perfurante e 2 de dano congelante. Usar o modificador de aumento de dano com essa magia aumenta ambos os tipos de dano.</p>
+<p><strong>Congelamento</strong>: Resfria um corpo a até 10m de si que se for atingido por um ataque em sua defesa de FORTALEZA enrijece e congela ficando ATORDOADO e recebendo vulnerabilidade 2 a dano contundente.</p>
+</div>
+<div class="tabbed-block">
+<p><strong>Área Quadrada</strong>: Faz com que a magia se manifeste em uma área de 1x1 que pode ser aumentada para 2x2, 3x3 e assim por diante enquanto houver mana.</p>
+<p><strong>Área Cônica</strong>: Manifesta a magia numa área que tem inicio no conjurador e forma um cone com base de 3m que pode ser aumentado para 5m, 7m ou 9m.</p>
+<p><strong>Área Linear</strong>: Afeta a magia para que se manifeste inicialmente numa área de 1x2 que pode se tornar uma área de 1x3, 1x4, 1x5 e assim por diante enquanto houver mana para aumentar o efeito.</p>
+<p><strong>Aumentar Dano</strong>: Intensifica a magia para que cause +2 de dano do mesmo tipo que a magia caso acerte.</p>
+</div>
+</div>
+</div>
+<h2 id="focos-arcanos">Focos Arcanos</h2>
+<p><strong>Focos arcanos</strong> são objetos que ajudam os Elementais a refinarem seu controle sobre seus poderes, através deles as conjurações conseguem ser mais facilmente realizadas. Os elementais podem conjurar sem focos arcanos, mas sofrem desvantagem maior ao fazê-lo. Além disso, os focos arcanos podem ser melhorados para garantir bônus nas jogadas de conjuração ou mesmo serem objetos mágicos com seus efeitos próprios.</p>
+<p>Focos arcanos de elementais do <strong>fogo</strong> são objetos relacionados com o gerar ou manipular o <strong>fogo</strong>. Eles podem ser cachimbos, turíbulos, cajados com as pontas flamejantes, ferros de marcação que ficam incandescentes ao conjurar, tochas, castiçais com velas acesas ou qualquer coisa do gênero.</p>
+<p>Os focos arcanos relacionados à <strong>terra</strong> são geralmente relacionados com minérios como artefatos que misturam vários metais ou mesmo gemas, itens que façam alusão a ferramentas como picaretas ou pás e até mesmo pulseiras e tornozeleiras com contas de pedra, metal ou gemas.</p>
+<p>Os objetos utilizados para dobrar o <strong>ar</strong> podem ser instrumentos de sopro como flautas ou ocarinas, podem ser leques, foles ou mesmo artefatos adornados com penas coloridas de aves. </p>
+<p>Focos arcanos de <strong>gelo</strong> são artefatos adornados com cristais de <strong>gelo</strong> e enquanto o Elemental manter o foto junto de si o <strong>gelo</strong> não derreterá. Portanto tudo que pode ser adornado com cristais como colares, tiaras, cajados, cetros e afins podem ser usados como focos arcanos para controladores do <strong>gelo</strong>. </p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  Back to top
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      2025, DMChowder
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "../..", "features": ["navigation.path", "navigation.top", "navigation.indexes"], "search": "../../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+    
+  </body>
+</html>
