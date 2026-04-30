@@ -80,7 +80,7 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 
 **Escudeiro**: O escudeiro é um indivíduo que teve instrução militar moderada, ele foi treinado para ter prontidão e resistência, coisas essenciais para a vida numa campanha. Suas habilidades são **combatente de prontidão**, **sentinela** e **marcha firme**.
 
-- **Combatente de Prontidão**: Uma vez por combate pode escolher jogar iniciativa com vantagem menor. Você gasta este uso mesmo que a vantagem não tenha sido necessária.
+- **Combatente de Prontidão**: Joga iniciativa com vantagem menor. Você gasta este uso mesmo que a vantagem não tenha sido necessária.
 
 - **Sentinela**: Sempre que guardando um acampamento o escudeiro possui vantagem menor em jogadas de *Percepção*.
 

@@ -82,8 +82,8 @@ O que afeta a capacidade de um Lutador de realizar manobras de combate é a arma
 
     **Pancada Atordoante**: Golpe que mira a cabeça do alvo com mais jeito que força. Acerto causa 2 de dano contundente a menos que um ataque normal e torna o alvo TONTO por um turno. Mira a defesa de FORTALEZA e a arma deve ser capaz de causar dano contundente para realizar esta manobra. Escudos podem ser usados para realizar esta manobra.  
     *Armas Médias*: +3 de fôlego por turno extra de duração.  
-    *Armas Grandes*: +2 de fôlego por turno extra de duração.
-    *Escudos*: +3 de fôlego por turno extra de duração.
+    *Armas Grandes*: +2 de fôlego por turno extra de duração.  
+    *Escudos*: +3 de fôlego por turno extra de duração.  
 
     **Estocada Firme**: Ataque feito avançando em direção ao alvo, deve andar pelo menos um metro em direção ao alvo antes de realizar esta manobra. Escolhe mirar a Defesa de Armadura ou de FORTALEZA, se mirando a Defesa de Armadura um acerto causa +2 de dano, se mirando a Defesa de FORTALEZA um acerto causa -2 de dano e move o alvo 1 quadrado para trás. A arma deve ser de combate corpo-a-corpo média ou grande e capaz de causar dano perfurante. O máximo que se pode mover um alvo é igual ao seu atributo de FORTALEZA.  
     *Armas Médias e Grandes*: +3 de fôlego por metro extra de deslocamento.

@@ -18,7 +18,7 @@ Pode haver um acordo entre jogadores e mestre para determinar um objetivo que da
 
 Em **níveis múltiplos de 3** o jogador receberá um novo talento.
 
-Em **níveis múltiplos de 4**, o seu personagem recebe +1 em algum **atributo** de sua escolha (o valor máximo de atributo é 3). 
+Em **níveis múltiplos de 4**, o seu personagem recebe +1 em algum **atributo** de sua escolha (o valor máximo de atributo é 3) e uma **Profissão**.
 
 Adicionalmente aos bônus de progressão comum, **[lutadores](classes/lutador.md) serão capazes de realizar um ataque, manobra ou proeza extra por turno *a partir do nível 5***. **[Elementais](classes/elemental.md) ganham uma conjuração a mais *no nível 6***. Por fim, os **[divinos](classes/divino.md) são capazes de realizar um ataque extra *quando chegam ao nível 7***.
 
