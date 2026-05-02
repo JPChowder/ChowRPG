@@ -6,20 +6,20 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 
 **Tabela de Profissões**
 
-| Profissões Iniciais | Profissões Melhoradas | Profissões Perfeitas |
-| :------------------ | :-------------------: | -------------------: |
-| Ajudante de Oficina | Ferreiro | Mestre da Forja |
-| Estudante do Arcano | Arcanista | Mestre Arcanista |
-| Bardo | - | - |
-| Armadilheiro | Caçador | Mestre dos Animais |
-| Cozinheiro | - | - |
-| Curandeiro | Herbalista | Mestre da Flora |
-| Nobre | - | - |
-| Engenhoqueiro | - | - |
-| Estudante dos Cristais | Ritualista | Mestre Ritualista |
-| Escudeiro | Soldado | - |
-| Trabalhador | - | - |
-| Trombadinha | - | - |
+| Profissões Iniciais    | Profissões Melhoradas   | Profissões Perfeitas |
+| :--------------------- | :---------------------: | -------------------: |
+| Ajudante de Oficina    | Ferreiro                | Mestre da Forja      |
+| Estudante do Arcano    | Arcanista               | Mestre Arcanista     |
+| Bardo                  | -                       | -                    |
+| Armadilheiro           | Caçador                 | Mestre dos Animais   |
+| Cozinheiro             | -                       | -                    |
+| Curandeiro             | Herbalista              | Mestre da Flora      |
+| Nobre                  | -                       | -                    |
+| Engenhoqueiro          | -                       | -                    |
+| Estudante dos Cristais | Conhecedor dos Cristais | Mestre dos Cristais  |
+| Escudeiro              | Soldado                 | -                    |
+| Trabalhador            | -                       | -                    |
+| Trombadinha            | -                       | -                    |
 
 ## Habilidades das Profissões
 
@@ -44,68 +44,66 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 
 **Bardo**: O bardo é aquele que dedica sua vida às artes de performance e à contação de histórias, folclore e mitos. Todo bardo pode usar um instrumento musical como foco arcano. O bardo também é capaz de **entreter descanso**, **distrair multidão** e **apresentar por dinheiro**. Necessita de um instrumento musical ou objeto que use em suas apresentações, ambos custam 1pp.
 
-- **Entreter Descanso**: Quando o bardo conta uma história, toca uma música ou realiza uma pequena apresentação de qualquer tipo ele faz com que um descanso curto dure 30 minutos ao invés de uma hora, concedendo todos os bônus de sempre. Num descanso longo o apresentar do bardo faz com que todos recebam suas curas em 2 horas ao invés de pela manhã.
+- **Entreter Descanso**: Quando o bardo conta uma história, toca uma música ou realiza uma pequena apresentação de qualquer tipo ele faz com que um descanso curto dure 30 minutos ao invés de uma hora, concedendo todos os bônus de sempre. Antecedendo um descanso longo o apresentar do bardo faz com que todos aliviem suas tensões de forma que aqueles que tiverem um descanso parcial ainda se curam em 2.
 
 - **Distrair Multidão**: O bardo pode quando necessário chamar a atenção de uma massa para si, todos que já não estavam alerta realizam jogadas de *Percepção* com desvantagem e prestam atenção no bardo por até 10 minutos. Pode fazer isso uma vez por dia.
 
-- **Apresentar Por Dinheiro**: Pode realizar uma apresentação pública e cada uma hora de apresentação musical, teatral ou de contação recebe 1 carta x 10 moedas de cobre. Pode apresentar 4 horas por dia e as cartas que determinarão quanto dinheiro foi conseguido devem ser baixadas às cegas do monte do jogador.
+- **Apresentar Por Dinheiro**: Pode realizar uma apresentação pública e cada uma hora de apresentação musical, teatral ou de contação recebe 1 carta x 5 moedas de cobre. Pode apresentar 4 horas por dia e as cartas que determinarão quanto dinheiro foi conseguido devem ser baixadas às cegas do monte do jogador.
 
 
 **Cozinheiro**: O cozinheiro é aquele que dedicou parte da sua vida ao preparo de alimentos. Seja trabalhando numa cantina de trabalhadores ou numa cozinha de nobres você aprendeu a preparar refeições das mais diferentes formas. Suas habilidades são **água no feijão**, **turbinar o rango** e também **refeição saudável**. Requer um kit de cozinha portátil para preparar e temperar suas marmitas e o kit custa 1pp.
 
-- **Água no Feijão**: Pode gastar uma hora para transformar uma porção de comida em duas. Pode preparar duas unidades de comida por vez.
+- **Água no Feijão**: Quando o cozinheiro prepara a comida do grupo ele pode transformar uma única porção de comida em 2, efetivamente fazendo com que 1 pessoa a menos do grupo tenha que gastar uma ração de viagem.
 
 - **Turbinar o Rango**: O cozinheiro pode pegar uma porção de comida que esteja estragada e transformá-la em comestível. Ele pode fazer isso com 3 porções por vez e leva uma hora para preparar a boia.
 
-- **Refeição Saudável**: Todos que comerem uma refeição preparada por uma habilidade do cozinheiro antes de dormir recebem 2 de cura ao longo de um descanso longo.
+- **Refeição Saudável**: O cozinheiro sabe escolher e prepara os ingredientes de uma refeição nutritiva e balanceada. Aqueles que comem algo preparado pelo cozinheiro, ainda que não descansem completamente, se curam em 2 em um descanso parcial.
 
 
-**Curandeiro**: O Curandeiro é um conhecedor das plantas e fungos que existem na natureza. Isso vai muito além de saber quais delas são comestíveis, um curandeiro é capaz de extrair propriedades úteis, salvadoras e até mortais da flora de qualquer lugar. Pode criar **bálsamo de cura**, **antídoto** e **veneno**. Deve possuir um destilador de **Herbalista** que custa 1pp.
+**Curandeiro**: O Curandeiro é um conhecedor das plantas e fungos que existem na natureza. Isso vai muito além de saber quais delas são comestíveis, um curandeiro é capaz de extrair propriedades úteis, salvadoras e até mortais da flora de qualquer lugar. Pode criar **bálsamo de cura** e **veneno**. Deve possuir um kit de aparatos de boticário que custa 1pp.
 
-- **Bálsamo de Cura**: Ao longo de uma hora conduz um processo que resulta em um bálsamo que cura uma pessoa ao longo de um descanso curto. Só um bálsamo funciona em cada personagem por vez. Cada grupo pode carregar 5 desses por **Herbalista** no grupo.
+- **Bálsamo de Cura**: Um remédio que cura uma pessoa ao longo de um descanso curto. Um bálsamo cura um personagem em 5 pontos de vida ao longo de um descanso curto, usar mais bálsamos resulta em 1 ponto a menos de cura por uso, até que o jogador realize um descanso longo ou parcial. Cada grupo pode carregar 5 desses por **Curandeiro** no grupo. Demora uma hora para ser feito.
 
-- **Antídoto**: Gasta uma hora para preparar um antídoto para venenos e doenças simples. Pode fazer um por dia e pode carregar até 3 antídotos.
-
-- **Veneno**: O erveiro consegue destilar das folhas, caules e raízes em mãos uma combinação de óleos essenciais que contém metais pesados. O óleo pode ser passado em lâminas, flechas e objetos pontiagudos e causa 2 de dano de veneno por 2 turnos num alvo. Se usado fora de combate aquele que consumir o veneno passa mal e recebe dano. Consumir ou receber 3 doses do veneno deixa uma pessoa inconsciente. Cada **Herbalista** do grupo pode carregar 3 desses e demora 1 hora para extrair um veneno.
+- **Veneno**: O erveiro consegue destilar das folhas, caules e raízes em mãos uma combinação de óleos essenciais que contém metais pesados. O óleo pode ser passado em lâminas, flechas e objetos pontiagudos e causa 2 de dano de veneno por 2 turnos num alvo. Se usado fora de combate aquele que consumir o veneno passa mal e recebe dano. Consumir ou receber 3 doses do veneno deixa uma pessoa inconsciente. Cada **Curandeiro** do grupo pode carregar 1 desses e demora 1 hora para extrair um veneno.
 
 
-**Engenhoqueiro**: Um engenhoqueiro é um personagem que mistura as sabedorias de um mecânico e de um artesão, dessa maneira ele é capaz de criar dispositivos úteis em muitas situações diferentes da vida de um explorador. As criações possíveis são **munição especial**, **granada  de fumaça** e **bomba direcional**. Necessita de um conjunto de ferramentas finas que custa 1pp.
+**Engenhoqueiro**: Um engenhoqueiro é um personagem que mistura as sabedorias de um mecânico e de um artesão, dessa maneira ele é capaz de criar dispositivos úteis em muitas situações diferentes da vida de um explorador. As criações possíveis são **munição especial**, **granada  de fumaça** e **bomba direcional**. Necessita de um conjunto de ferramentas de engenheiro que custa 1pp.
 
-- **Munição Especial**: O artífice pode gastar uma hora para criar munição (sejam flechas ou balas) que causem dano contundente, cortante ou flamejante. Pode se criar 3 projéteis por vez uma vez por dia, demora uma hora para criá-las e cada jogador pode carregar quantas quiser.
+- **Munição Especial**: O artífice pode gastar uma hora para criar munições (para qualquer arma de longo alcance) que causem dano contundente, cortante, perfurante ou flamejante. Pode se criar 5 projéteis por vez uma vez por dia, demora uma hora para criá-los e cada jogador pode carregar 5 munições especiais.
 
-- **Granada de Fumaça**: Esta bomba quando atirada estoura gerando uma grossa cortina de fumaça em uma área de 3x3. Indivíduos na área de explosão sofrem um ataque à sua defesa de **FORTALEZA** que causa 2 de dano de veneno. A fumaça dura 4 turnos, demora 1h para confeccionar uma bomba dessas e cada um do grupo pode carregar apenas uma.
+- **Granada de Fumaça**: Esta bomba quando atirada estoura gerando uma grossa cortina de fumaça em uma área de 3x3. Indivíduos na área de explosão sofrem um ataque à sua defesa de **FORTALEZA** que causa 2 de dano de veneno por engolir fumaça. A fumaça dura 4 turnos, demora 1h para confeccionar uma bomba dessas e cada grupo pode carregar 3.
 
-- **Bomba Direcional**: Gasta 1h para criar uma carga explosiva que estoura sonoramente. Pode carregar 1 por vez, essa carga é comumente usada em trancas e coisas semelhantes.
+- **Bomba Direcional**: Gasta 1h para criar uma pequena carga explosiva direcional que cabe na palma da mão e estoura sonoramente. Pode carregar 1 por vez, essa carga é comumente usada em trancas e coisas semelhantes.
 
 
-**Escudeiro**: O escudeiro é um indivíduo que teve instrução militar moderada, ele foi treinado para ter prontidão e resistência, coisas essenciais para a vida numa campanha. Suas habilidades são **combatente de prontidão**, **sentinela** e **marcha firme**.
+**Escudeiro**: O escudeiro é um indivíduo que teve instrução militar moderada, ele foi treinado para ter prontidão e resistência, coisas essenciais para a atuação numa campanha militar. Suas habilidades são **combatente de prontidão**, **sentinela** e **marcha firme**.
 
-- **Combatente de Prontidão**: Uma vez por combate pode escolher jogar iniciativa com vantagem menor. Você gasta este uso mesmo que a vantagem não tenha sido necessária.
+- **Combatente de Prontidão**: Toda vez que o escudeiro fizer uma jogada de iniciativa ele a faz com vantagem menor.
 
 - **Sentinela**: Sempre que guardando um acampamento o escudeiro possui vantagem menor em jogadas de *Percepção*.
 
 - **Marcha Firme**: Um dia por semana o escudeiro pode reduzir em 2 horas a [penalidade de movimentação](viagem.md) imposta pelo terreno e pelo clima ao grupo.
 
 
-**Estudante do Arcano**: Você é um estudioso que sabe que magias não vem apenas de pessoas que nascem com habilidades elementais inexplicáveis. É através de seus estudos que o estudante reconhece e por vezes faz uso das magias. Um  aspirante a arcanista tem as habilidades de **identificar item mágico**, **detectar magia no ambiente** e **encantar temporariamente um item**. Necessita de um grimório de arcanista para realizar suas mágicas e o grimório custa 1pp.
+**Estudante do Arcano**: Você é um estudioso que sabe que magias não vem apenas de pessoas que nascem com habilidades elementais inexplicáveis. É através de seus estudos que o estudante reconhece e por vezes faz uso das magias. Um  aspirante a arcanista tem as habilidades de **identificar item mágico**, **detectar magia no ambiente** e cria uma **fogueira de sentinela**. Necessita de um grimório de arcanista para realizar suas mágicas e o grimório custa 1pp.
 
-- **Identificar Item Mágico**: Os ritos e magias realizados esclarecem para a mente do conjurador os completos efeitos de um único item mágico. Demora 1h para conjurar por completo.
+- **Identificar Item Mágico**: O ritualista entoa encantamentos de su grimório que esclarecem para a mente do conjurador os completos efeitos de um único item mágico que deve ficar com ele durante o ritual. Demora 1h para conjurar por completo.
 
 - **Detectar Magia no Ambiente**: O estudante do arcano vaga pelo lugar dizendo palavras estranhas de seu grimório em busca de vibrações e é capaz de sentir e entender magia no ambiente que está. Demora 30 minutos para fazer esta magia.
 
-- **Encantar Temporariamente um Item**: O estudante do arcano recita palavras antigas numa lingua esquecida de um encantamento que só teve acesso a uma fração. Esse rito leva 15 minutos e faz com que o próximo ataque de uma arma receba vantagem menor ou que o próximo golpe contra o portador de um escudo ou armadura receba desvantagem menor. Pode encantar até 4 itens por dia.
+- **Fogueira de Sentinela**: O estudante do arcano é capaz de realizar um ritual sobre uma chama que a torna sensível à vida em seus arredores até o sol raiar. Todos aqueles que estavam nas proximidades durante o ritual não ativam a chama, mas se um outro ser vivo se aproximar a chama mudará de cor para um vermelho intenso. Isso garante vantagem menor em jogadas de percepção para localizar quem está se aproximando. O ritualista pode usar palavras de comando para fazer com que a chama vá em direção de quem causou sua ativação, apagando logo depois. 
 
 
 **Estudante dos Cristais**: O estudante é versado na arte de realizar rituais que se aproveitam de energias sobrenaturais. Com auxílio de seu kit de ritualismo o estudioso da magia dos cristais pode realizar rituais que demoram algum tempo para serem completos e podem **sacramentar morto**, **identificar item mágico** ou **teletransportar** com cristais. Necessita de um pacote de cristais e diapasões que custa 1pp.
 
 - **Sacramentar Morto**: Por meio de reza ou ritual os mortos que caibam numa área de 3x3 sem serem empilhados são sacramentados e livrados da maldição que os faria levantar como mortos-vivos. Demora uma hora para ser realizado durante a qual os mortos não levantarão.
 
-- **Identificar Item Mágico**: Igual do **Estudante do Arcano**.
+- **Identificar Item Mágico**: O item mágico é colocado no centro de um círculo de cristais que são tocados pelo estudante com diapasões, as vibrações revelam à mente do ritualista os funcionamentos daquele objeto. Demora uma hora pra realizar.
 
 - **Teletransportar**: Por meio deste ritual é possível teletransportar tudo num volume de 3x3x2. O destino é um Círculo de teletransporte, então das duas uma: O ritualista pode ir de um círculo existente para um outro que esteja atrelado ao primeiro, ou ele pode criar um círculo temporário e teletransportar para um único outro círculo com o qual ele tenha se ligado. Se ligar a um circulo leva 30 minutos, o ritual de teletransporte envolve o posicionamento de cristais, a vibração de diapasões e leva uma hora. Criar um círculo de teletransporte fixo é uma missão à parte.
 
 
-**Nobre**: O nobre é aquele que pertence a classe de maior prestígio na sociedade. Nobreza é algo herdado no sangue ou comprado com um título, seja qual for a maneira que você chegou lá você é maior que os comuns independente da sua condição material atual. Suas vantagens tem a ver com status e são a **carteirada**, a **barganha esnobe** e a **reputação venerável**. Precisa de um meio de provar sua nobreza, seja por título, brasão, vestes ou grana bruta.
+**Nobre**: O nobre é aquele que pertence a classe de maior prestígio na sociedade. Nobreza é algo herdado no sangue ou comprado com um título, seja qual for a maneira que você chegou lá você é maior que os comuns independente da sua condição material atual. Suas vantagens tem a ver com status e são a **carteirada**, a **barganha esnobe** e a **reputação venerável**. Precisa de um meio de provar sua nobreza, seja por título, brasão ou objeto análogo.
 
 - **Barganha Esnobe**: Pode receber vantagem menor em jogadas de \emph{Negociação} quando comprando algo uma vez por dia.
 
@@ -116,11 +114,11 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 
 **Trabalhador**: O trabalhador é aquele que passou boa parte da sua vida se valendo de sua força e capacidade de suar a camisa. Seu tempo de de trampo bruto lhe garantiu as habilidades de **realizar labuta**, de encarar tempos de **vacas magras** e **carregar peso no lombo**
 
-- **Realizar Labuta**: O trabalhador recebe vantagem menor na [proeza](proezas.md) de *Atletismo* uma vez por dia quando precisar usar força bruta.
+- **Realizar Labuta**: O trabalhador recebe vantagem menor na [proeza](proezas.md) de *Atletismo*  quando precisar usar força bruta.
 
 - **Vacas Magras**: O trabalhador é capaz de passar um dia por semana sem comer e não sofrerá penalidades em seus atributos.
 
-- **Carregar Peso no Lombo**: O Trabalhador é capaz de ignorar a penalidade de distância percorrida quando carrega de 30 a 40Kg consigo.
+- **Carregar Peso no Lombo**: O Trabalhador é capaz de carregar grandes pesos e isso se reflete em +2 espaços de carga.
 
 
 **Trombadinha**: O trombadinha é aquele que fez a vida às custas dos outros no meio urbano, seja por meio de furtos, golpes ou assaltos. Seu ``treinamento'' lhe permite **misturar com a multidão**, **abordar com malícia** e **falar em gíria**.
@@ -166,13 +164,13 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 - **Pito de Pango**: Durante uma hora o Herbalista mistura ervas secas e as enrola em uma folha especial, confeccionado um cigarro que quando fumado concede vantagem menor em jogadas de **CARISMA** por uma hora. Pode-se carregar 1 desses por Herbalista no grupo.
 
 
-**Ritualista**: O ritualista que possui essa profissão conseguiu aprender novos rituais e refinar suas técnicas. Ele aprende a **fechar corpo**, **esconder acampamento** e usar a **visão verdadeira**. Deve estar munido de seu conjunto de cristais e diapasões para conjurar. Para adquirir esta profissão é necessário ser um estudante dos cristais
+**Conhecedor dos Cristais**: O ritualista que possui essa profissão conseguiu aprender novos rituais e refinar suas técnicas. Ele aprende a **fechar corpo**, **esconder acampamento** e usar a **visão verdadeira**. Deve estar munido de seu conjunto de cristais e diapasões para conjurar. Para adquirir esta profissão é necessário ser um estudante dos cristais
 
 - **Fechar Corpo**: Este ritual que vibra as vestes de alguém em ressonância com certos cristais torna a pessoa imune ao dano do primeiro ataque que receber. Demora 1 hora, dura 1 hora.
 
 - **Esconder Acampamento**: Neste ritual, cristais são posicionados gerando um círculo de 5m de raio para dentro do qual não se pode enxergar claramente, quando vista de fora, a área do círculo aparenta estar sem ninguém e sem nenhuma coisa. Dura até 10h e pode ser realizado a cada descanso longo do ritualista.
 
-- **Visão Verdadeira**: O ritualista senta-se dentro de um círculo de cristais e entoa palavras antigas numa frequência que os faz vibrar. Quando passada uma hora a mente do ritualista vibra em uníssono com os cristais e é capaz de projetar-se num outro lugar que esteja próximo, dessa maneira ele é capaz de saber o que e quem está naquele lugar, porém não como é o lugar.
+- **Visão Verdadeira**: O ritualista senta-se dentro de um círculo de cristais e entoa palavras antigas numa frequência que os faz vibrar. Quando passada uma hora a mente do ritualista vibra em uníssono com os cristais e é capaz de enxergar no escuro perfeito, ver coisas invisíveis e ler em qualquer língua por uma hora.
 
 
 **Soldado**: Tornar-se um Soldado é o objetivo da maioria dos Escudeiros e você chegou lá, parabéns! Você agora tem as habilidades **irmãos de armas**, **abordagem truculenta** e **cão de guarda**.
@@ -201,6 +199,6 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 
 - **Forjar Obra Prima**: O que é uma obra prima? O que é arte? Uma obra prima pra mim é uma obra prima pra você? Quando tivermos respostas eu escrevo o que essa habilidade faz...
 
-**Mestre da Ritualista**: Muito tempo estudando cristais e fazendo diapasões vibrarem lhe rendeu muito entendimento sobre como esse tipo de magia funciona. Você é agora capaz de **construir círculo de teletransporte permanente**. Precisa de seu conjunto de cristais e diapasões para trabalhar. Esta profissão exige ser previamente um Ritualista
+**Mestre dos Cristais**: Muito tempo estudando cristais e fazendo diapasões vibrarem lhe rendeu muito entendimento sobre como esse tipo de magia funciona. Você é agora capaz de **construir círculo de teletransporte permanente**. Precisa de seu conjunto de cristais e diapasões para trabalhar. Esta profissão exige ser previamente um Conhecedor dos Cristais.
 
-- **Construir Círculo de Teletransporte Permanente**: O mestre ritualista é capaz de criar um círculo de teletransporte permanente em um lugar que escolha. Os materiais são uma aventura a parte, mas uma vez que que se tenha todos eles o mestre passa uma semana confeccionando o círculo que poderá ser usado por todos os ritualistas e o círculo pode ser atrelado a qualquer outro círculo que não esteja atrelado a um outro ou manter-se desatrelado para servir apenas como portal de volta.
+- **Construir Círculo de Teletransporte Permanente**: O mestre dos cristais é capaz de criar um círculo de teletransporte permanente em um lugar que escolha. Os materiais são uma aventura a parte, mas uma vez que se tenha todos eles o mestre passa uma semana confeccionando o círculo que poderá ser usado por todos os ritualistas e o círculo pode ser atrelado a qualquer outro círculo que já não esteja atrelado a um outro ou manter-se desatrelado para servir apenas como portal de volta.

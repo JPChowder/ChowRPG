@@ -16,7 +16,7 @@ Além disso, eu pretendo desenvolver alguns sistemas em segredo para então apre
 
 ## Roadmap de Adaptações
 
-1. Terminar profissões
+1. Rebalancear profissões
 2. Terminar talentos de níveis altos
 3. Terminar progressão após nvl. 10
 4. Atualizar fichas de jogadores
