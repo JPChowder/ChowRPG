@@ -2,7 +2,7 @@
 
 Para progredir seu personagem se deve cumprir objetivos. Existe uma lista de objetivos que podem ser cumpridos em qualquer ordem, os jogadores recebem um nível para cada objetivo cumprido:
 
-1. Completar sua primeira missão.
+1. Completar sua primeira viagem.
 2. Acampar 5 vezes viajando pelo mapa.
 3. Participar de 10 situações de combate.
 4. Resolver 10 situações (como grupo) sem usar combate.

@@ -112,6 +112,13 @@
         background-color: #FAE3C6 !important; /* Row hover color */
     }
 
+    /* -------------------- blockquote -------------------- */
+    .md-typeset blockquote{
+        background: #fcf5d1;
+        color: #6b6060;
+
+    }
+
     /* -------------------- Tabbed -------------------- */
     /* Cor de fundo do conteúdo das tabs */
     .md-typeset .tabbed-content {
@@ -279,7 +286,12 @@
     .md-typeset table tr:hover {
         background-color: #3A332D !important; /* Table hover color */
     }
+    /* -------------------- Blockquote -------------------- */
+    .md-typeset blockquote{
+        background: #615e50;
+        color: #E2E1E0;
 
+    }
     /* -------------------- Tabbed -------------------- */
     /* Cor de fundo do conteúdo das tabs */
     .md-typeset .tabbed-content {

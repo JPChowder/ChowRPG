@@ -66,7 +66,7 @@ O que afeta a capacidade de um Lutador de realizar manobras de combate é a arma
 
     **Pose defensiva**: Firma os pés no chão e se prepara para receber um ataque. Com *armas médias* aumenta as defesas (menos de MENTE) em +1, *armas grandes* +2, *escudos médio e grande* +3 e *broquel* +2.
 
-    **Ripostar**: Usado como reação a um ataque inimigo que use algum tipo de arma corpo-a-corpo (gasta seu turno). Ataca Defesa de AGILIDADE do alvo e se acertar, rebate o ataque tornando o atacante TONTO e concedendo um ataque imediato ao lutador que ripostou. Escudos e Rapieiras realizam esta manobra com vantagem menor.
+    **Ripostar**: Usado como reação a um ataque inimigo que use algum tipo de arma corpo-a-corpo (gasta seu turno). Ataca Defesa de AGILIDADE do alvo e se acertar, rebate o ataque tornando o atacante ZONZO e concedendo um ataque imediato ao lutador que ripostou. Escudos e Rapieiras realizam esta manobra com vantagem menor.
 
     **Provocar**: Exclusivo para usuários de escudos médios ou grandes. Jogada modificada pelo atributo de CARISMA, mira Defesa de Vontade. Com golpes no escudo e palavras de provocação, faz com que todos os alvos até 2m de distância te ataquem em seus próximos turnos. 
 
@@ -80,7 +80,7 @@ O que afeta a capacidade de um Lutador de realizar manobras de combate é a arma
     *Armas Médias*: +3 de fôlego por metro extra de deslocamento.  
     *Armas Grandes*: +2 de fôlego por metro extra de deslocamento.
 
-    **Pancada Atordoante**: Golpe que mira a cabeça do alvo com mais jeito que força. Acerto causa 2 de dano contundente a menos que um ataque normal e torna o alvo TONTO por um turno. Mira a defesa de FORTALEZA e a arma deve ser capaz de causar dano contundente para realizar esta manobra. Escudos podem ser usados para realizar esta manobra.  
+    **Pancada Atordoante**: Golpe que mira a cabeça do alvo com mais jeito que força. Acerto causa 2 de dano contundente a menos que um ataque normal e torna o alvo ZONZO por um turno. Mira a defesa de FORTALEZA e a arma deve ser capaz de causar dano contundente para realizar esta manobra. Escudos podem ser usados para realizar esta manobra.  
     *Armas Médias*: +3 de fôlego por turno extra de duração.  
     *Armas Grandes*: +2 de fôlego por turno extra de duração.
     *Escudos*: +3 de fôlego por turno extra de duração.

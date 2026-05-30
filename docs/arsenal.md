@@ -1,10 +1,8 @@
 ## Arsenal
 
-Nesta parte temos o arsenal de armas, focos arcanos, símbolos divinos, armaduras e itens diversos que podem ser adquiridos e usados pelos personagens. A sessão inicial fala sobre armas, depois vem as armaduras e então seguem os focos arcanos e símbolos divinos. Estes são os itens que influem mecanicamente no combate com o seu personagem, os demais objetos são de uso em outras situações.
+Nesta parte temos o arsenal de armas, armaduras, focos arcanos e símbolos divinos, nesta ordem. Estes são os itens que influem mecanicamente no combate com o seu personagem, os demais objetos são de uso em outras situações, são carregados em uma mochila/bolsa e estão descritos no capítulo de [Inventário](inventario.md)
 
 Logo após a apresentação das opções armamentistas, arcanas e divinas está a seção que descreve seu aprimoramento. Melhorar estes itens dá bônus nas defesas que eles concedem, nas chances de acerto de ataques, manobras, magias e milagres e no dano causado por cada uma dessa ações. Este sistema está detalhado logo adiante.
-
-Depois da seção que explica os aprimoramentos, encontramos os itens de uso geral que rechearão as mochilas e bolsas de um explorador. Personagens iniciam sua vida de aventuras com 2 peças de prata. A escala de valores das moedas é de 1:100, sendo ouro a mais valiosa, depois prata e depois cobre. Alternativamente, existem pacotes de itens que os jogadores podem escolher para poder pular a etapa de comprar seus pertences um a um.
 
 Para além das 2 peças de prata, exploradores começam suas aventuras com equipamentos que são treinados para usar: Uma arma e/ou foco divino/arcano, uma armadura com a qual tenha treinamento, um escudo se o forem usar e as ferramentas de sua profissão se forem necessárias.
 
@@ -20,7 +18,7 @@ Se um jogador quiser usar um tipo de arma que não existe neste arsenal ele deve
  - **Machadinha**: 3 de dano cortante.
     - 4 de dano cortante se atirado no alvo.
  - **Porrete**: 3 de dano contundente. 
-    - Ataques furtivos e críticos deixam o alvo TONTO.
+    - Ataques furtivos e ataques críticos deixam o alvo ZONZO.
 
 ### Armas Médias
 
@@ -31,6 +29,8 @@ Se um jogador quiser usar um tipo de arma que não existe neste arsenal ele deve
     - Ataca usando o atributo de **Agilidade**.
  - **Cimitarra** : 4 de dano cortante, 3 de dano perfurante.
     - Ataca usando o atributo de **Agilidade**.
+ - **Zagaia**: 5 de dano perfurante.
+    - Se atirada causa 6 de dano perfurante. 
  - **Bastão**: 5 de dano contundente. 
     - **Deve** ser empunhado com 2 mãos, +1 de alcance.
     - Arma longa.
@@ -60,7 +60,7 @@ Se um jogador quiser usar um tipo de arma que não existe neste arsenal ele deve
  - **Besta Pesada**: 5 de dano perfurante.
     - Deve gastar metade de sua movimentação para recarregar a arma.
  - **Funda**: 4 de dano contundente.
-   - Crítico deixa o alvo TONTO além de dobrar o dano.
+   - Crítico deixa o alvo ZONZO além de dobrar o dano.
 
 ### Escudos
 
@@ -138,7 +138,7 @@ Nesta porção do capítulo de Arsenal será explicada a mecânica de aprimorame
 
 A maneira de se melhorar um item é usar o **Metal Antigo**. O **Metal Antigo** recebe este nome pois muitos artefatos das antigas civilizações anãs e élficas usavam este metal, nele foi descoberta a propriedade de fortalecer o material de um equipamento quando aplicado sobre ele tornando-o um artefato reforçado pelo **Metal Antigo**. As formas em que ele é encontrado são: **Minério de Metal Antigo**, **Lasca de Metal Antigo** e **Metal Antigo Refinado** e cada um destes itens é usado para aprimorar equipamentos.
 
-**Minérios** podem ser combinados para tornarem-se **Lascas** e **Lascas** podem ser combinadas para se tornarem **Metal Refinado**, mas o contrário não é verdade. Uma lasca equivale a 3 minérios e uma barra equivale a 5 lascas. Por fim, o processo de combinar estes itens não é rápido, exige um ferreiro com acesso a uma oficina equipada para usar cada material e melhorar equipamentos mágicos exige uma **barra de metal antigo** a mais por nível, além do acesso a uma biblioteca ou fonte equivalente de informações sobre magia, cristais e técnicas de forja.
+**Minérios** podem ser combinados para tornarem-se **Lascas** e **Lascas** podem ser combinadas para se tornarem **Metal Refinado**, mas o contrário não é verdade. Uma lasca equivale a 3 minérios e uma barra equivale a 5 lascas. Por fim, o processo de combinar estes itens não é rápido, exige um ferreiro com acesso a uma oficina equipada para usar cada material e **melhorar equipamentos mágicos exige o dobro de metal antigo por nível**, além do acesso a uma biblioteca ou fonte equivalente de informações sobre magia, cristais e técnicas de forja.
 
 ### Aprimoramento de Armaduras
 Os custos para aprimorar armaduras é uniforme e está descrito na tabela a seguir:
@@ -220,7 +220,7 @@ Os custos para aprimorar escudos estão descritos na tabela a seguir:
 
 ### Armas, Focos e Símbolos
 
-A melhoria de **Armas**, **Focos Arcanos** e **Símbolos Divinos** é igual a dos outros equipamentos. Cada um desses itens é inicialmente de nível 0 e vai até o nível 3 e este nível é somado nas rolagens de ataque, magia, manobras e milagres além de ser adicionado no dano causado. Melhorar *equipamentos mágicos* exige uma **barra de metal antigo** a mais por nível.
+A melhoria de **Armas**, **Focos Arcanos** e **Símbolos Divinos** é igual a dos outros equipamentos. Cada um desses itens é inicialmente de nível 0 e vai até o nível 3 e este nível é somado nas rolagens de ataque, magia, manobras e milagres além de ser adicionado no dano causado. **Melhorar armas, símbolos e focos mágicos exige o dobro de recurso por nível**.
 
 | Nível | Custo Material             | Custo Monetário |
 | :---- | :------------------------: | --------------: |
@@ -230,115 +230,10 @@ A melhoria de **Armas**, **Focos Arcanos** e **Símbolos Divinos** é igual a do
 
 
 ### Outros Itens Mágicos:
-Os jogadores podem encontrar itens mágicos que não se encaixam nas categoria de uma arma, armadura ou objeto de conjuração. Existem anéis e colares mágicos, além de objetos que não se pode vestir. Esses itens podem ser aprimorados para receber bônus igual a seu nível de aprimoramento em algum atributo ou habilidade que concedem, porém isso será determinado caso a caso em acordo com o mestre do jogo. os custos de aprimoramento são iguais aos de armas, focos arcanos e símbolos divinos:
+Os jogadores podem encontrar itens mágicos que não se encaixam nas categoria de uma arma, armadura ou objeto de conjuração. Existem anéis e colares mágicos, além de objetos que não se pode vestir. Esses itens podem ser aprimorados para receber bônus igual a seu nível de aprimoramento em algum atributo ou habilidade que concedem, porém isso será determinado caso a caso em acordo com o mestre do jogo. os custos de aprimoramento são iguais aos de armas, focos arcanos e símbolos divinos não mágicos:
 
 | Nível | Custo Material             | Custo Monetário |
 | :---- | :------------------------: | --------------: |
 | 1     | 2 minérios de metal antigo | 70PC            |
 | 2     | 2 lascas de metal antigo   | 40PP            |
 | 3     | 1 barra de metal antigo    | 1PO             |
-
-
-## Equipamentos de Aventura
-Para fechar a parte de itens e equipamentos temos agora a lista de itens secundários nos quais aventureiros podem encontrar utilidade em suas viagens. Eles podem ser comprados individualmente ou pode ser comprado um pacote pronto para agilizar a fase de recheio de bolsas e mochilas.
-
-Aqui também é apresentado o sistema de carga deste jogo. A princípio, a quantidade de itens que podem ser carregados pelos jogadores tem relação com seu atributo de **FORTALEZA**, jogadores com 0 de **FORTALEZA** possuem 10 espaços de carga, jogadores com atributo de -1 e -2 possuem 8 e 5 espaços respectivamente e jogadores com +1, +2 e +3 de **FORTALEZA** possuem 12, 14 e 16 espaços.
-
-Além disso cada item possui uma *dificuldade de carga* expressa por um número ou uma fração, este valor simboliza quantos espaços de carga são consumidos por este item. Por exemplo, se um item possui uma *dificuldade de carga* de 1/4 pode-se carregar 4 deles por espaço de carga e se um item possui dificuldade 2 ele exige 2 espaços para ser carregado, itens com *dificuldade* 0 podem ser todos colocados no mesmo espaço de carga dentro do razoável. A *dificuldade de carga* representa o tamanho/peso/estranheza que se encara em carregar aquele objeto.
-
-Os itens a seguir estão divididos em Viagem & Acampamento, Utilidades, Equipamento de Profissões e Combate. Ainda que equipamentos de combate já tenham sido apresentados eles serão listados aqui para que possam ser precificados e para se atribuir *dificuldades de carga* para quando eles não estejam equipados, quando equipados eles estão vestidos ou guardados em uma bainha e não ocupam espaços de carga.
-
-O preço de cada item é dado em "preço médio" pois o valor pode variar dependendo da situação que se encontre.
-
-### Viagens & Acampamento
-
-| Item                    |  Dificuldade de Carga | Preço Médio |
-| :---------------------- | :-------------------: | ----------: |
-| Barraca para 2          | 3                     | 25pc        |
-| Barraca para 4          | 4                     | 45pc        |
-| Saco de dormir + tenda  | 2                     | 20pc        |
-| Kit de fogueira         | 2                     | 10pc        |
-| Tocha                   | 1/3                   | 2pc         |
-| Raçoes de viagem        | 1/5                   | 3pc         |
-| Cantil                  | 1                     | 10pc        |
-
-Sobre itens de viagem, um cantil armazena água para 5 dias (escreva ao lado), vazios eles tem *dificuldade de carga* 0. O saco de dormir vem com uma tendinha pois com ele você dorme fora de uma barraca e não quer tomar chuva ou muito vento e o kit de fogueira faz fogueiras infinitas e pode ter o formato que você quiser.
-
-### Utilidades
-
-| Item                      |  Dificuldade de Carga | Preço Médio |
-| :------------------------ | :-------------------: | ----------: |
-| Sal grosso                | 1/2 por Kg            | 10pc        |
-| Vidro de água benta       | 1/2                   | 45pc        |
-| Vara de pescar            | 1                     | 20pc        |
-| Frasco de vidro           | 1/4                   | 2pc         |
-| Saco impermeável          | 1/5                   | 3pc         |
-| Pote de óleo              | 1/3                   | 6pc         |
-| Lamparina                 | 1                     | 10pc        |
-| Isqueiro                  | 0                     | 5pc         |
-| Cadeado + chave           | 0                     | 10pc        |
-| Corda                     | 1/3 por metro         | 2pc         |
-| Corrente                  | 1 por metro           | 6pc         |
-| Gancho de escalada        | 1                     | 15pc        |
-| Pé de cabra               | 1                     | 10pc        |
-| Pá                        | 1                     | 10pc        |
-| Binóculos                 | 1                     | 10pc        |
-| Ferramentas de Chaveiro   | 1                     | 1pp         |
-
-Como esclarecimento, Lamparinas são infinitas se estiverem secas e sacos impermeáveis tem o tamanho de uma sacola de supermercado. 200g de sal grosso impedem que um morto vivo se levante depois de derrubado, água benta é bom contra inimigos sobrenaturais e frascos de óleo podem ser usados para fazer molotovs ou para encharcar inimigos/áreas. Ganchos de escalada combinados com uma corda dão vantagem menor ao tentar escalar, pés de cabra dão vantagem pra mover coisas pesadas e ferramentas de chaveiro permitem usar a proeza de *ladroagem* para tentar abrir trancas. Outros itens podem dar vantagens em situações que sejam pertinentes.
-
-### Equipamentos de Profissões
-
-| Item                              |  Profissão               | Preço Médio |
-| :-------------------------------- | :----------------------: | ----------: |
-| Ferramentas de ferreiro           | Ajudante de Oficina +    | 1pp         |
-| Grimório de arcanista             | Estudante do Arcano +    | 1pp         |
-| Instrumento musical               | Bardo                    | 1pp         |
-| Materiais de arapuca              | Armadilheiro +           | 1pp         |
-| Kit de cozinha                    | Cozinheiro               | 1pp         |
-| Aparatos de boticário             | Curandeiro +             | 1pp         |
-| Título de nobreza                 | Nobre                    | 1pp         |
-| Ferramentas de engenheiro         | Engenhoqueiro            | 1pp         |
-| Conjunto de cristais e diapasões  | Estudante dos Cristais + | 1pp         |
-
-Os Equipamentos de Profissões são os itens necessários para utilizar algumas das habilidades de profissão. Eles tem os mais diferentes formatos e cada profissional pode escolher o que colocar em seu kit e como organizá-lo, as dificuldades de carga são todas iguais a 1. Toda profissão inicial dá acesso ao kit necessário para se beneficiar dela, algumas profissões não necessitam de equipamento.
-
-### Preços de Equipamentos de Combate
-
-| Item              |  Dificuldade de Carga  | Preço Médio |
-| :---------------- | :--------------------: | ----------: |
-| Armadura leve     | 1                      | 50pc        |
-| Armadura média    | 2                      | 1pp         |
-| Armadura pesada   | 3                      | 3pp         |
-| Broquel           | 1                      | 25pc        |
-| Escudo médio      | 1                      | 1pp         |
-| Escudo de torre   | 2                      | 1,5pp       |
-| Arma simples      | 1                      | 50pc        |
-| Arma média        | 2                      | 1pp         |
-| Arma grande       | 2                      | 1,5pp       |
-| Foco arcano       | 1                      | 2pp         |
-| Símbolo divino    | 1                      | 2pp         |
-
-Os personagens começam com os equipamentos que são treinados para usar, contudo pode-se querer trocar de equipamentos ou mesmo perder alguma coisa em suas viagens. Além disso, a dificuldade de carga é apenas para equipamentos que não estão em uso, ou seja, armas em bainhas e armaduras vestidas.
-
-### Pacotes de Aventureiro
-
-Nesta sessão estão organizados alguns pacotes de itens para facilitar na compra daqueles que não querem personalizar seu equipamento e para exemplificar o tipo de coisa que pode ser levada para uma aventura. Todos pacotes foram comprados com as 2 peças de prata iniciais que os jogadores podem usar para montar seus kits.
-
-O primeiro kit é pensado num aventureiro padrão e possui algum tanto de utilidade para ele e para o grupo. O segundo kit tenta focar em garantir o acampamento do grupo com amplo espaço para descansar, meios para fazer uma fogueira e até para buscar por comida em um rio ou lago. O Terceiro kit por fim é para um aventureiro que quer se garantir sozinho, ele provém o mínimo necessário para acampar e dá muitas opções de utilidade.
-
-
-| **Pacote #1**      | **Pacote #2**      | **Pacote #3**      |
-| :----------------- | :----------------: | -----------------: |
-| 1 Barraca para 2   | 1 Barraca para 4   | 1 Saco de dormir   |
-| 5 Rações de viagem | 5 Rações de viagem | 5 Rações de viagem |
-| 1 Cantil           | 1 Cantil           | 1 Cantil           |
-| 1m Corrente        | 3 Tochas           | 3 Tochas           |
-| 1 Cadeado          | 1 Kit de fogueira  | 6m de corda        |
-| 1 Lamparina        | 1 Vara de pescar   | 1 Gancho           |
-| 3 Potes de óleo    | 4 Frascos de vidro | 1 Pé de Cabra      |
-| 1 Isqueiro         | 86 peças de cobre  | 1 kit de chaveiro  |
-| 1 Pá               | -                  | 12 Peças de cobre  |
-| 91 Peças de cobre  | -                  | -                  |
-| Peso: 10           |Peso: 11            | Peso: 10           |
-

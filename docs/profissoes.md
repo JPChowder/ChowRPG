@@ -6,20 +6,20 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 
 **Tabela de Profissões**
 
-| Profissões Iniciais    | Profissões Melhoradas   | Profissões Perfeitas |
-| :--------------------- | :---------------------: | -------------------: |
-| Ajudante de Oficina    | Ferreiro                | Mestre da Forja      |
-| Estudante do Arcano    | Arcanista               | Mestre Arcanista     |
-| Bardo                  | -                       | -                    |
-| Armadilheiro           | Caçador                 | Mestre dos Animais   |
-| Cozinheiro             | -                       | -                    |
-| Curandeiro             | Herbalista              | Mestre da Flora      |
-| Nobre                  | -                       | -                    |
-| Engenhoqueiro          | -                       | -                    |
-| Estudante dos Cristais | Conhecedor dos Cristais | Mestre dos Cristais  |
-| Escudeiro              | Soldado                 | -                    |
-| Trabalhador            | -                       | -                    |
-| Trombadinha            | -                       | -                    |
+| Profissões Iniciais       | Profissões Melhoradas   | Profissões Perfeitas |
+| :------------------------ | :---------------------: | -------------------: |
+| Ajudante de Oficina       | Ferreiro                | Mestre da Forja      |
+| Estudante do Arcano       | Arcanista               | Mestre Arcanista     |
+| Bardo                     | -                       | -                    |
+| Armadilheiro              | Caçador                 | Mestre dos Animais   |
+| Cozinheiro de Acampamento | Chef de Caravana        | -                    |
+| Curandeiro                | Herbalista              | Mestre da Flora      |
+| Nobre                     | -                       | -                    |
+| Engenhoqueiro             | -                       | -                    |
+| Estudante dos Cristais    | Conhecedor dos Cristais | Mestre dos Cristais  |
+| Escudeiro                 | Soldado                 | -                    |
+| Trabalhador               | -                       | -                    |
+| Trombadinha               | -                       | -                    |
 
 ## Habilidades das Profissões
 
@@ -51,13 +51,13 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 - **Apresentar Por Dinheiro**: Pode realizar uma apresentação pública e cada uma hora de apresentação musical, teatral ou de contação recebe 1 carta x 5 moedas de cobre. Pode apresentar 4 horas por dia e as cartas que determinarão quanto dinheiro foi conseguido devem ser baixadas às cegas do monte do jogador.
 
 
-**Cozinheiro**: O cozinheiro é aquele que dedicou parte da sua vida ao preparo de alimentos. Seja trabalhando numa cantina de trabalhadores ou numa cozinha de nobres você aprendeu a preparar refeições das mais diferentes formas. Suas habilidades são **água no feijão**, **turbinar o rango** e também **refeição saudável**. Requer um kit de cozinha portátil para preparar e temperar suas marmitas e o kit custa 1pp.
+**Cozinheiro de Acampamento**: O cozinheiro é aquele que dedicou parte da sua vida ao preparo de alimentos. Seja trabalhando numa cantina de trabalhadores ou numa cozinha de nobres você aprendeu a preparar refeições das mais diferentes formas. Suas habilidades são **água no feijão**, **turbinar o rango** e também **refeição saudável**. Requer um kit de cozinha portátil para preparar e temperar suas marmitas e o kit custa 1pp.
 
 - **Água no Feijão**: Quando o cozinheiro prepara a comida do grupo ele pode transformar uma única porção de comida em 2, efetivamente fazendo com que 1 pessoa a menos do grupo tenha que gastar uma ração de viagem.
 
 - **Turbinar o Rango**: O cozinheiro pode pegar uma porção de comida que esteja estragada e transformá-la em comestível. Ele pode fazer isso com 3 porções por vez e leva uma hora para preparar a boia.
 
-- **Refeição Saudável**: O cozinheiro sabe escolher e prepara os ingredientes de uma refeição nutritiva e balanceada. Aqueles que comem algo preparado pelo cozinheiro, ainda que não descansem completamente, se curam em 2 em um descanso parcial.
+- **Refeição Saudável**: O cozinheiro sabe escolher e prepara os ingredientes de uma refeição nutritiva e balanceada. Aqueles que comem algo preparado pelo cozinheiro, ainda que não descansem completamente, se curam em 2 pontos de vida *ao fim de um descanso parcial*.
 
 
 **Curandeiro**: O Curandeiro é um conhecedor das plantas e fungos que existem na natureza. Isso vai muito além de saber quais delas são comestíveis, um curandeiro é capaz de extrair propriedades úteis, salvadoras e até mortais da flora de qualquer lugar. Pode criar **bálsamo de cura** e **veneno**. Deve possuir um kit de aparatos de boticário que custa 1pp.
@@ -71,7 +71,7 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 
 - **Munição Especial**: O artífice pode gastar uma hora para criar munições (para qualquer arma de longo alcance) que causem dano contundente, cortante, perfurante ou flamejante. Pode se criar 5 projéteis por vez uma vez por dia, demora uma hora para criá-los e cada jogador pode carregar 5 munições especiais.
 
-- **Granada de Fumaça**: Esta bomba quando atirada estoura gerando uma grossa cortina de fumaça em uma área de 3x3. Indivíduos na área de explosão sofrem um ataque à sua defesa de **FORTALEZA** que causa 2 de dano de veneno por engolir fumaça. A fumaça dura 4 turnos, demora 1h para confeccionar uma bomba dessas e cada grupo pode carregar 3.
+- **Granada de Fumaça**: Esta bomba quando atirada estoura gerando uma grossa cortina de fumaça em uma área de 3x3. Indivíduos na área de explosão sofrem um ataque à sua defesa de **FORTALEZA** que causa 2 de dano de veneno por engolir fumaça. A fumaça dura 4 turnos, demora 1h para confeccionar uma bomba dessas e cada *grupo* pode carregar 3, a dificuldade de carga de cada granada é 1/3.
 
 - **Bomba Direcional**: Gasta 1h para criar uma pequena carga explosiva direcional que cabe na palma da mão e estoura sonoramente. Pode carregar 1 por vez, essa carga é comumente usada em trancas e coisas semelhantes.
 
@@ -105,7 +105,7 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 
 **Nobre**: O nobre é aquele que pertence a classe de maior prestígio na sociedade. Nobreza é algo herdado no sangue ou comprado com um título, seja qual for a maneira que você chegou lá você é maior que os comuns independente da sua condição material atual. Suas vantagens tem a ver com status e são a **carteirada**, a **barganha esnobe** e a **reputação venerável**. Precisa de um meio de provar sua nobreza, seja por título, brasão ou objeto análogo.
 
-- **Barganha Esnobe**: Pode receber vantagem menor em jogadas de \emph{Negociação} quando comprando algo uma vez por dia.
+- **Barganha Esnobe**: Pode receber vantagem menor em jogadas de Negociação quando comprando algo.
 
 - **Carteirada**: O nobre possui um ar (e um sistema social) que impõe respeito e possui vantagem menor em jogadas de **CARISMA** contra autoridades de nível baixo e médio uma vez por dia.
 
@@ -123,9 +123,9 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 
 **Trombadinha**: O trombadinha é aquele que fez a vida às custas dos outros no meio urbano, seja por meio de furtos, golpes ou assaltos. Seu ``treinamento'' lhe permite **misturar com a multidão**, **abordar com malícia** e **falar em gíria**.
 
-- **Misturar Com a Multidão**: O trombadinha é um mestre em se esconder no meio das pessoas e suas jogadas de *Furtividade* e *Ladroagem* recebem vantagem menor quando no meio de uma massa de pessoas uma vez por dia cada.
+- **Misturar Com a Multidão**: O trombadinha é um mestre em se esconder no meio das pessoas e suas jogadas de *Furtividade* e *Ladroagem* recebem vantagem menor quando no meio de uma massa de pessoas.
 
-- **Abordar com Malícia**: Vantagem nas jogadas de *Intimidação* quando a vítima está isolada em um ambiente urbano ou longe da civilização. Usável uma vez por dia.
+- **Abordar com Malícia**: Vantagem nas jogadas de *Intimidação* quando a vítima está isolada em um ambiente urbano ou longe da civilização.
 
 - **Falar em Gíria**: O trombadinha é capaz de falar na língua dos ladrões, uma maneira de se identificar e conseguir favores e informações de companheiros de ofício.
 
@@ -134,16 +134,23 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 
 **Arcanista**: O **Arcanista** já é experiente com a manipulação do mundo em seu favor. Ele é capaz de realizar as magias **encontrar objeto** e **silêncio**. Para trabalhar o **Arcanista** precisa de um grimório e para tornar-se um **Arcanista** é preciso que se seja um Estudante do Arcano.
 
-- **Encontrar Objeto**: Durante 15 minutos o arcanista folheia seu grimório enquanto diz palavras ininteligíveis e ao fim do encantamento se o objeto procurado estiver na sala ele se manifestará. Pode ser realizado uma vez por dia.
+- **Encontrar Objeto**: Durante 15 minutos o Arcanista folheia seu grimório enquanto diz palavras ininteligíveis e ao fim do encantamento se o objeto procurado estiver na sala ele se manifestará. Pode ser realizado uma vez por dia.
 
 - **Silêncio**: Uma vez por dia o Arcanista pode conjurar uma magia sobre uma área 10x10 na qual nada nem ninguém é capaz de causar som. A magia dura enquanto o Arcanista se manter conjurando.
 
 
 **Caçador**: O caçador passou muito tempo armando arapucas para animais (e inimigos) e aprendeu muito sobre o meio natural e sobre o caçar. Ele é capaz de **rastrear com experiência** e **consumir presa**. Para tornar-se um caçador de verdade é preciso que primeiro uma pessoa seja um **Armadilheiro**.
 
-- **Rastrear com Experiência**: O caçador depois de muito rastrear suas presas se tornou uma raposa velha. Ele é capaz de uma vez por dia receber vantagem menor em jogadas de *Natureza* ao buscar por rastros de um inimigo.
+- **Rastrear com Experiência**: O caçador depois de muito rastrear suas presas se tornou uma raposa velha. Ele recebe vantagem menor em jogadas de *Natureza* ao buscar por rastros de um inimigo.
 
 - **Consumir Presa**: Uma vez por dia o caçador pode tentar obter alimento de animais que tenha derrotado e que não sejam mortos-vivos. O jogador deve baixar uma carta de seu monte por animal do qual queira obter alimento e ele obterá uma unidade de comida para cada carta maior ou igual a 6 que ele baixe.
+
+
+**Chef de Caravana**: Depois de muito cozinhar em acampamentos, o cozinheiro se tornou um chef. Agora suas receitas não apenas ajudam aventureiros a ficarem vivos, mas também tornam os acampamentos mais prazerosos para todos. Recebe as habilidades de **preparar banquete** e **fermentar bebida**.  
+
+- **Preparar Banquete**: O chef é capaz de preparar uma refeição digna de um restaurante refinado usando apenas rações de viajem e alimentos encontrados na natureza. Gasta 2 rações de cada pessoa que vai participar do banquete para preparar alimentos que regeneram 5 de vida de todos que comerem por uma hora. A comida demora 2 horas pra ficar pronta e *a cura é aplicada ao final de um descanso completo ou parcial*.
+
+- **Fermentar Bebida**: O chef aprendeu os segredos da fermentação e é capaz de fermentar bebidas ao longo de alguns dias. A partir do momento que o chef prepara a bebida ela demora 3 dias pra ficar pronta, ele pode escolher criar **vinho** ou **cerveja**. Aventureiros que consumirem **vinho** recebem vantagem menor em jogadas que envolvam **MENTE** e **CARISMA** e desvantagem menor em **FORTALEZA** e **AGILIDADE** nas primeiras jogadas que fizerem após consumir a bebida. Aqueles que consumirem **cerveja** ganham vantagem menor em jogadas de **FORTALEZA** e **AGILIDADE** e desvantagem menor em jogadas que usem **MENTE** e **CARISMA**. *Rende 3 garrafas da mesma bebida com dificuldade de carga igual 1/3 cada uma*.
 
 
 **Ferreiro**: Com experiência um aprendiz se torna um profissional, o Ferreiro agora é capaz de **melhorar equipamento** e **customizar armadura**. Deve estar munido de sua confiante sacola de ferramentas de oficina para trabalhar. Tornar-se um Ferreiro envolve primeiro ser um Ajudante de Oficina.
@@ -153,15 +160,15 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 - **Customizar Armadura**: O ferreiro com acesso a uma oficina e a sua sacola de ferramentas é capaz de remover um ponto de uma das defesas de uma armadura e adicionar um ponto nas penalidades de [*Proezas*](proezas.md) para adicionar um ponto em qualquer uma das outras defesas dessa armadura.
 
 
-**Herbalista**: O personagem deve possuir a profissão de Curandeiro para poder virar um **Herbalista**. Permite ao jogador criar químicos que beneficiam os atributos de quem os consumir. Eles são o **perfume do vento**, o **elixir da força**, a **carne dos deuses** e o **pito de pango**. Precisa do destilador de herbalista para extrair propriedades das plantas.
+**Herbalista**: O personagem deve possuir a profissão de Curandeiro para poder virar um **Herbalista**. Permite ao jogador criar preparos que beneficiam os atributos de quem os consumir. Eles são o **perfume do vento**, o **elixir da força**, a **carne dos deuses** e o **pito de pango**. Precisa do destilador de herbalista para extrair propriedades das plantas e cada herbalista só pode carregar 4 desses preparos, podendo repetir e compartilhando espaço de inventário.
 
-- **Perfume do Vento**: O Herbalista deve trabalhar por uma hora para extrair óleos essenciais que quando combinados transformam-se em uma mistura que quando inalada garante vantagem menor em jogadas de **AGILIDADE** por toda uma hora. Pode-se carregar 1 Perfume do Vento por Herbalista no grupo.
+- **Perfume do Vento**: O Herbalista deve trabalhar por uma hora para extrair óleos essenciais que quando combinados transformam-se em uma mistura que quando inalada garante vantagem menor em *Proezas de **AGILIDADE***, além de +1 na Defesa de Agilidade por toda uma hora.
 
-- **Elixir da Força**: De uma mistura de folhas fervidas por uma hora o herbalista destila um líquido que concede vantagem menor em jogadas de **FORTALEZA** por uma hora. Pode-se carregar apenas 1 desses por herbalista no grupo.
+- **Elixir da Força**: De uma mistura de folhas fervidas por uma hora o herbalista destila um líquido que concede vantagem menor em *Proezas de **FORTALEZA*** por uma hora além de +1 na Defesa de Fortaleza.
 
-- **Carne dos Deuses**: O Herbalista passa uma hora preparando uma mistura de fungos e ervas que quando consumidos garante vantagem em jogadas de **MENTE** por uma hora. Pode-se carregar 1 desses por grupo.
+- **Carne dos Deuses**: O Herbalista passa uma hora preparando uma mistura de fungos e ervas que quando consumidos garante vantagem em *Proezas de **MENTE*** por uma hora além de +1 na Defesa de Vontade.
 
-- **Pito de Pango**: Durante uma hora o Herbalista mistura ervas secas e as enrola em uma folha especial, confeccionado um cigarro que quando fumado concede vantagem menor em jogadas de **CARISMA** por uma hora. Pode-se carregar 1 desses por Herbalista no grupo.
+- **Pito de Pango**: Durante uma hora o Herbalista mistura ervas secas e as enrola em uma folha especial, confeccionado um cigarro que quando fumado concede vantagem menor em *Proezas de **CARISMA*** por uma hora além de +1 na Defesa de Vontade.
 
 
 **Conhecedor dos Cristais**: O ritualista que possui essa profissão conseguiu aprender novos rituais e refinar suas técnicas. Ele aprende a **fechar corpo**, **esconder acampamento** e usar a **visão verdadeira**. Deve estar munido de seu conjunto de cristais e diapasões para conjurar. Para adquirir esta profissão é necessário ser um estudante dos cristais
@@ -175,9 +182,9 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 
 **Soldado**: Tornar-se um Soldado é o objetivo da maioria dos Escudeiros e você chegou lá, parabéns! Você agora tem as habilidades **irmãos de armas**, **abordagem truculenta** e **cão de guarda**.
 
-- **Irmãos de Armas**: Uma vez por dia o Soldado tem vantagem menor em jogadas de *Persuasão* ou *Negociação* realizadas contra militares.
+- **Irmãos de Armas**: Tem vantagem menor em jogadas de *Persuasão* ou *Negociação* realizadas contra militares.
 
-- **Abordagem Truculenta**: Qualquer soldado é capaz de dar um enquadro. Recebe vantagem menor em jogadas de *Intimidação* contra não militares, não nobres e indivíduos que não sejam vinculados a Igreja uma vez por dia.
+- **Abordagem Truculenta**: Qualquer soldado é capaz de dar um enquadro. Recebe vantagem menor em jogadas de *Intimidação* contra não militares, não nobres e indivíduos que não sejam vinculados a Igreja.
 
 - **Cão de Guarda**: Depois de algum tempo nesta linha de trabalho se aprende a atravessar os dias com resiliência depois de noites mal dormidas. Quando o soldado realizar um descanso parcial para montar vigia durante uma noite de acampamento ele toma dois turnos e permite que um personagem a mais tenha um descanso completo.
 
