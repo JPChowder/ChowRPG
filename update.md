@@ -78,17 +78,17 @@ Slots específicos para itens equipados vai ornar direitinho com o novo sistema 
 Alterar a ficha para colocar um espaço para dificuldade de carga em cada slot expresso por um \_\_/\_\_.
 
 
-## 7. Progressão
+## 7. Progressão - FEITO
 
 Colocar pelo menos mais 10 maneiras de ganhar nível
-- Construa um item mágico
-- Melhore itens de arsenal 3 vezes
-- Derrotar 20 inimigos
-- Impor efeitos/estados a 20 inimigos
-- Realize 10 proezas
-- Realize 30 proezas
-- Viajar por 20 hexágonos do mapa
-- Complete 10 dias de viagem (sair do forte e voltar)
+1. Construa um item mágico
+2. Melhore itens de arsenal 3 vezes
+3. Derrotar 20 inimigos
+4. Impor efeitos/estados a 20 inimigos
+5. Realize 10 proezas
+6. Realize 30 proezas
+7. Viajar por 20 hexágonos do mapa
+8. Complete 10 dias de viagem (sair do forte e voltar)
 
 
 Realizar um objetivo dá um ponto de progressão que se pode gastar para upar de nível ou para receber algo após nível 10.
@@ -99,7 +99,7 @@ Realizar um objetivo dá um ponto de progressão que se pode gastar para upar de
 - w treinamento em 2 proezas
 - v uma nova profissão
 
-Dar opção de gastar 2 pontos de progressão para adquirir uma especialização a partir do nível 5: PROXIMO UPDATE
+Dar opção de escolher entre + 1 ataque/magia ou uma especialização: **PROXIMO UPDATE**
 
 - **Especialização, Divino da Morte**: Pacto do exército da morte - mortos vivos se levantam com armas. Custo: 5 de vida máxima permanente, talvez incapaz de castar Mortificar.
 - **Especialização, Divino das Sombras**: Reino das sombras - Torna-se capaz de armazenar objetos na sua sombra. Deve se gastar uma ação para adicionar ou tirar um objeto da sua sombra. Um objeto deve "caber" na sombra, ela tem 3 slots de mochila. Clones sombrios também podem acessar a sombra.
