@@ -25,7 +25,7 @@ Diferente de RPGs tradicionais, a progressão nesse jogo não é feita através 
 - Melhorar itens de arsenal 3 vezes.
 - Construir 1 item mágico.
 - Vender 10 itens diferentes.
-- Gastar um total de 1 peças de ouro.
+- Gastar um total de 1 peça de ouro.
 /// html | div[style='clear: both;']
 ///
 
