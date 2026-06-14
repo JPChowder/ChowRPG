@@ -68,24 +68,6 @@ Como esclarecimento, Lamparinas são infinitas se estiverem secas e sacos imperm
 
 Os Equipamentos de [Profissões](profissoes.md) são os itens necessários para utilizar algumas das habilidades de profissão. Eles tem os mais diferentes formatos e cada profissional pode escolher o que colocar em seu kit e como organizá-lo, as dificuldades de carga são todas iguais a 1. Toda profissão inicial dá acesso ao kit necessário para se beneficiar dela, algumas profissões não necessitam de equipamento.
 
-### Preços de Equipamentos de Combate
-
-| Item              |  Dificuldade de Carga  | Preço Médio |
-| :---------------- | :--------------------: | ----------: |
-| Armadura leve     | 1                      | 50pc        |
-| Armadura média    | 2                      | 1pp         |
-| Armadura pesada   | 3                      | 3pp         |
-| Broquel           | 1                      | 25pc        |
-| Escudo médio      | 1                      | 1pp         |
-| Escudo de torre   | 2                      | 1,5pp       |
-| Arma simples      | 1                      | 50pc        |
-| Arma média        | 1                      | 1pp         |
-| Arma grande       | 2                      | 1,5pp       |
-| Foco arcano       | 1                      | 2pp         |
-| Símbolo divino    | 1                      | 2pp         |
-
-Os personagens começam com os equipamentos que são treinados para usar, contudo pode-se querer trocar de equipamentos ou mesmo perder alguma coisa em suas viagens. Além disso, a dificuldade de carga é apenas para equipamentos que não estão em uso, ou seja, armas em bainhas e armaduras vestidas.
-
 ### Pacotes de Aventureiro
 
 Nesta sessão estão organizados alguns pacotes de itens para facilitar na compra daqueles que não querem personalizar seu equipamento e para exemplificar o tipo de coisa que pode ser levada para uma aventura. Todos pacotes foram comprados com as 2 peças de prata iniciais que os jogadores podem usar para montar seus kits.

@@ -133,6 +133,25 @@ Focos de gelo são artefatos adornados com cristais de gelo e enquanto o Element
 Os símbolos divinos, quer sejam relacionados com divindades da Luz, Trevas, Vida ou Morte, podem qualquer objeto que seja relacionado ao seu deus. A única regra é que o símbolo deve ser empunhado na hora de conjurar um milagre ocupando uma das mãos do milagreiro. Assim sendo, os símbolos podem ser estatuetas de pessoas divinas, colares com símbolos do deus, objetos análogos a crucifixos, objetos análogos a terços ou qualquer coisa do gênero que o jogador queira criar e usar como símbolo de seu deus.
 
 
+## Preços de Equipamentos de Combate
+
+| Item              |  Espaço de Arsenal  |  Dificuldade de Carga  | Preço Médio |
+| :---------------- | :-----------------: | :--------------------: | ----------: |
+| Armadura leve     | -                   | 1                      | 50pc        |
+| Armadura média    | -                   | 2                      | 1pp         |
+| Armadura pesada   | -                   | 3                      | 3pp         |
+| Broquel           | 2                   | 1                      | 25pc        |
+| Escudo médio      | 2                   | 1                      | 1pp         |
+| Escudo de torre   | 3                   | 2                      | 1,5pp       |
+| Arma leve         | 1                   | 1                      | 50pc        |
+| Arma média        | 2                   | 1                      | 1pp         |
+| Arma grande       | 2                   | 2                      | 1,5pp       |
+| Foco arcano       | 2                   | 1                      | 2pp         |
+| Símbolo divino    | 2                   | 1                      | 2pp         |
+
+Os personagens começam com os equipamentos que são treinados para usar, contudo pode-se querer trocar de equipamentos ou mesmo perder alguma coisa em suas viagens. Além disso, o **espaço de arsenal** que cada coisa ocupa corresponde aos 6 espaços disponíveis em cada ficha de personagem, a dificuldade de carga só se aplica ao levar um item na mochila sem possibilidade de saque rápido.
+
+
 ## Aprimoramento de Equipamentos
 Nesta porção do capítulo de Arsenal será explicada a mecânica de aprimoramento de itens. Aprimorar seu equipamento é uma maneira de progressão uma vez que tornará um personagem mais capaz de enfrentar diferentes situações de combate que compõem boa parte das aventuras.
 
