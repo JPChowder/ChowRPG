@@ -85,3 +85,8 @@ nav:
     - Estados: estados.md
     - Morte: morte.md
   - Bases: bases.md
+  - Para Imprimir:
+    - Ficha de Jogador: print/ficha_personagem_1.2.2.pdf
+    - Encarte de Manobras de Combate: print/encarte_lutadores_2.0.pdf
+    - Encarte de Magias Elementais: print/encarte_elementais_2.0.pdf
+    - Encarte de Milagres Divinos: print/encarte_divinos_2.0.pdf
