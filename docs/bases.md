@@ -33,10 +33,9 @@ Nesse posto é possível que os jogadores consertem e melhorem equipamento comum
 ### O Mercado
 A barraca do mercador é onde se encontra os itens mais diversos desde mercadorias comuns até coisas que não se deveria encontrar em lugar nenhum. Assim que for estabelecido, o mercado oferece equipamentos de viagem para a compra e consegue contatos o suficiente para estabelecer mais um posto de trabalho. Partindo do segundo nível é possível comprar mais equipamentos, no terceiro o mercado tem contatos interessados em comprar tesouros encontrados em aventuras e no último nível se pode obter itens raros e mágicos do mercado.
 
- - **Nível 1**: Passa a negociar raçoes e equipamentos de viagem, aumenta o nº de postos em 1.
- - **Nível 2**: Pode-se comprar qualquer equipamento básico do livro no mercado.
- - **Nível 3**: O mercado passa a comprar tesouros encontrados em aventuras.
- - **Nível 4**: Os mercadores passam a vender itens mais raros como cristais para criar equipamentos, itens de melhora de equipamentos.
+ - **Nível 1**: Passa a negociar raçoes e itens de inventário, aumenta o nº de postos em 1.
+ - **Nível 2**: Pode-se comprar qualquer item de arsenal e profissão do livro no mercado.
+ - **Nível 3**: Os mercadores passam a vender itens mais raros como cristais para criar equipamentos e metais de melhora de equipamentos.
 
 ## A Toca dos Caçadores
 A toca é responsável por trazer uma parte da comida que a base consome, não só isso mas os caçadores da toca conhecem as criaturas que andam pelas matas ao redor da base. Permite ter mais postos de trabalho no forte e da acesso a missões de caça.
