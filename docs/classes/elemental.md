@@ -117,7 +117,7 @@ Todas as magias aqui expostas são uma gama de efeitos que são possíveis de se
 
     **Empurrão**: Ataca a defesa de FORTALEZA de um alvo e faz com que uma forte corrente de vento o empurre em qualquer direção. Se o alvo colidir com terreno recebe 3 + MENTE de dano contundente e se ele colidir com outro indivíduo ambos recebem 3 + MENTE de dano contundente. Possui 10m de alcance e se for conjurado em uma área cônica ou linear move todos os alvos na mesma direção, já se for conjurado em áreas quadradas pode mover todos em uma mesma direção, unir todos no centro ou jogar todos para longe do centro da área.
 
-    **Vendaval Desnorteador**: Faz com que um alvo que sofre um ataque em sua defesa de FORTALEZA gire no próprio eixo e fique TONTO. 10m de alcance.
+    **Vendaval Desnorteador**: Faz com que um alvo que sofre um ataque em sua defesa de FORTALEZA gire no próprio eixo e fique ZONZO. 10m de alcance.
 
     **Tufão Desestabilizante**: Faz com que um tufão que vem de baixo para cima derrube alguém com as pernas para o alto. Mira a defesa de AGILIDADE, tem 10m de alcance e causa 3 de dano contundente pela queda.
 
@@ -129,7 +129,7 @@ Todas as magias aqui expostas são uma gama de efeitos que são possíveis de se
 
 === "Magias de Gelo"
 
-    **Queimadura de Frio**: Atira uma esfera de névoa congelante a até 10m de distância, ela mira a Defesa de Armadura de um alvo, causa 3 de dano congelante e deixa o alvo LENTO por um turno. Acertar um alvo que já está LENTO o deixa ALEIJADO, acertar um alvo ALEIJADO o deixa ALEIJADO + TONTO, acertar um alvo neste último estado o deixa CONGELADO.
+    **Queimadura de Frio**: Atira uma esfera de névoa congelante a até 10m de distância, ela mira a Defesa de Armadura de um alvo, causa 3 de dano congelante e deixa o alvo LENTO por um turno. Acertar um alvo que já está LENTO o deixa ALEIJADO, acertar um alvo ALEIJADO o deixa ALEIJADO + ZONZO, acertar um alvo neste último estado o deixa CONGELADO.
 
     **Parede de Gelo**: Ergue uma parede congelada de até 1,5m a até 5m de distância. Tem área inicial de 1x1 e a altura da parede pode ser dobrada gastando o dobro da mana na conjuração inicial.
 

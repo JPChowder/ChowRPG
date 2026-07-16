@@ -17,4 +17,4 @@ O estados em que um personagem pode se encontrar são listados a seguir. Cada um
  - **Morrendo**: Pode apenas rastejar-se com -5 de movimento, perde vida por turnos de forma fatorial: 1 no primeiro, 2 no segundo, 3 no terceiro\ldots Quando sua vida atual for menor que sua vida máxima negativada -1 o personagem morre.
  - **Sangrando**: O indivíduo recebe dano ao final de seu turno.
  - **Sufocado**: É incapaz de respirar e pode ser levado a um desmaio ou morte. Movimenta-se metade do normal e age com desvantagem menor.
- - **Tonto**: Deve escolher entre uma ação de combate ou de movimento.
+ - **Zonzo**: Deve escolher entre uma ação de combate ou de movimento.

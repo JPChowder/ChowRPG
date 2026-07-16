@@ -11,10 +11,10 @@ Qualquer aliado da pessoa caída pode correr até a pessoa e gastar seu turno pa
 
 Não pense que se você continuar a ser desmaiado você continuará agindo com o máximo de suas capacidades, apanhar até ficar inconsciente ou despencar de um telhado pra acordar enfaixado horas depois vai te atrapalhar até que consiga ter algum tempo de paz. Conforme se cai são adicionadas **PENALIDADES DE QUASE MORTE** a algum aspecto de seu personagem, as penalidade são listadas a seguir:
 
- - 2 quedas: perde nível/2 pontos de Mana/Fôlego/Graça máximo.
- - 4 quedas: seu padrão de cura é reduzido pela metade.
- - 6 quedas: perde o bônus de atributo em todas as defesas.
- - 7 quedas: -5 pontos de vida máxima.
- - 8 quedas: realiza todas as jogadas com desvantagem menor.
+ - 2 quedas: Perde nível/2 pontos de Mana/Fôlego/Graça máximo.
+ - 3 quedas: Perde o bônus de atributo em todas as defesas.
+ - 4 quedas: Suas curas são reduzidas pela metade.
+ - 5 quedas: -5 pontos de vida máxima.
+ - 6 quedas: Realiza todas as jogadas com desvantagem menor.
 
 Cada vez que o personagem consegue realizar um **Descanso Completo** ele regride até 2 de suas penalidades, assim uma personagem que chega a um lugar seguro com 3 penalidades e descansa acordará revigorada, porém ainda com 1 penalidade.

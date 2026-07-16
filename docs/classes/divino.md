@@ -118,7 +118,7 @@ Os milagres dos Divinos tem efeitos e áreas bem definidos, isso vem do fato del
 
     **Mortificar**: Necrosa um alvo a até 10m causando CARISMA + 3 de dano necrótico. Ataca a defesa de FORTALEZA.
 
-    **Amortecer os Sentidos**: Prejudica os sentidos de um alvo a até 10m deixando-o TONTO. 10m de alcance, mira a defesa de FORTALEZA.
+    **Amortecer os Sentidos**: Prejudica os sentidos de um alvo a até 10m deixando-o ZONZO. 10m de alcance, mira a defesa de FORTALEZA.
 
     **Afastar Morto-Vivo**: Ataca a defesa de VONTADE de um morto-vivo causando TERROR sobre ele.
 
