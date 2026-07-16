@@ -17,7 +17,7 @@ Além disso, eu pretendo desenvolver alguns sistemas em segredo para então apre
 ## Roadmap de Adaptações
 
 1. Terminar talentos de níveis altos
-2. Adicionar fichas e encartes no repo
+2. Terminar update nos postos do forte e adicionar a ficha do forte no repo
 
 ## Horizonte de Atualizações
 

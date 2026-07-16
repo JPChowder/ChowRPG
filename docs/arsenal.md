@@ -149,7 +149,8 @@ Os símbolos divinos, quer sejam relacionados com divindades da Luz, Trevas, Vid
 | Foco arcano       | 2                   | 1                      | 2pp         |
 | Símbolo divino    | 2                   | 1                      | 2pp         |
 
-Os personagens começam com os equipamentos que são treinados para usar, contudo pode-se querer trocar de equipamentos ou mesmo perder alguma coisa em suas viagens. Além disso, o **espaço de arsenal** que cada coisa ocupa corresponde aos 6 espaços disponíveis em cada ficha de personagem, a dificuldade de carga só se aplica ao levar um item na mochila sem possibilidade de saque rápido.
+
+Os personagens começam com os equipamentos que são treinados para usar, contudo pode-se querer trocar de equipamentos ou mesmo perder alguma coisa em suas viagens. Além disso, o **espaço de arsenal** que cada coisa ocupa corresponde aos **6 espaços disponíveis em cada ficha de personagem**, a **dificuldade de carga** só se aplica ao levar um item na mochila sem possibilidade de saque rápido.
 
 
 ## Aprimoramento de Equipamentos

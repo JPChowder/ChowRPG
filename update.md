@@ -60,7 +60,7 @@ Isso acaba não facilitando as coisas como eu achei que faria, é mais fácil fa
 
 A ficha deve mudar pra refletir isso.
 
-## 6. Espaço pra itens especiais.
+## 6. Espaço pra itens especiais. - FEITO
 
 Slots específicos para itens equipados vai ornar direitinho com o novo sistema de carga. Os slots são:
 - Armadura
