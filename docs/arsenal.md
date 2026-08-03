@@ -80,7 +80,9 @@ Diferente das armas e escudos as armaduras neste sistema não possuem variação
 ### Armaduras Leves
 Armaduras confeccionadas com couro ou tecido.
 
-Concedem +**1 de armadura** e impõem uma penalidade de **-2 em *proezas baseadas em Agilidade e de Atletismo*** antes de serem melhoradas. Quando melhoradas ao máximo oferecem +3 de armadura, +1 e +3 nas defesas de **Agilidade** e **Fortaleza** respectivamente e *nenhuma penalidade em proezas*.
+Concedem +**1 de armadura** e impõem uma penalidade de **-2 em *proezas baseadas em Agilidade* e de *Atletismo*** antes de serem melhoradas.
+
+Quando melhoradas ao máximo oferecem +3 de armadura, +1 e +3 nas defesas de *Agilidade* e *Fortaleza* respectivamente e *nenhuma* penalidade em proezas.
 
  - **Jaquetão Acolchoado**: Uma armadura de tecido bem forrada para absorver impactos.
  - **Armadura de Pele Animal**: Armaduras criadas com base nas peles de uma caça.
@@ -89,7 +91,9 @@ Concedem +**1 de armadura** e impõem uma penalidade de **-2 em *proezas baseada
 ### Armaduras Médias
 Equipamentos compostos de malha, plaquetas ou uma combinação de couro e metais leves.
 
-Concedem **+2 de armadura**, **resistência 1 a cortes e perfurações** e impõem uma penalidade de **-3 em *proezas baseadas em Agilidade e de Atletismo*** antes de serem melhoradas, **impõem -1 de movimentação**. Depois de melhoradas concedem +4 de armadura, +2 das defesas de **Agilidade** e **Fortaleza** e sua penalidade nas proezas é de -2.
+Concedem **+2 de armadura**, **resistência 1 a cortes e perfurações** e impõem uma penalidade de **-3 em *proezas baseadas em Agilidade* e de *Atletismo*** antes de serem melhoradas, **impõem -1 de movimentação**.
+
+Depois de melhoradas concedem +4 de armadura, +2 das defesas de *Agilidade* e *Fortaleza* e sua penalidade nas proezas é de -2.
 
  - **Armadura Lamelar**: Vestes feitas com retângulos metálicos ou de couro costuradas umas nas outras em fileiras horizontais. As armaduras dos samurais eram lamelares.
  - **Brigandina**: Proteção feita com uma mistura de tecido ou couro com placas metálicas pregadas.
@@ -99,7 +103,9 @@ Concedem **+2 de armadura**, **resistência 1 a cortes e perfurações** e impõ
 ### Armaduras Pesadas
 Armaduras confeccionadas em metal.
 
-Concedem **+2 de armadura**, **resistência 1 a corte, perfuração e contusão** e uma penalidade de -4 em *proezas baseadas em **Agilidade** e de Atletismo* antes de serem melhoradas, **impõem -2 de movimentação**. Quando melhoradas ao máximo concedem +5 de armadura +2 na defesa de **fortaleza**, +1 na defesa de **Agilidade** e a penalidade em proezas se torna -3.
+Concedem **+2 de armadura**, **resistência 1 a corte, perfuração e contusão** e uma penalidade de **-4 em *proezas baseadas em Agilidade* e de *Atletismo*** antes de serem melhoradas, **impõem -2 de movimentação**.
+
+Quando melhoradas ao máximo concedem +5 de armadura +2 na defesa de *Fortaleza*, +1 na defesa de *Agilidade* e a penalidade em proezas se torna -3.
 
  - **Armadura Segmentada**: Proteção construída com grandes seguimentos articulados de metal
  - **Couraça de Metal**: Grande couraça metálica que protege o tronco de uma pessoa junto de luvas, perneiras e ombreiras.
@@ -140,14 +146,14 @@ Os símbolos divinos, quer sejam relacionados com divindades da Luz, Trevas, Vid
 | Armadura leve     | -                   | 1                      | 50pc        |
 | Armadura média    | -                   | 2                      | 1pp         |
 | Armadura pesada   | -                   | 3                      | 3pp         |
+| Arma leve         | 1                   | 1                      | 50pc        |
+| Arma média        | 2                   | 1                      | 1pp         |
+| Arma grande       | 3                   | 2                      | 1,5pp       |
+| Foco arcano       | 2                   | 1                      | 2pp         |
+| Símbolo divino    | 2                   | 1                      | 2pp         |
 | Broquel           | 2                   | 1                      | 25pc        |
 | Escudo médio      | 2                   | 1                      | 1pp         |
 | Escudo de torre   | 3                   | 2                      | 1,5pp       |
-| Arma leve         | 1                   | 1                      | 50pc        |
-| Arma média        | 2                   | 1                      | 1pp         |
-| Arma grande       | 2                   | 2                      | 1,5pp       |
-| Foco arcano       | 2                   | 1                      | 2pp         |
-| Símbolo divino    | 2                   | 1                      | 2pp         |
 
 
 Os personagens começam com os equipamentos que são treinados para usar, contudo pode-se querer trocar de equipamentos ou mesmo perder alguma coisa em suas viagens. Além disso, o **espaço de arsenal** que cada coisa ocupa corresponde aos **6 espaços disponíveis em cada ficha de personagem**, a **dificuldade de carga** só se aplica ao levar um item na mochila sem possibilidade de saque rápido.

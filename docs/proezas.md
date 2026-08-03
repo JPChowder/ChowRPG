@@ -7,7 +7,7 @@ Cada *proeza* pode ser usada em diferentes situações e o uso de cada uma delas
 ## Proezas de Fortaleza
 /// html | div[style='float: left; width: 45%;']
 **Atletismo**:
-*Atletismo* é usado para realizar atos de força, velocidade e de capacidade atlética em geral. Saltar longas distâncias, erguer obstáculos pesados, escalar e realizar ações de habilidade e força física. Esta é uma *proeza** simples de se explicar e personagens que sejam guerreiros, exploradores ou que tenham um histórico de trabalho braçal
+*Atletismo* é usado para realizar atos de força, velocidade e de capacidade atlética em geral. Saltar longas distâncias, erguer obstáculos pesados, escalar e realizar ações de habilidade e força física. Esta é uma *proeza* simples de se explicar e personagens que sejam guerreiros, exploradores ou que tenham um histórico de trabalho braçal
 ///
 
 /// html | div[style='float: right; width: 45%;']

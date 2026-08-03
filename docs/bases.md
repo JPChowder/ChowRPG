@@ -11,7 +11,7 @@ Os postos da base são as **Fortificações**, os **Estábulos**, a **Oficina de
 ### As Fortificações
 Estas são as defesas do forte, a princípio é necessário arrumar as paredes e fazer o portão funcionar, depois disso se pode cavar um fosso ao redor do forte para funilar atacantes e adquirir artilharia para proteger o forte de ataques mais intensos.
 
- - **Nível 1**: Conserta muros externos e portão principal fica 100\% operacional.
+ - **Nível 1**: Conserta muros externos e portão principal fica 100% operacional.
  - **Nível 2**: Cava um fosso ao redor do castelo e instala uma ponte elevadiça.
  - **Nível 3**: Adquire um conjunto de morteiros que podem ser usados para atirar do pátio do castelo para fora, mirando os arredores imediatos do castelo.
  - **Nível 4**: Adquire 4 canhões que ficam sobre os muros do forte, os canhões podem ser movidos pelos muro e organizados de diferentes formas.
@@ -55,5 +55,5 @@ Este é o lugar que você vai quando passa muito próximo da morte ou quando que
 A casa do conhecimento do forte, ajudara a entender a magia desse mundo, seja ela encontrada ou construída e no nível máximo ajudará na mobilidade dos aventureiros com um círculo de teletransporte.
 
  - **Nível 1**: Dá a capacidade de identificar itens mágicos e em combinação com um Oficina de Ferreiro nível 2 permite melhorar itens mágicos.
- - **Nível 2**: Em combinação com uma Oficina de Ferreiro nível 2 permite combinar cristais mágicos e milagrosos com armas comuns.
+ - **Nível 2**: Em combinação com uma Oficina de Ferreiro nível 2 permite combinar cristais mágicos e runas milagrosas com armas comuns.
  - **Nível 3**: Permite a construção de um círculo de teletransporte permanente no forte, fazendo com que estudantes dos cristais possam voltar para o forte facilmente.
