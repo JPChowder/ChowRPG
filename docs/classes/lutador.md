@@ -64,7 +64,7 @@ O que afeta a capacidade de um Lutador de realizar manobras de combate é a arma
 
     **Golpe nas Pernas**: Golpe que mira a Defesa de ARMADURA do alvo. Acerto causa 2 de dano a menos que um ataque normal e deixa o alvo LENTO por 1 turno. Crítico dobra o dano e deixa o alvo ALEIJADO por 1 turno.
 
-    **Pose defensiva**: Firma os pés no chão e se prepara para receber um ataque. Com *armas médias* aumenta a Armadura em **+1**, *armas grandes*, *escudo médio* e *broquel* em **+2** e *escudos grandes* **+3**. Para cada ponto em que o ataque inimigo superar sua armadura original se perde 1 ponto de fôlego, quando seu fôlego acabar a manobra e seus bônus acabam junto. Se um ataque superar sua armadura original em X e o seu fôlego restante for Y < X o ataque acerta, a não ser que ele seja o primeiro ataque após a realização da manobra.
+    **Pose defensiva**: Firma os pés no chão e se prepara para receber um ataque. Com *armas médias* aumenta a Defesa de Armadura em **+1**, *armas grandes*, *escudo médio* e *broquel* em **+2** e *escudos grandes* **+3**. Para cada ponto em que o ataque inimigo superar sua armadura original se perde 1 ponto de fôlego, quando seu fôlego acabar a manobra e seus bônus acabam junto. Se um ataque superar sua armadura original em X e o seu fôlego restante for Y < X o ataque acerta, a não ser que ele seja o primeiro ataque após a realização da manobra.
 
     **Ripostar**: Usado como reação a um ataque inimigo que use algum tipo de arma corpo-a-corpo (gasta seu turno). Ataca Defesa de AGILIDADE do alvo e se acertar, rebate o ataque tornando o atacante ZONZO e concedendo um ataque imediato ao lutador que ripostou. Escudos e Rapieiras realizam esta manobra com vantagem menor.
 
@@ -94,10 +94,10 @@ O que afeta a capacidade de um Lutador de realizar manobras de combate é a arma
 
     **Tiro com Pulo**: Atira contra um alvo enquanto se joga 2m em alguma direção. Ao final do seu turno você estará DERRUBADO.
 
-    **Cravar Dardo/Flecha**: Saca um projétil e busca apunhalar as pernas de um inimigo adjacente. Mira a defesa de AGILIDADE, causa 3 de dano perfurante e deixa o alvo LENTO por um turno.
+    **Cravar Dardo/Flecha**: Saca um projétil e busca apunhalar as pernas de um inimigo adjacente. Mira a defesa de AGILIDADE, causa 3 + AGILIDADE de dano perfurante e deixa o alvo LENTO por um turno.
 
     **Atirar Duas Flechas**: Exclusivo para usuários de Arcos. Ataca simultaneamente dois alvos que devem estar dentro de um cone de base 11 com a ponta no atirador e não pode mirar 2 flechas num mesmo alvo. Mira a defesa de Armadura. Crítico dobra o dano para ambos os alvos.
 
     **Dardo Preciso**: Exclusivo para usuários de Bestas. Gasta fôlego para receber vantagem menor, pode gastar + 5 de fôlego para ganhar vantagem maior. Crítico **triplica** o dano.
 
-    **Saraivada de Pedregulhos**: Exclusivo para usuários de Fundas. Ao invés de carregar uma pedra, enche a funda de pequenas pedras que voam juntas até acertarem um alvo, depois disso se dispersam em um cone com 3m de base atrás dele. Causa 3 de dano contundente no alvo primário, que é atacado em sua defesa de Armadura, e 2 de sangramento nos alvos secundários.
+    **Saraivada de Pedregulhos**: Exclusivo para usuários de Fundas. Ao invés de carregar uma pedra, enche a funda de pequenas pedras que voam juntas até acertarem um alvo, depois disso se dispersam em um cone com 3m de base atrás dele. Causa 4 + AGILIDADE de dano contundente no alvo primário, que é atacado em sua defesa de Armadura, e 2 + AGILIDADE de sangramento nos alvos secundários.
