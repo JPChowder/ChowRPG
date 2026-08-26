@@ -91,17 +91,17 @@ Todas as magias aqui expostas são uma gama de efeitos que são possíveis de se
 
     **Revestir em Pedras**: O Elemental se cobre de minerais retirados do chão e assim ganha defesas e uma fonte de dano. Além disso, quando revestido em pedras o elemental ganha acesso às manobras de Lutador **Pose Defensiva**, **Pancada Deslocante** e **Pancada Atordoante** como se tivesse uma *arma contundente grande*. As manobras de combate tem o mesmo custo de fôlego que para os lutadores, porém usando mana. Os níveis de revestimento são descritos a seguir:
 
-    - *Nível 1* - Reveste seus braços com pedras e se torna capaz de causar dano contundente. Recebe +1 de armadura e é capaz de causar 4 de dano contundente.
+    - *Nível 1* - Reveste seus braços com pedras e se torna capaz de causar dano contundente. **Recebe +1 de armadura** e é capaz de causar **4 de dano contundente** com um ataque corpo a corpo.
 
-    - *Nível 2* - O revestimento do Elemental é melhorado e agora suas pernas também são revestidas, recebe + 1 de armadura e +1 de resistência a cortes e perfurações. Causa 5 de dano contundente com um golpe.
+    - *Nível 2* - O revestimento do Elemental é melhorado e agora suas pernas também são revestidas, recebe **+1 de resistência a cortes e perfurações**. Causa **5 de dano contundente** com um golpe e tem uma penalidade de **-1 na movimentação**.
 
-    - *Nível 3* - Neste nível o Elemental está completamente coberto por pedras. Recebe +1 de armadura e +1 de resistência a cortes, perfurações e contusões. Ele causa agora 6 de dano por ataque e aumenta sua FORTALEZA em 1. Ele perde 1 metro de movimentação. Além disso ele pode escolher um tipo de dano físico secundário para causar com um de seus braços, se for escolhido dano cortante o elemental ganha acesso à manobra **Corte Sangrento**, se for escolhido dano perfurante ganha a manobra **Estocada Firme**. 
+    - *Nível 3* - Neste nível o Elemental está completamente coberto por pedras. Recebe **+1 de resistência a cortes, perfurações e contusões**. Ele causa agora **6 de dano contundente** por ataque e aumenta sua **FORTALEZA em +1**. É penalizado com **-1 metro de movimentação**. Além disso ele **pode escolher um tipo de dano físico secundário (corte ou perfuração) para causar com um de seus braços**, **se for escolhido dano cortante o elemental ganha acesso à manobra Corte Sangrento**, **se for escolhido dano perfurante ganha a manobra Estocada Firme**. 
 
-    - *Nível 4* - Agora o Elemental se torna um golem de pedra, ele alcança até 2,5m de altura. Seu dano (primário e secundário) é igual a 8 com um golpe e suas resistências a corte, perfuração e contusão sobem em +1 assim como sua armadura e FORTALEZA. Com 4 níveis de revestimento o Elemental só consegue conjurar **Pedrada** e **Terremoto**, que são conjurados com vantagem menor e com 1 instância do modificador de aumento de dano. Perde 1 quadrado/metro de movimento.
+    - *Nível 4* - Agora o Elemental se torna um golem de pedra, ele alcança até 2,5m de altura. **Seu dano (primário e secundário) é igual a 8** com um golpe e **suas resistências a corte, perfuração e contusão sobem em +1 assim como sua armadura e FORTALEZA**. Com 4 níveis de revestimento o Elemental só consegue conjurar **Pedrada** e **Terremoto**, que são conjurados com vantagem menor e com 1 instância do modificador de aumento de dano. **Perde 1 quadrado/metro de movimento**.
 
     O máximo nível dessa magia corresponde ao nível que o Elemental é capaz de conjurar com uma única ação.
 
-    No nível 1 o elemental recebe penalidade em proezas baseadas em agilidade e na proeza de atletismo como se vestisse uma armadura leve, no nível 2 a penalidade é de armadura média e no 3 de armadura pesada. No último nível é impossível realizar proezas baseadas em agilidade ou proezas de atletismo.
+    No **nível 1** o elemental recebe **penalidade de -2 em *proezas baseadas em Agilidade* e na *proeza de atletismo***, no **nível 2** recebe **-3** e no **nível 3** recebe **-4**. **No nível 4 é impossível realizar *proezas baseadas em Agilidade* ou *proezas de atletismo***.
 
     Caso tenha gasto camadas com a **Pedrada** pode repor esta camada usando 4 de mana. Se o Elemental chegar a 0 de vida enquanto ainda possui níveis de revestimento ele perde todos eles e cai deitado sobre uma pilha de pedras. Esta magia não pode receber modificadores de área
 

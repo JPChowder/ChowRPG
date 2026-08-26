@@ -6,18 +6,19 @@ Diferente de RPGs tradicionais, a progressão nesse jogo não é feita através 
 /// html | div[style='float: left; width: 45%;']
 - Completar sua primeira viagem.
 - Completar 10 viagens.
-- Viajar por 20 hexágonos do mapa.
 - Acampar 10 vezes.
 - Participar de 10 combates.
 - Cair ou auxiliar aliados caídos em 10 combates diferentes.
-- Derrotar 20 inimigos.
 - Resolver 10 situações sem usar combate.
+- Usar habilidades das suas profissões 10 vezes.
+- Sofrer ou escapar dos efeitos de 5 armadilhas.
+- Gastar um total de 1 peça de ouro.  
 ///
 
 /// html | div[style='float: right;width: 45%;']
 ///
-- Usar habilidades das suas profissões 10 vezes.
-- Sofrer ou escapar dos efeitos de 5 armadilhas.
+- Viajar por 100 hexágonos do mapa.
+- Derrotar 50 inimigos.
 - Realizar 10 proezas.
 - Realizar 30 proezas.
 - Participar de 5 correrias.
@@ -25,7 +26,6 @@ Diferente de RPGs tradicionais, a progressão nesse jogo não é feita através 
 - Melhorar itens de arsenal 3 vezes.
 - Construir 1 item mágico.
 - Vender 10 itens diferentes.
-- Gastar um total de 1 peça de ouro.
 /// html | div[style='clear: both;']
 ///
 

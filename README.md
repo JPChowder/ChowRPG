@@ -16,11 +16,13 @@ Além disso, eu pretendo desenvolver alguns sistemas em segredo para então apre
 
 ## Roadmap de Adaptações
 
-1. Terminar talentos de níveis altos
-2. Terminar update nos postos do forte e adicionar a ficha do forte no repo
+1. Terminar talentos de níveis altos.
+2. Terminar update nos postos do forte e adicionar a ficha do forte no repo.
+3. Refazer a progressão do jogo para que ela seja linear.
 
 ## Horizonte de Atualizações
 
-1. Magias dos peles verdes
-2. Novas classes
-3. Wargame/batalhas de exércitos
+1. Especializações na progressão.
+2. Magias dos peles verdes
+3. Novas classes
+4. Wargame/batalhas de exércitos
