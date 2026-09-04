@@ -6,8 +6,6 @@ Qualquer que seja seu elemento, os elementais usam sua **mana** para causar efei
 
 Dentro do jogo diferentes **talentos** podem mudar perfil de um Elemental. Eles podem permiti-lo usar armas e armaduras, podem focá-lo em causar efeitos em inimigos ou em aliados e podem aumentar a efetividade de suas magias que miram alvos únicos ou que miram grupos.
 
-O ponto de progressão onde os elementais tem um pico de poder é o nível 6, partindo deste nível é possível conjurar 2 magias por turno e se o Elemental possuir o talento de *Conjurador Combatente* ele pode realizar 1 ataque armado e conjurar uma magia. Ações simples também podem ser feitas em pares e se uma proeza for realizada ela não pode vir juto de uma outra proeza, apenas de um ataque com arma ou conjuração.
-
 Ao fazer uma jogada de conjuração pode ser que o jogador obtenha um acerto crítico. Magias críticas acertam automaticamente e se a carta usada for par a magia terá o dobro do dano, se for ímpar a magia terá o dobro da duração. Se a magia apenas causar dano um crítico dobra este dano e se ela apenas causar um efeito sua duração é dobrada.
 
 Habilidades mágicas podem ser usada foras de combate de acordo com um acordo entre jogador e mestre para queimar regeneração máxima até o próximo descanso longo. Imagine que um Elemental do ar queira usar suas habilidades para planar sobre um precipício e chegar ao outro lado, ele gastará x pontos de sua regeneração de **mana**, efetivamente reduzindo ela em x pontos até seu próximo descanso longo. Uma coisa trivial pode não custar nada, uma ação fácil pode custar até 2 de regeneração, uma ação média até 4 e uma ação difícil até 6. Descansos curtos não afetam regeneração perdida desta forma.

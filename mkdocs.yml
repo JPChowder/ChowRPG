@@ -71,9 +71,10 @@ nav:
       - Divino: classes/divino.md
     - Progressão: progressao.md
     - Proezas: proezas.md
-    - Profissões: profissoes.md
     - Talentos: talentos.md
     - Arsenal: arsenal.md
+    - Profissões: profissoes.md
+    - Especializações: especializacoes.md
   - Aventurando-se:
     - Viagem: viagem.md
     - Inventário: inventario.md
@@ -87,6 +88,6 @@ nav:
   - Bases: bases.md
   - Para Imprimir:
     - Ficha de Jogador: print/ficha_personagem_1.2.3.pdf
-    - Encarte de Manobras de Combate: print/encarte_lutadores_2.0.pdf
-    - Encarte de Magias Elementais: print/encarte_elementais_2.0.pdf
+    - Encarte de Manobras de Combate: print/encarte_lutadores_2.1.pdf
+    - Encarte de Magias Elementais: print/encarte_elementais_2.1.pdf
     - Encarte de Milagres Divinos: print/encarte_divinos_2.0.pdf

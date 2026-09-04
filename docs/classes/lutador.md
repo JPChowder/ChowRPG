@@ -6,9 +6,8 @@ A escolha do tipo de arma com a qual um Lutador enfrentará suas ameaças é o p
 
 Em questão de proteção, Lutadores podem ser treinados no uso de armaduras leves, médias ou pesadas. É importante lembrar que a defesa ofertada por cada equipamento é inversamente proporcional a movimentação que ele permite e também a taxa de sucesso em proezas de **agilidade** e **fortaleza**. Vale ressaltar que a utilidade de um escudo vai além de ter algo entre sua cara e um machado, seu escudo pode ser usado para golpear inimigos numa manobra de combate.
 
-Partindo do nível 5 Lutadores podem realizar duas ações por turno, isso significa que em uma luta se pode realizar 2 ataques ou 2 manobras ou 1 ataque e 1 manobra. Diferente das outras classes, Lutadores podem realizar duas proezas em seu turno.
 
-## Manobras
+## Lista de Manobras
 
 O que afeta a capacidade de um Lutador de realizar manobras de combate é a arma que eles empunham, algumas manobras podem ser realizadas independente da arma carregada, outras exigem que o Lutador esteja desarmado. Armas médias e grandes podem realizar as mesmas manobras, a diferença é que manobras que exigem precisão são mais fáceis de serem realizadas com armas menores.
 
@@ -41,16 +40,16 @@ O que afeta a capacidade de um Lutador de realizar manobras de combate é a arma
 
 **Manobras de Armas de Projetil**
 
-| Manobra                  | Custos       |
-| :----------------------- | :----------: |
-| Tiro nas Pernas          | 2 de fôlego  |
-| Tiro com Pulo            | 3 de fôlego  |
-| Cravar Dardo/Flecha      | 5 de fôlego  |
-| Atirar duas Flechas      | 10 de fôlego |
-| Dardo Preciso            | 10 de fôlego |
-| Saraivada de Pedregulhos | 10 de fôlego |
+| Manobra                  | Custos            |
+| :----------------------- | :---------------: |
+| Tiro nas Pernas          | 2 de fôlego       |
+| Arremessar Equipamento   | 4/8/12 de fôlego  |
+| Cravar Dardo/Flecha      | 5 de fôlego       |
+| Atirar duas Flechas      | 10 de fôlego      |
+| Dardo Preciso            | 10 de fôlego      |
+| Ricochete                | 10 de fôlego      |
 
-**Efeitos das Manobras**
+## Efeitos das Manobras
 
 === "Independentes de Arma"
 
@@ -92,7 +91,7 @@ O que afeta a capacidade de um Lutador de realizar manobras de combate é a arma
 
     **Tiro nas Pernas**: Golpe que mira a Defesa de ARMADURA do alvo. Acerto causa 2 de dano a menos que um ataque normal e deixa o alvo LENTO por 1 turno. Crítico dobra o dano e deixa o alvo ALEIJADO por 1 turno.
 
-    **Tiro com Pulo**: Atira contra um alvo enquanto se joga 2m em alguma direção. Ao final do seu turno você estará DERRUBADO.
+    **Arremessar Equipamento**: Devido ao treino de pontaria, atiradores são capazes de arremessar objetos com maior precisão. Essa manobra é usada principalmente para atirar granadas e equipamentos especiais contra inimigos, mas pode ser usada pra tacar até mesmo um tijolo. Gasta 4, 8 ou 12 de fôlego para receber +1, +2 ou +3, respectivamente, na jogada de arremesso.
 
     **Cravar Dardo/Flecha**: Saca um projétil e busca apunhalar as pernas de um inimigo adjacente. Mira a defesa de AGILIDADE, causa 3 + AGILIDADE de dano perfurante e deixa o alvo LENTO por um turno.
 
@@ -100,4 +99,5 @@ O que afeta a capacidade de um Lutador de realizar manobras de combate é a arma
 
     **Dardo Preciso**: Exclusivo para usuários de Bestas. Gasta fôlego para receber vantagem menor, pode gastar + 5 de fôlego para ganhar vantagem maior. Crítico **triplica** o dano.
 
-    **Saraivada de Pedregulhos**: Exclusivo para usuários de Fundas. Ao invés de carregar uma pedra, enche a funda de pequenas pedras que voam juntas até acertarem um alvo, depois disso se dispersam em um cone com 3m de base atrás dele. Causa 4 + AGILIDADE de dano contundente no alvo primário, que é atacado em sua defesa de Armadura, e 2 + AGILIDADE de sangramento nos alvos secundários.
+    **Ricochete**: Exclusivo para usuários de Fundas. Gasta fôlego para realizar um ataque que se for bem sucedido ricocheteia para outro alvo a até 5m, o tiro ricocheteado perde 2 de dano no próximo alvo. Pode-se mirar novos alvos contanto que ainda haja dano a ser aplicado. Crítico dobra o dano no primeiro alvo, causa dano normal no segundo e passa a perder 2 de dano para cada alvo sucessivo.
+
