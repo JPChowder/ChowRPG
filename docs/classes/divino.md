@@ -6,8 +6,6 @@ As divindades deste mundo não tem um só nome, porém são de quatro domínios 
 
 Para além dos milagres dados por seu deus, o divino se aventura fazendo o uso de armaduras que podem ser leves ou médias e de armas que podem ser médias ou pesados, mas não são capazes de realizar manobras de combate. Os ataques com as armas usam como bônus o atributo de FORTALEZA. 
 
-A força dos Divinos aumenta muito no nível 6 quando são capazes de realizar mais que uma ação por turno, partindo deste ponto pode-se escolher realizar 2 ataques com arma ou 1 ataque e 1 milagre, porém nunca será possível realizar 2 milagres num mesmo turno. Também é possível realizar uma proeza junto de um ataque ou milagre.
-
 Ao realizar ataques com suas armas, pode ser que o jogador obtenha crítico e se isso ocorrer este ataque acertará automaticamente e causará o dobro do dano. Já se o jogador obtiver crítico ao realizar um milagre ele dobrará a duração de efeitos impostos por este milagre ou dobrará o dano do milagre se este for um milagre de dano. 
 
 É importante lembrar que a divindade escolhida por um divino jamais poderá ser trocada e um mesmo divino nunca será relacionado com duas divindades. Além disso, para conjurar milagres é necessário possuir um **símbolo divino** pelo qual o efeito será canalizado. Os **símbolos divinos**, quer sejam relacionados com divindades da Luz, Trevas, Vida ou Morte, podem qualquer objeto que seja relacionado ao seu deus. A única regra é que o **símbolo** deve ser empunhado na hora de conjurar um milagre ocupando uma das mãos do milagreiro. Assim sendo, os **símbolos** podem ser estatuetas de pessoas divinas, colares com **símbolos** do deus, objetos análogos a crucifixos, objetos análogos a terços ou qualquer coisa do gênero que o jogador queira criar e usar como **símbolo** de seu deus. 
@@ -66,7 +64,7 @@ Os milagres dos Divinos tem efeitos e áreas bem definidos, isso vem do fato del
 
 === "Milagres da Luz"
 
-    **Arma da Luz**: Adiciona 1+ CARISMA dano radiante a uma arma até o final do turno de quem a empunha. Precisa tocar a arma para conjurar e não exige rolagem. Pode sacrificar a jogada de movimento para conjurar.
+    **Arma da Luz**: Adiciona 1 + CARISMA dano radiante a uma arma até o final do turno de quem a empunha. Precisa tocar a arma para conjurar e não exige rolagem. Pode sacrificar a jogada de movimento para conjurar.
 
     **Raio de Luz**: Um raio que ataca a defesa de ARMADURA de um alvo e causa 3 + CARISMA da dano radiante. Possui 10m de alcance.
 

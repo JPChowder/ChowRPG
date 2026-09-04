@@ -21,7 +21,7 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 | Ataque                | Defesa              | Especialização          |
 | :-------------------- | :-----------------: | ----------------------: |
 | Conjurador Combatente | Proteção Leve       | Catalisador Elemental   |
-| Atirador Arcano       | Proteção da Mente   | Controlador de Inimigos |
+| Atirador Arcano       | Proteção da Mente   | Feitiço Persistente |
 | Controlador de Espaço |          -          | Conjurador Sorrateiro   |
 
 **Talentos Iniciais de Divinos**
@@ -29,22 +29,22 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 | Ataque                      | Defesa          | Especialização       |
 | :-------------------------- | :-------------: | -------------------: |
 | Combatente de Armas Médias  | Proteção Leve   | Catalisador Divino   |
-| Combatente de Armas Grandes | Proteção Média  | Lutador Alerta       |
-|              -              | Proteção Divina | Maldição Persistente |
+| Combatente de Armas Grandes | Proteção Média  | Maldição Persistente |
+|              -              | Proteção Divina | Lutador Alerta       |
 
 === "Talentos de Lutadores"
 
     **Talentos de Ataque**
 
-    **Combatente de Armas Médias**: Soma seu **atributo de FORTALEZA** na jogada de ataque e de manobras usando armas médias e pequenas. Tem acesso a manobras de armas médias ao invés de manobras de armas grandes ou de projétil.
+    **Combatente de Armas Médias**: Soma seu atributo de FORTALEZA na jogada de ataque e de manobras usando armas médias e pequenas. Tem acesso a manobras de armas corpo-a-corpo e desarmadas.
 
-    **Combatente de Armas Grandes**: Soma seu **atributo de FORTALEZA** na jogada de ataque e de manobras usando armas grandes e pequenas. Tem acesso a manobras de armas grandes ao invés de manobras de armas médias ou de projétil.
+    **Combatente de Armas Grandes**: Soma seu atributo de FORTALEZA na jogada de ataque e de manobras usando armas grandes e pequenas. Tem acesso a manobras de armas corpo-a-corpo e desarmadas.
 
-    **Atirador**: Quando usando arcos, bestas e armas pequenas, o jogador soma seu **atributo de AGILIDADE** na jogada de ataque e de manobras. Tem acesso a manobras de armas de projétil ao invés de manobras de armas médias ou grandes.
+    **Atirador**: Quando usando arcos, bestas, fundas *e armas pequenas*, o jogador soma seu atributo de AGILIDADE na jogada de ataque e de manobras. Tem acesso a manobras de armas de projétil e independentes de armas. Recebe uma [especialização](especializacoes.md) para criar munições especiais, bombas e equipamentos de arremesso.
 
     **Talentos de Defesa**
 
-    **Proteção Leve**: É capaz de usar armaduras leves, broquel e escudo médio (o elemental que possui este talento é incapaz de usar escudos).
+    **Proteção Leve**: É capaz de usar armaduras leves, broquel e escudo médio.
 
     **Proteção Média**: É capaz de usar armaduras médias, broquel e escudo médio.
 
@@ -63,15 +63,15 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Talentos de Ataque**
 
-    **Conjurador Combatente**: O elemental é treinado no uso de UMA arma média. No nível 6, quando se pode realizar mais que uma ação por turno, o Conjurador Combatente pode realizar um ataque armado e uma magia, porém nunca 2 ataques armados.
+    **Conjurador Combatente**: O elemental é treinado no uso de UMA arma média.
 
-    **Atirador Arcano**: aumenta em 2 o dano de magias de alvo único que já causem dano.
+    **Atirador Arcano**: Aumenta em 2 o dano de magias de alvo único que já causem dano.
 
-    **Controlador de Espaço**: recebe 1 de mana de volta para cada 2 alvos atingidos dentro de uma área.
+    **Controlador de Espaço**: Recebe 1 de mana de volta para cada 2 alvos atingidos dentro de uma área.
 
     **Talentos de Defesa**
 
-    **Proteção Leve**: É capaz de usar armaduras leves, broquel e escudo médio (o elemental que possui este talento é incapaz de usar escudos).
+    **Proteção Leve**: É capaz de usar armaduras leves, porém não pode usar escudos.
 
     **Proteção da Mente**: Tem o atributo de MENTE somado a sua Defesa de Armadura e de **VONTADE**. Tem o valor de **MENTE/2** somado nas defesas de **AGILIDADE** e **FORTALEZA** além dos atributos normais.
 
@@ -79,17 +79,17 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Catalisador Elemental**: Efeitos mágicos que beneficiem aliados duram um turno a mais.
 
-    **Controlador de Inimigos**: Efeitos causados a inimigo duram um turno a mais.
+    **Feitiço Persistente**: Efeitos causados a inimigo duram um turno a mais.
 
-    **Conjurador Sorrateiro**: Conjurar contra um alvo que não lhe tenha percebido causa o dobro do dano ou da duração da magia no alvo.
+    **Conjurador Sorrateiro**: Conjurar contra um alvo que não lhe tenha percebido causa o dobro do dano ou da duração da magia no alvo. Escolha antes de conjurar.
 
 === "Talentos de Divinos"
 
     **Talentos de Ataque**
 
-    **Combatente de Armas Médias**: Soma seu **atributo de FORTALEZA** na jogada de ataque e de manobras usando armas médias e pequenas. Tem acesso a manobras de armas médias ao invés de manobras de armas grandes ou de projétil.
+    **Combatente de Armas Médias**: Soma seu atributo de FORTALEZA na jogada de ataque e de manobras usando armas médias e pequenas. Tem acesso a manobras de armas médias ao invés de manobras de armas grandes ou de projétil.
 
-    **Combatente de Armas Grandes**: Soma seu **atributo de FORTALEZA** na jogada de ataque e de manobras usando armas grandes e pequenas. Tem acesso a manobras de armas grandes ao invés de manobras de armas médias ou de projétil.
+    **Combatente de Armas Grandes**: Soma seu atributo de FORTALEZA na jogada de ataque e de manobras usando armas grandes e pequenas. Tem acesso a manobras de armas grandes ao invés de manobras de armas médias ou de projétil.
 
     **Talentos de Defesa**
 
@@ -102,11 +102,11 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Talentos de Especialização**
 
-    **Lutador Alerta**: Permite a realização de ataques de oportunidade: Uma vez por rodada pode atacar um alvo adjacente a voce que tenha atacado um aliado ou que tente sair de perto de você.
-
     **Catalisador Divino**: Efeitos que beneficiem aliados duram 1 turno a mais.
 
     **Maldição Persistente**: Efeitos divinos impostos a inimigos duram 1 turno a mais.
+
+    **Lutador Alerta**: Permite a realização de ataques de oportunidade: Uma vez por rodada pode atacar um alvo adjacente a voce que tenha atacado um aliado ou que tente sair de perto de você.
 
 
 ## Talentos de Nível 3
@@ -145,9 +145,9 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Olhos Oportunistas**: Deve possuir o talento Atirador para adquirir este talento. Quando um inimigo está FLANQUEADO por seus aliados você adquire vantagem menor em ataques direcionados a ele, mesmo sendo um atirador.
 
-    **Ataque de Passada**: Permite que você ataque efetivamente quando em meio a um deslocamento. Pode dividir sua ação de movimento para comportar um ataque em meio a duas corridas. A soma dos movimentos não pode superar sua movimentação.
+    **Ataque de Passada**: Permite que você aja efetivamente quando em meio a um deslocamento. Pode dividir sua ação de movimento para comportar ataques, manobras ou proezas em meio a duas corridas.
 
-    **Daví e Golias 1**: Cada terceiro ataque seguido a acertar o mesmo alvo ignora um ponto de qualquer resistência. Ataques de oportunidade não podem ativar este talento, porém realizar um ataque normal contra o alvo A e um ataque de oportunidade contra o alvo B em seguida recomeça a contagem de ataques consecutivos.
+    **Daví e Golias 1**: Cada terceiro ataque, manobra ou milagre seguido a acertar o mesmo alvo ignora um ponto de qualquer resistência. Ataques de oportunidade não podem ativar este talento, porém realizar um ataque normal contra o alvo A e um ataque de oportunidade contra o alvo B em seguida recomeça a contagem de ataques consecutivos.
 
     **Talentos de Defesa**
 
@@ -159,9 +159,9 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Ataque Furioso 1**: Realizar um acerto crítico faz o alvo sangrar (se possível) e perder 2 pontos de vida no proximo turno dele.
 
-    **Diplomacia da Força**: Convencimento vem em muitos sabores e o seu favorito é o gosto de sangue. Possui vantagem menor em *proezas de **CARISMA*** contra alvos que você tenha atacado antes.
+    **Diplomacia da Força**: Convencimento vem em muitos sabores e o seu favorito é o gosto de sangue. Possui vantagem menor em *proezas de CARISMA* contra alvos que você tenha atacado antes.
  
-    **Resistente a Dor**: Você é acostumado a trabalhar sob pressão e sob dor. Proezas de Resiliência que envolvam resistir a dor para desempenhar uma tarefa são roladas com vantagem menor.
+    **Resistente a Dor**: Você é acostumado a trabalhar sob pressão e sob dor. *Proezas de Resiliência* que envolvam resistir a dor para desempenhar uma tarefa são roladas com vantagem menor.
 
     **Traidor**: Você sabe se aproveitar da confiança que conquistou. Se uma criatura/pessoa é considerada sua aliada você possui pelo menos vantagem menor no primeiro ataque que realizar contra ela e receberá seus ataques com desvantagem menor na primeira vez que combaterem.
 
@@ -170,7 +170,7 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Talentos de Ataque**
 
-    **Ataque de Passada**: Permite que você ataque efetivamente quando em meio a um deslocamento. Pode dividir sua ação de movimento para comportar um ataque em meio a duas corridas. A soma dos movimentos não pode superar sua movimentação.
+    **Ataque de Passada**: Permite que você aja efetivamente quando em meio a um deslocamento. Pode dividir sua ação de movimento para comportar ataques, conjurações ou proezas em meio a duas corridas.
 
     **Sifão do Espírito**: Recupera 1 de mana ao matar um alvo com mais que 1 de vida máxima.
 
@@ -196,9 +196,9 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Encurralador** Aprende a aproveitar a atenção dividida de um alvo para mirar melhor seus golpes. Ignora até resistência 2 em alvos FLANQUEADOS.
 
-    **Ataque de Passada**: Permite que você ataque efetivamente quando em meio a um deslocamento. Pode dividir sua ação de movimento para comportar um ataque em meio a duas corridas. A soma dos movimentos não pode superar sua movimentação.
+    **Ataque de Passada**: Permite que você aja efetivamente quando em meio a um deslocamento. Pode dividir sua ação de movimento para comportar ataques, milagres ou proezas em meio a duas corridas.
 
-    **Daví e Golias 1** Cada terceiro ataque seguido a acertar o mesmo alvo ignora um ponto de qualquer resistência. Ataques de oportunidade não podem ativar este talento, porém realizar um ataque normal contra o alvo A e um ataque de oportunidade contra o alvo B em seguida recomeça a contagem de ataques consecutivos.
+    **Daví e Golias 1** Cada terceiro ataque, manobra ou milagre seguido a acertar o mesmo alvo ignora um ponto de qualquer resistência. Ataques de oportunidade não podem ativar este talento, porém realizar um ataque normal contra o alvo A e um ataque de oportunidade contra o alvo B em seguida recomeça a contagem de ataques consecutivos.
 
     **Talentos de Defesa**
 
@@ -208,7 +208,7 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Talentos de Especialização**
 
-    **Resistente a Dor**: Você é acostumado a trabalhar sob pressão e sob dor. Proezas de Resiliência que envolvam resistir a dor para desempenhar uma tarefa são roladas com vantagem menor.
+    **Resistente a Dor**: Você é acostumado a trabalhar sob pressão e sob dor. *Proezas de Resiliência* que envolvam resistir a dor para desempenhar uma tarefa são roladas com vantagem menor.
 
     **Traidor**: Você sabe se aproveitar da confiança que conquistou. Se uma criatura/pessoa é considerada sua aliada você possui pelo menos vantagem menor no primeiro ataque que realizar contra ela e receberá seus ataques com desvantagem menor na primeira vez que combaterem.
 
@@ -222,16 +222,17 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 | Ataque               | Defesa                   | Especialização        |
 | :------------------- | :----------------------: | --------------------: |
 | Embalo de Matador    | Lado a Lado              | Ataque Furioso 2      |
-| Daví e Golias 2      | Protegido das Divindades | Animal de Carga       |
-| Investida Tática     | Protegido dos Elementos  | Ambidestro            |
+| Daví e Golias 2      | Escudo de Vanguarda      | Animal de Carga       |
+| Investida Tática     | Atirador de Cobertura    | Ambidestro            |
 | Investida Brutal     | -                        | -                     |
 
 
 **Talentos de Elemental**
 
-| Ataque              | Defesa                   | Especialização       |
-| :------------------ | :----------------------: | -------------------: |
-|Conjurador Agressivo | Protegido das Divindades | Sobrecarga da Alma 2 |
+|  Ataque              | Defesa                   | Especialização        |
+| :------------------- | :----------------------: | --------------------: |
+| Conjurador Agressivo | Protegido das Divindades | Conjurador Abrangente |
+| -                    | -                        | Sobrecarga da Alma 2  |
 
 
 **Talentos de Divinos**
@@ -249,7 +250,9 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Talentos de Ataque**
 
-    **Daví e Golias 2**: Cada terceiro ataque seguido a acertar o mesmo alvo aumenta o dano causado em 2. Ataques de oportunidade não podem ativar este talento, porém realizar um ataque normal contra o alvo A e um ataque de oportunidade contra o alvo B em seguida recomeça a contagem de ataques consecutivos. Deve possuir o talento Daví e Golias 1.
+    **Embalo de Matador**: A adrenalina de abater um inimigo te leva a agir com grande velocidade. Desferir o golpe final em um inimigo que possui vida superior a 1 o permite realizar um novo ataque. Este talento não pode ser ativado por causa do segundo ataque. Usuários de balestras ganham uma recarga como ação livre SE FOR NECESSÁRIA para completar o segundo ataque.
+
+    **Daví e Golias 2**: Cada terceiro ataque, manobra ou milagre seguido a acertar o mesmo alvo aumenta o dano causado em 2. Ataques de oportunidade não podem ativar este talento, porém realizar um ataque normal contra o alvo A e um ataque de oportunidade contra o alvo B em seguida recomeça a contagem de ataques consecutivos. Deve possuir o talento Daví e Golias 1.
 
     **Investida Tática**: Correr 2 metros em direção a um inimigo antes de atacá-lo concede FORT pontos de fôlego neste turno.
 
@@ -258,11 +261,11 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Talentos de Defesa**
 
-    **Lado a Lado**: Estar adjacente a um aliado impõe desvantagem menor a ataques inimigos. Se seu parceiro possuir este talento ambos atacam com vantagem menor enquanto estiverem lutando ombro a ombro.
+    **Lado a Lado**: Estar adjacente a um aliado impõe desvantagem menor a ataques inimigos contra qualquer um de vocês. Se seu parceiro possuir este talento ambos atacam com vantagem menor enquanto estiverem lutando ombro a ombro.
 
-    **Protegido das Divindades**: Recebe 1 de resistência contra todas divindades que possuam danos próprios (Morte e Luz).
+    **Escudo de Vanguarda**: Recebe uma redução de todo tipo de dano em área equivalente ao nível de melhoria de seu escudo médio ou de torre.
 
-    **Protegido dos Elementos**: Recebe 1 de resistência contra todos elementos que possuam danos próprios (Fogo e Gelo).
+    **Atirador de Cobertura**: Estar atirando a partir de uma cobertura (pilar, mureta, mesa tombada, canto de parede) concede +1 na defesa de armadura e reduz todo dano em área recebido em 2.
 
 
     **Talentos de Especialização**
@@ -271,7 +274,7 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Animal de Carga**: Você é acostumado a carregar pesos, portanto alguns de seus  equipamentos não o atrapalham. Permite ignorar a penalidade de movimento advinda de armaduras médias, escudos médios e armas pesadas.
 
-    **Ambidestro**: Pode usar uma faca ou broquel como arma secundária na mão inábil. Tanto a faca quanto o broquel aumentam a Armadura em 1. Se o personagem acertar um ataque com sua arma principal ele pode realizar um ataque com a arma secundária como ação bônus. O broquel quando usado como arma causa 3 + nível de melhoria de dano contundente.
+    **Ambidestro**: Pode usar uma faca ou broquel como arma secundária na mão inábil. Tanto a faca quanto o broquel aumentam a Armadura em +1. Se o personagem acertar um ataque com sua arma principal ele pode realizar um ataque com a arma secundária como ação bônus. O broquel quando usado como arma causa 3 + nível de melhoria de dano contundente.
 
 
 === "Talentos de Elementais"
@@ -283,10 +286,12 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Talentos de Defesa**
 
-    **Protegido das Divindades**: Recebe 1 de resistência contra todas divindades que possuam danos próprios (Morte e Luz).
+    **Protegido das Divindades**: Recebe MENTE de resistência contra todas divindades que possuam danos próprios (Morte e Luz).
 
 
     **Talentos de Especialização**
+
+    **Conjurador Abrangente**: Todas as magias conjuradas com modificador de área recebem área aumentada 1x.
 
     **Sobrecarga da Alma 2**: Críticos ignoram até resistência 2.
 
@@ -295,9 +300,9 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Talentos de Ataque**
 
-    **Embalo de Matador**: A adrenalina de abater um inimigo te leva a agir com grande velocidade. Desferir o golpe final em um inimigo que possui vida superior a 1 o permite realizar um novo ataque. Este talento não pode ser ativado por causa do segundo ataque. Usuários de balestras ganham uma recarga como ação livre SE FOR NECESSÁRIA para completar o segundo ataque.
+    **Embalo de Matador**: A adrenalina de abater um inimigo te leva a agir com grande velocidade. Desferir o golpe final em um inimigo que possui vida superior a 1 o permite realizar um novo ataque. Este talento não pode ser ativado por causa do segundo ataque.
 
-    **Daví e Golias 2**: Cada terceiro ataque seguido a acertar o mesmo alvo aumenta o dano causado em 2. Ataques de oportunidade não podem ativar este talento, porém realizar um ataque normal contra o alvo A e um ataque de oportunidade contra o alvo B em seguida recomeça a contagem de ataques consecutivos. Deve possuir o talento Daví e Golias 1.
+    **Daví e Golias 2**: Cada terceiro ataque, manobra ou milagre seguido a acertar o mesmo alvo aumenta o dano causado em 2. Ataques de oportunidade não podem ativar este talento, porém realizar um ataque normal contra o alvo A e um ataque de oportunidade contra o alvo B em seguida recomeça a contagem de ataques consecutivos. Deve possuir o talento Daví e Golias 1.
 
     **Investida Brutal**: Correr 2 metros em direção a um inimigo antes de atacá-lo concede FORT pontos de dano neste ataque.
 
@@ -306,13 +311,13 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Lado a Lado**: Estar adjacente a um aliado impõe desvantagem menor a ataques inimigos. Se seu parceiro possuir este talento ambos atacam com vantagem menor enquanto estiverem lutando ombro a ombro.
 
-    **Escudo Sagrado**: O escudo que o Divino usa passa a ser um símbolo divino com o qual ele pode conjurar. Recebe resistência 1 a danos em área. Seu custo para melhorar é dobrado para que possa ser adornado como o verdadeiro símbolo de uma divindade (não é preciso pagar por níveis que ele já tinha antes do talento).
+    **Escudo Sagrado**: O escudo que o Divino usa passa a ser um símbolo divino com o qual ele pode conjurar. Recebe resistência a danos em área igual ao nível do escudo. Seu custo para melhorar é dobrado para que possa ser adornado como o verdadeiro símbolo de uma divindade. À princípio deve-se combinar seu escudo com seu símbolo divino, resultando em um escudo sagrado com o menor nível entre os 2 itens.
 
     **Repelir os Hereges**: Alvos que estejam sob efeitos impostos pelo Divino o atacam com desvantagem menor.
 
     **Fé Protetora**: Recebe CARISMA resistência contra divindades que tenham dano próprio (Morte e Luz).
 
-    **Protegido dos Elementos**: Recebe 1 de resistência contra todos elementos que possuam danos próprios (Fogo e Gelo).
+    **Protegido dos Elementos**: Recebe CARISMA de resistência contra todos elementos que possuam danos próprios (Fogo e Gelo).
 
 
     **Talentos de Especialização**
@@ -351,7 +356,7 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Talentos de Ataque**
 
-    **Daví e Golias 3**: Cada terceiro ataque seguido a acertar o mesmo alvo permite ao jogador realizar um ataque bônus (esse ataque não é beneficiado por talentos e só pode ser realizado contra criaturas que estejam adjacentes ao atacante se ele usar armas corpo-a-corpo). Ataques de oportunidade não podem ativar este talento, porém realizar um ataque normal contra o alvo A e um ataque de oportunidade contra o alvo B em seguida recomeça a contagem de ataques consecutivos. Deve possuir o talento Daví e Golias 2.
+    **Daví e Golias 3**: Cada terceiro ataque, manobra ou milagre seguido a acertar o mesmo alvo permite ao jogador realizar um ataque bônus (esse ataque não é beneficiado por talentos e só pode ser realizado contra criaturas que estejam adjacentes ao atacante se ele usar armas corpo-a-corpo). Ataques de oportunidade não podem ativar este talento, porém realizar um ataque normal contra o alvo A e um ataque de oportunidade contra o alvo B em seguida recomeça a contagem de ataques consecutivos. Deve possuir o talento Daví e Golias 2.
 
 
     **Talentos de Defesa**
@@ -389,7 +394,7 @@ Depois da criação do personagem, talentos serão ganhos como forma de progress
 
     **Talentos de Ataque**
 
-    **Daví e Golias 3**: Cada terceiro ataque seguido a acertar o mesmo alvo permite ao jogador realizar um ataque bônus (esse ataque não é beneficiado por talentos e só pode ser realizado contra criaturas que estejam adjacentes ao atacante se ele usar armas corpo-a-corpo). Ataques de oportunidade não podem ativar este talento, porém realizar um ataque normal contra o alvo A e um ataque de oportunidade contra o alvo B em seguida recomeça a contagem de ataques consecutivos. Deve possuir o talento Daví e Golias 2.
+    **Daví e Golias 3**: Cada terceiro ataque, manobra ou milagre seguido a acertar o mesmo alvo permite ao jogador realizar um ataque bônus (esse ataque não é beneficiado por talentos e só pode ser realizado contra criaturas que estejam adjacentes ao atacante se ele usar armas corpo-a-corpo). Ataques de oportunidade não podem ativar este talento, porém realizar um ataque normal contra o alvo A e um ataque de oportunidade contra o alvo B em seguida recomeça a contagem de ataques consecutivos. Deve possuir o talento Daví e Golias 2.
 
 
     **Talentos de Defesa**

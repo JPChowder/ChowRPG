@@ -1,8 +1,8 @@
 # Profissões
 
-Profissões são uma camada da criação de personagens que adiciona personalidade e utilidade nos aventureiros além de torna-los únicos. Elas não só podem ser usadas como uma forma de escrever a história de um personagem, mas fazer essa história refletir mecanicamente no jogo e criar momentos durante ele.
+Profissões são uma camada da criação de personagens que adiciona personalidade e utilidade nos aventureiros além de torna-los mais capazes durante suas viagens, seja nos momentos de descanso ou de exploração.
 
-A regra com profissões é simples: Todo jogador começa com uma profissão de nível 1 e nos níveis 4 e 8 pode escolher melhorar uma profissão que já possua ou adquirir uma profissão iniciante nova. Algumas profissões precisam de algum item ou kit para realizar seus trabalhos ou receber seus bônus. Sua profissão inicial lhe provê este item, mas profissões adquiridas precisam ter suas ferramentas de trabalho adquiridas com algum mercador. Por fim, o item de cada ofício não é gasto ao usar uma habilidade.
+A regra com profissões é simples: **Todo jogador começa com uma profissão de nível 1 e nos níveis 4 e 8 pode escolher melhorar uma profissão que já possua ou adquirir uma profissão inicial nova**. Algumas profissões precisam de algum item ou kit para realizar seus trabalhos ou receber seus bônus. Sua profissão inicial lhe provê este item, mas profissões adquiridas precisam ter suas ferramentas de trabalho adquiridas com algum mercador. Por fim, o item de cada ofício não é gasto ao usar uma habilidade.
 
 **Tabela de Profissões**
 
@@ -15,7 +15,6 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 | Cozinheiro de Acampamento | Chef de Caravana        | -                    |
 | Curandeiro                | Herbalista              | Mestre da Flora      |
 | Nobre                     | -                       | -                    |
-| Engenhoqueiro             | -                       | -                    |
 | Estudante dos Cristais    | Conhecedor dos Cristais | Mestre dos Cristais  |
 | Escudeiro                 | Soldado                 | -                    |
 | Trabalhador               | -                       | -                    |
@@ -65,22 +64,13 @@ A regra com profissões é simples: Todo jogador começa com uma profissão de n
 - **Veneno**: O erveiro consegue destilar das folhas, caules e raízes em mãos uma combinação de óleos essenciais que contém metais pesados. O óleo pode ser passado em lâminas, flechas e objetos pontiagudos e causa 2 de dano de veneno por 2 turnos num alvo. Se usado fora de combate aquele que consumir o veneno passa mal e recebe dano. Consumir ou receber 3 doses do veneno deixa uma pessoa inconsciente. Cada **Curandeiro** do grupo pode carregar 1 desses e demora 1 hora para extrair um veneno.
 
 
-**Engenhoqueiro**: Um engenhoqueiro é um personagem que mistura as sabedorias de um mecânico e de um artesão, dessa maneira ele é capaz de criar dispositivos úteis em muitas situações diferentes da vida de um explorador. As criações possíveis são **munição especial**, **granada  de fumaça** e **bomba direcional**. Necessita de um conjunto de Ferramentas de Engenheiro que custa 1pp.
-
-- **Munição Especial**: O artífice pode gastar uma hora para criar munições (para qualquer arma de longo alcance) que causem dano contundente, cortante, perfurante ou flamejante. Pode se criar 5 projéteis por vez uma vez por dia, demora uma hora para criá-los e cada jogador pode carregar 5 munições especiais.
-
-- **Granada de Fumaça**: Esta bomba quando atirada estoura gerando uma grossa cortina de fumaça em uma área de 3x3. Indivíduos na área de explosão sofrem um ataque à sua defesa de **FORTALEZA** que causa 2 de dano de veneno por engolir fumaça. A fumaça dura 4 turnos, demora 1h para confeccionar uma bomba dessas e cada *grupo* pode carregar 3, a dificuldade de carga de cada granada é 1/3.
-
-- **Bomba Direcional**: Gasta 1h para criar uma pequena carga explosiva direcional que cabe na palma da mão e estoura sonoramente. Pode carregar 1 por vez, essa carga é comumente usada em trancas e coisas semelhantes.
-
-
 **Escudeiro**: O escudeiro é um indivíduo que teve instrução militar moderada, ele foi treinado para ter prontidão e resistência, coisas essenciais para a atuação numa campanha militar. Suas habilidades são **combatente de prontidão**, **sentinela** e **marcha firme**. Não necessita de equipamentos para esta profissão.
 
 - **Combatente de Prontidão**: Toda vez que o escudeiro fizer uma jogada de iniciativa ele a faz com vantagem menor.
 
 - **Sentinela**: Sempre que guardando um acampamento o escudeiro possui vantagem menor em jogadas de *Percepção*.
 
-- **Marcha Firme**: Um dia por semana o escudeiro pode reduzir em 2 horas a [penalidade de movimentação](viagem.md) imposta pelo terreno e pelo clima ao grupo.
+- **Marcha Firme**: Um dia por semana o escudeiro pode reduzir em 1 hexágono (2 horas em condições perfeitas de viagem) a [penalidade de movimentação](viagem.md) imposta pelo terreno e pelo clima ao grupo.
 
 
 **Estudante das Runas**: Você é um estudioso que sabe que milagres não são um poder concedido apenas aos escolhidos dos deuses ou diabos. É através de seus estudos que o estudante reconhece e por vezes faz uso das runas milagrosas. Suas habilidades são **identificar item mágico**, **detectar energia no ambiente** e cria uma **fogueira de sentinela**. Necessita de um Grimório Rúnico para realizar suas mágicas e o grimório custa 1pp.
@@ -189,14 +179,20 @@ le baixe.
 
 - **Cão de Guarda**: Depois de algum tempo nesta linha de trabalho se aprende a atravessar os dias com resiliência depois de noites mal dormidas. Quando o soldado realizar um descanso parcial para montar vigia durante uma noite de acampamento ele toma dois turnos e permite que um personagem a mais tenha um descanso completo.
 
+
 ### Habilidades Profissões Perfeitas
 
-**Mestre dos Animais**: O mestre dos animais aprendeu muito com seu tempo de caça e sabe não apenas como caçar animais, mas também como tratar deles e como treiná-los. Um mestre dos animais pode **encontrar companheiro animal**. É preciso ser ao menos um caçador para poder se tornar um Mestre dos Animais.
+**Mestre dos Animais**: **NÃO FINALIZADO** O mestre dos animais aprendeu muito com seu tempo de caça e sabe não apenas como caçar animais, mas também como tratar deles e como treiná-los. Um mestre dos animais pode **treinar companheiro animal**. É preciso ser ao menos um **Armadilheiro** para poder se tornar um Mestre dos Animais.
 
-- **Encontrar Companheiro Animal**: Torna-se capaz de treinar um cão de caça para estar ao seu lado. As habilidades e atributos do cão ainda estão em desenvolvimento
+- **Treinar Companheiro Animal**: Torna-se capaz de treinar um cão de caça para estar ao seu lado. As habilidades e atributos do cão ainda estão em desenvolvimento, mas penso em algo nas linhas de:
+    - Bônus em jogadas de natureza pra farejar e para encontrar alimento. Anda mais que um personagem (mais rápido que um humano). Mordida da dano perfurante, pode usar uma armadura específica. Tem que ter menos HP que um humano, defesa de agilidade alta, fortaleza baixa e vontade alta (só obedece o dono). Habilidades:
+        - Morder tornozelo: impede que uma unidade se mova, faz ela conceder vantagem menor, agir com desvantagem menor e tomar dano por turno
+        - Pular no pescoço: Se atira contra um alvo e o joga de costas no chão. Se acertar ataca com vantagem menor. Continua atacando com vantagem até o alvo se livrar disso. Aliados tem desvantagem maior ao atacar o alvo (não acertar o dog)
+        - Latido familiar: é capaz de comunicar informações simples com eu mestre. Quantidade de inimigos, perigo, sim ou não...
+        - Treinamento de combate: O cão/lobo é capaz de equipar uma arma de lâmina na boca, tornando-se capaz de causar dano cortante com um ataque de passada
 
 
-**Mestre das Runas**: Os anos de aprendizado sobre as mágicas antes conhecidas pelos antigos lhe rendeu o aprendizado do fantástico feitiço de **Invocar Anjo/Demônio**. Precisa-se de estar munido de um grimório para realizar suas arcanices. Para tornar-se um **Mestre das Runas** é preciso ser antes um **Conhecedor das Runas**.
+**Mestre das Runas**: **NÃO FINALIZADO** Os anos de aprendizado sobre as mágicas antes conhecidas pelos antigos lhe rendeu o aprendizado do fantástico feitiço de **Invocar Anjo/Demônio**. Precisa-se de estar munido de um grimório para realizar suas arcanices. Para tornar-se um **Mestre das Runas** é preciso ser antes um **Conhecedor das Runas**.
 
 - **Invocar Anjo/Demônio**: O **Mestre das Runas** é capaz de desenhar um círculo rúnico de invocação composto por uma liturgia que trará a seu serviço um anjo ou demônio dos seguintes tipos:
     - **Anjo da Luz**: Forma física, habilidades especiais, atributos/defesas/resistências, vida.  
@@ -210,12 +206,12 @@ le baixe.
 - **Elixir do Aprimoramento**: O mestre da flora é capaz de preparar uma poção que cada indivíduo só pode consumir uma vez na vida. A poção aumenta em 1 qualquer atributo de um personagem e este atributo pode ir um ponto além do máximo (que é 3). Os ingredientes da poção são uma missão à parte e demora um dia de trabalho para a poção ficar pronta.
 
 
-**Mestre da Forja**: Se o tempo torna um aprendiz um profissional ele é capaz de tornar este profissional um mestre. Torna-se capaz de **forjar obra prima**. Necessita de sua sacola de ferramentas de oficina para trabalhar. Um Mestre da Forja é necessariamente um Ferreiro também.
+**Mestre da Forja**: **NÃO FINALIZADO** Se o tempo torna um aprendiz um profissional ele é capaz de tornar este profissional um mestre. Torna-se capaz de **forjar obra prima**. Necessita de sua sacola de ferramentas de oficina para trabalhar. Um Mestre da Forja é necessariamente um Ferreiro também.
 
 - **Forjar Obra Prima**: O que é uma obra prima? O que é arte? Uma obra prima pra mim é uma obra prima pra você? Quando tivermos respostas eu escrevo o que essa habilidade faz... Upar itens pra +4 é suficiente? 
 
 
-**Mestre dos Cristais**: Muito tempo estudando cristais e fazendo diapasões vibrarem lhe rendeu muito entendimento sobre como esse tipo de magia funciona. Você é agora capaz de **Invocar um Golem Cristalino**
+**Mestre dos Cristais**: **NÃO FINALIZADO** Muito tempo estudando cristais e fazendo diapasões vibrarem lhe rendeu muito entendimento sobre como esse tipo de magia funciona. Você é agora capaz de **Invocar um Golem Cristalino**
 
 - **Invocar Golem Cristalino**: O mestre dos cristais é capaz de realizar um ritual sobre um pequeno cristal, imbuindo-o com energia elemental e fazendo com que o cristal se desenvolva em um golem de algum dos seguintes tipos:
     - **Golem do Ar**: Forma física, habilidades especiais, atributos/defesas/resistências, vida.  

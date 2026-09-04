@@ -36,7 +36,7 @@ Personagens começam sua vida de aventuras no nível 1 e conforme acumulam hist�
 - Em **níveis múltiplos de 3** o personagem receberá **1 novo [talento](talentos.md)**.  
 - Em **níveis múltiplos de 4** o seu personagem recebe **+1 em algum [atributo](elementos.md)** (valor máximo de 3) e **+1 [profissão](profissoes.md)**.  
 
-Adicionalmente aos bônus de progressão comum, **[lutadores](classes/lutador.md) serão capazes de realizar um ataque, manobra ou proeza extra por turno *a partir do nível 5***. **[Elementais](classes/elemental.md) ganham uma conjuração a mais *no nível 6***. Por fim, os **[divinos](classes/divino.md) são capazes de realizar um ataque extra *quando chegam ao nível 7***.
+Adicionalmente aos bônus de progressão comum, **[lutadores](classes/lutador.md) escolhem uma [Especialização](especializacoes.md) no *nível 5***. os **[divinos](classes/divino.md) recebem uma [Especialização](especializacoes.md) quando chegam ao *nível 6***. Por fim, **[Elementais](classes/elemental.md) ganham uma [Especialização](especializacoes.md) no *nível 7***.
 
 É importante sempre lembrar que **só se pode receber novos níveis depois de ter um descanso longo completo**.
 
@@ -44,8 +44,8 @@ Adicionalmente aos bônus de progressão comum, **[lutadores](classes/lutador.md
 
 Depois do nível 10 os pontos de progressão não se convertem automaticamente em um nível. Eles devem ser acumulados para serem trocados por melhorias ao personagem. As melhorias e seus custos são listadas a seguir:
 
-- Treinamento em 3 proezas - 3 pontos
-- Talento de nível 3 - 3 pontos
-- Talento de nível 6 - 6 pontos
-- Profissão - 6 pontos
-- +1 em um atributo - 6 pontos
+- Treinamento em 3 proezas: 3 pontos
+- Talento de nível 3: 3 pontos
+- Talento de nível 6: 6 pontos
+- Profissão: 6 pontos
+- +1 em um atributo: 6 pontos

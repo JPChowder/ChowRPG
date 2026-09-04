@@ -57,7 +57,6 @@ Como esclarecimento, Lamparinas são infinitas se estiverem secas e sacos imperm
 | Kit de Cozinha                    | Cozinheiro               | 1pp         |
 | Aparatos de Boticário             | Curandeiro +             | 1pp         |
 | Título de Nobreza                 | Nobre                    | 1pp         |
-| Ferramentas de Engenheiro         | Engenhoqueiro            | 1pp         |
 | Conjunto de Cristais e Diapasões  | Estudante dos Cristais + | 1pp         |
 
 Os Equipamentos de [Profissões](profissoes.md) são os itens necessários para utilizar algumas das habilidades de profissão. Eles tem os mais diferentes formatos e cada profissional pode escolher o que colocar em seu kit e como organizá-lo, **as dificuldades de carga são todas iguais a 1**. Toda profissão inicial dá acesso ao kit necessário para se beneficiar dela, algumas profissões não necessitam de equipamento.

@@ -53,6 +53,9 @@
         color: #131313;
         font-weight: bold;
     }
+    .md-typeset hr {
+        border-bottom: .05rem solid #543A14
+    }
 
     /* -------------------- Sidebar -------------------- */
     /* maldito gradiente no topo da barra */
@@ -219,6 +222,9 @@
     .md-typeset h1, h2, h3, h4 {
         color: #E2E1E0; /* headings color */
         font-weight: bold;
+    }
+    .md-typeset hr {
+        border-bottom: .05rem solid #A29F9D
     }
 
     /* -------------------- Sidebar -------------------- */
