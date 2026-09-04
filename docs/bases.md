@@ -1,11 +1,11 @@
 # Bases
-A base de explorações dos jogadores é um conceito criado não só para apoiar o estilo de jogo de mesa aberta, mas também objetivos que melhorem de maneira permanente o lugar de onde todos jogadores saem. Dessa maneira torna-se interessante jogadores de longa data tentarem novos personagens numa mesma mesa e faz jogadores novos se interessarem por um mundo vivo que muda com suas ações.
+A base de explorações dos jogadores é um conceito criado não só para apoiar o estilo de jogo de mesa aberta, mas também objetivos que melhorem de maneira permanente os recursos disponíveis para os jogadores durante as suas aventuras. Dessa maneira torna-se interessante jogadores de longa data tentarem novos personagens numa mesma mesa e faz jogadores novos terem mais recursos para alcançar os mais antigos.
 
 A base dos jogadores possui postos com pessoas que trabalham por lá e cada um desses postos não só serve uma função aos jogadores mas também pode ser melhorado com seus esforços e pode gerar missões com as mais diversas recompensas. **Á princípio, o número máximo de postos de trabalho são 4** e deve-se melhorar postos específicos para aumentar as capacidades do forte.
 
 Cada um desses postos possui níveis e conforme forem feitas missões para melhorar os postos suas utilidades serão expandidas, melhorando a base.
 
-Os postos da base são as **Fortificações**, os **Estábulos**, a **Oficina de Ferreiro**, o **Mercado**, a **Toca dos Caçadores**, a **Enfermaria** e a **Biblioteca**. Cada um desses lugares tem uma função e uma maneira de interagir com os jogadores que será explicada a seguir.
+Os postos da base são as **Fortificações**, os **Estábulos**, a **Oficina de Ferreiro**, o **Mercado**, a **Cozinha**, a **Biblioteca** e o **Correio de Pombos**. Cada um desses lugares tem uma função e uma maneira de interagir com os jogadores que será explicada a seguir.
 
 ### As Fortificações
 Estas são as defesas do forte, a princípio é necessário arrumar as paredes e fazer o portão funcionar, depois disso se pode cavar um fosso ao redor do forte para funilar atacantes e adquirir artilharia para proteger o forte de ataques mais intensos.
@@ -13,7 +13,7 @@ Estas são as defesas do forte, a princípio é necessário arrumar as paredes e
  - **Nível 1**: Conserta muros externos e portão principal fica 100% operacional.
  - **Nível 2**: Cava um fosso ao redor do castelo e instala uma ponte levadiça.
  - **Nível 3**: Adquire um conjunto de morteiros que podem ser usados para atirar do pátio do castelo para fora, mirando os arredores imediatos do castelo.
- - **Nível 4**: Adquire 4 canhões que ficam sobre os muros do forte, os canhões podem ser movidos pelos muro e organizados de diferentes formas.
+ - **Nível 4**: Adquire 4 canhões que ficam sobre os muros do forte, os canhões podem ser movidos pelos muros e organizados de diferentes formas.
 
 
 ### Os Estábulos
@@ -25,11 +25,12 @@ Esta é a parte do forte que permitem os aventureiros criar animais úteis para 
 
 
 ### A Oficina do Ferreiro
-Nesse posto é possível que os jogadores consertem e melhorem equipamento comum assim que seja estabelecido. Nos próximos níveis será possível melhorar equipamentos para +1 e melhorar equipamentos mágicos se uma Biblioteca já existir. No nível 3 poderá ser melhorado equipamento até o nível 3.
+Nesse posto é possível que os jogadores consertem e melhorem equipamento comum assim que seja estabelecido. Nos próximos níveis será possível \melhorar equipamentos para níveis mais e mais poderosos e a interação com uma **Biblioteca** permite aprimorar até mesmo equipamentos mágicos.
 
- - **Nível 1**: Consertar armas e armaduras, melhorar itens comuns até +1.
- - **Nível 2**: Melhorar itens comuns até +2 e melhorar itens mágicos se houver uma Biblioteca no forte.
- - **Nível 3**: Melhorar itens comuns até +3 e melhorar itens mágicos se houver uma Biblioteca no forte.
+ - **Nível 1**: Consertar armas e armaduras, melhorar equipamentos comuns até +1.
+ - **Nível 2**: Melhorar equipamentos comuns até +2 e melhorar equipamentos mágicos para +1 se houver uma Biblioteca nível 1 no forte. Em combinação com uma Biblioteca +2, permite combinar runas e cristais com armas comuns para criar equipamento mágico/milagroso e melhorar equipamentos mágicos para +2.
+ - **Nível 3**: Melhorar equipamentos comuns até +3 e melhorar equipamentos mágicos para +2 se houver uma Biblioteca nível 2 no forte e para +3 se a Biblioteca for de nível 3.
+ - **Nível 4**: Junto de uma Biblioteca nível 4, permite a extração e infusão de propriedades mágicas ou milagrosas de equipamentos mágicos.
 
 
 ### O Mercado
@@ -51,13 +52,14 @@ A Cozinha é responsável pela obtenção e gestão de alimentos para o forte, n
 ## A Biblioteca
 A casa do conhecimento do forte, ajudara a entender a magia desse mundo, seja ela encontrada ou construída e no nível máximo ajudará na mobilidade dos aventureiros com um círculo de teletransporte.
 
- - **Nível 1**: Dá a capacidade de identificar itens mágicos e em combinação com um Oficina de Ferreiro nível 2 permite melhorar itens mágicos.
- - **Nível 2**: Em combinação com uma Oficina de Ferreiro nível 2 permite combinar cristais mágicos e runas milagrosas com armas comuns.
- - **Nível 3**: Permite a construção de um círculo de teletransporte permanente no forte, fazendo com que estudantes dos cristais possam voltar para o forte facilmente.
+ - **Nível 1**: Dá a capacidade de identificar itens mágicos e em combinação com um Oficina de Ferreiro nível 2 permite melhorar itens mágicos para +1.
+ - **Nível 2**: Em combinação com uma Oficina de Ferreiro nível 2 permite combinar cristais mágicos e runas milagrosas com armas comuns e melhorar itens mágicos para +2.
+ - **Nível 3**: Permite a construção de um círculo de teletransporte permanente no forte, fazendo com que estudantes dos cristais possam voltar para o forte facilmente. Em combinação com uma Oficina de Ferreiros de nível 3 pode melhorar itens mágicos para +3.
+ - **Nível 4**: Junto de uma Oficina de Ferreiros de nível 4, permite a extração e infusão de propriedades mágicas ou milagrosas de equipamentos mágicos.
 
 
 ## O Correio de Pombos
 A melhor maneira de se comunicar à longas distâncias, o correio é o posto pelo qual se pode comunicar com diferentes facções no continente, em níveis maiores, o correio é capaz de levar itens de até certo peso/tamanho.
 
-- **Nível 1**: Whatsapp medieval. Permite a entrega e o recebimento de cartas
-- **Nível 2**: Aliexpress da fantasia. Pombos anabolizados permitem o envio e recebimento de itens que não passem de 2Kg.
+- **Nível 1**: Permite a criação de um pombal no forte. É preciso levar um pombo do seu pombal para o pombal daqueles com quem se queira comunicar e trazer um pombo de lá. Apenas uma troca basta para estabelecer comunicações permanentes e ilimitadas com outro pombal. Um pombo correio pode viajar 4 horas por dia a 8 Hex/hora.
+- **Nível 2**: Passa a ter corujas mensageiras que são capazes de visitar qualquer lugar, removendo a necessidade de ter levado um pombo até o destino da mensagem pelo menos uma vez. As corujas podem também transportar itens de até 500g
