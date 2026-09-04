@@ -6,7 +6,7 @@ Viajar pelo mapa é uma grande parte desse jogo e existem sistemas para fazer is
 
 **Caminho**: Deve-se decidir quais serão os hexágonos visitados à caminho do destino do grupo. Muitas vezes existirão caminhos de mesmo tamanho que passam por hexágonos diferentes.
 
-**Provisões**: Os jogadores devem ter provisões que julguem ser suficientes para durar a viagem. É necessário comer e beber uma porção por dia e deve-se ter recursos para ir e voltar na sua viagem (ou saber que vai encontrar no caminho).
+**Provisões**: Os jogadores devem ter provisões que julguem ser suficientes para durar a viagem. **É necessário comer e beber uma porção por dia e deve-se ter recursos para ir e voltar na sua viagem**.
 
 ### Movimento
 
@@ -15,34 +15,31 @@ Estão listados a seguir as condições mais comuns nas quais se viaja e as dist
 
 | Transporte           | Km/dia | Hex/dia |
 | :------------------- | :----: | ------: |
-| De Cavalo            | 80Km   | 8 Hex   |
+| De Cavalo/Caroça     | 80Km   | 8 Hex   |
 | Caminhando           | 40Km   | 4 Hex   |
-| Caminhando + 1 slot  | 30Km   | 3 hex   |
-| Caminhando + 2 slots | 20Km   | 2 hex   |
+| Caminhando + 1 slot  | 30Km   | 3 Hex   |
+| Caminhando + 2 slots | 20Km   | 2 Hex   |
 | Caminhando + 4 slots | 10Km   | 1 Hex   |
 
 Perceba que **a quantidade de itens carregados influi na distância máxima percorrida**, qualquer personagem que tenha itens em 1 slot de carga além do que consegue carregar atrasará o grupo. **A movimentação em combate dos jogadores não influencia na distância viajada**.
 
-A tabela passada considera viagens em planícies perfeitas e descampadas. Porém serão encontrados muitos terrenos diferentes ao viajar. As tabelas que seguem irão listar a relação de terrenos e climas no seu viajar. Conforme as condições climáticas ou de terreno adicionam tempo na sua viagem você poderá viajar mais ou menos hexágonos num período de oito horas, faça as contas.
+A tabela passada considera viagens em planícies perfeitas e descampadas. Porém serão encontrados muitos terrenos diferentes ao viajar. As tabelas que seguem irão listar a relação de terrenos e climas no seu viajar:
 
 
-| Clima               | Tempo de Viajem |
-| :------------------ | --------------: |
-| Clima Limpo         | +0              |
-| Chuva/Neve Leve     | +0              |
-| Névoa               | +0              |
-| Vento Forte         | +00:30          |
-| Tempestade          | +00:45          |
-| Tempestade de Areia | +1:00           |
-| Nevasca             | +1:30           |
+| Clima               | Custo/Hex |
+| :------------------ | --------: |
+| Clima Limpo         | +0        |
+| Chuva/Neve Leve     | +0        |
+| Vento Forte         | +0,25     |
+| Tempestade/Nevasca  | +0,50     |
+| Tempestade de Areia | +0,75     |
 
-| Terreno                         | Tempo de Viagem |
-| :------------------------------ | --------------: |
-| Estrada/Trilha                  | -00:30          |
-| Descampado Sem Trilha           | +0              |
-| Deserto/Colinas/Floresta/Neve   | +00:30          |
-| Floresta Densa/Pântano/Montanha | +00:45          |
-| Neve/Água no Joelho             | +01:00          |
+| Terreno                         | Custo/Hex |
+| :------------------------------ | --------: |
+| Descampado sem trilha           | -0        |
+| Estrada/Trilha                  | -0,25     |
+| Deserto/Colinas/Floresta/Neve   | +0,25     |
+| Floresta Densa/Pântano/Montanha | +0,50     |
 
 ### Suprimentos
 
