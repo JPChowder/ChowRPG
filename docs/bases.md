@@ -16,14 +16,6 @@ Estas são as defesas do forte, a princípio é necessário arrumar as paredes e
  - **Nível 4**: Adquire 4 canhões que ficam sobre os muros do forte, os canhões podem ser movidos pelos muros e organizados de diferentes formas.
 
 
-### Os Estábulos
-Esta é a parte do forte que permitem os aventureiros criar animais úteis para viagens e exploração. De início se pode fazer uso de animais de montaria/carga, depois o estábulo passa a manter carroças para carregar aventureiros e tesouro e finalmente os estábulos são capazes de montar caravanas de viagem.
-
- - **Nível 1**: Permite que os aventureiros tenham animais de carga e transporte (cavalos, burros, éguas, mulas).
- - **Nível 2**: Permite que os aventureiros usem uma carroça em suas viagens.
- - **Nível 3**: Permite que os aventureiros montem uma caravana de viagens que pode montar um acampamento com enfermaria nível 2 e oficina nível 1.
-
-
 ### A Oficina do Ferreiro
 Nesse posto é possível que os jogadores consertem e melhorem equipamento comum assim que seja estabelecido. Nos próximos níveis será possível \melhorar equipamentos para níveis mais e mais poderosos e a interação com uma **Biblioteca** permite aprimorar até mesmo equipamentos mágicos.
 
@@ -31,6 +23,14 @@ Nesse posto é possível que os jogadores consertem e melhorem equipamento comum
  - **Nível 2**: Melhorar equipamentos comuns até +2 e melhorar equipamentos mágicos para +1 se houver uma Biblioteca nível 1 no forte. Em combinação com uma Biblioteca +2, permite combinar runas e cristais com armas comuns para criar equipamento mágico/milagroso e melhorar equipamentos mágicos para +2.
  - **Nível 3**: Melhorar equipamentos comuns até +3 e melhorar equipamentos mágicos para +2 se houver uma Biblioteca nível 2 no forte e para +3 se a Biblioteca for de nível 3.
  - **Nível 4**: Junto de uma Biblioteca nível 4, permite a extração e infusão de propriedades mágicas ou milagrosas de equipamentos mágicos.
+
+
+## A Cozinha
+A Cozinha é responsável pela obtenção e gestão de alimentos para o forte, nela trabalham cozinheiros, caçadores e pescadores. Melhorar a cozinha ajuda a manter mais pessoas e postos de trabalho no forte, além de prover recursos de viagem e missões de caça.
+
+ - **Nível 1**: Aumenta em 1 o máximo de postos no forte. Faz com que os aventureiros partam para qualquer viagem com quanta água puderem carregar.
+ - **Nível 2**: Aumenta em 1 o máximo de postos. Faz com que os aventureiros partam para qualquer viagem com 5 rações.
+ - **Nível 3**: A cozinha passa a fazer e vender itens de cura. Pode-se comprar bálsamos de cura e antídotos.
 
 
 ### O Mercado
@@ -41,12 +41,12 @@ A barraca do mercador é onde se encontra os itens mais diversos desde mercadori
  - **Nível 3**: Os mercadores passam a vender itens mais raros como cristais e runas para infundir equipamentos e metais antigos para melhorar armas, armaduras e afins.
 
 
-## A Cozinha
-A Cozinha é responsável pela obtenção e gestão de alimentos para o forte, nela trabalham cozinheiros, caçadores e pescadores. Melhorar a cozinha ajuda a manter mais pessoas e postos de trabalho no forte, além de prover recursos de viagem e missões de caça.
+### Os Estábulos
+Esta é a parte do forte que permitem os aventureiros criar animais úteis para viagens e exploração. De início se pode fazer uso de animais de montaria/carga, depois o estábulo passa a manter carroças para carregar aventureiros e tesouro e finalmente os estábulos são capazes de montar caravanas de viagem.
 
- - **Nível 1**: Aumenta em 1 o máximo de postos no forte. Faz com que os aventureiros partam para qualquer viagem com quanta água puderem carregar.
- - **Nível 2**: Aumenta em 1 o máximo de postos. Faz com que os aventureiros partam para qualquer viagem com 5 rações.
- - **Nível 3**: A cozinha passa a fazer e vender itens de cura. Pode-se comprar bálsamos de cura e antídotos.
+ - **Nível 1**: Permite que os aventureiros tenham animais de carga e transporte (cavalos, burros, éguas, mulas).
+ - **Nível 2**: Permite que os aventureiros usem uma carroça em suas viagens.
+ - **Nível 3**: Permite que os aventureiros montem uma caravana de viagens que pode montar um acampamento com Cozinha e Oficina de Ferreiro do mesmo nível que no forte.
 
 
 ## A Biblioteca

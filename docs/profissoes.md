@@ -73,15 +73,6 @@ A regra com profissões é simples: **Todo jogador começa com uma profissão de
 - **Marcha Firme**: Um dia por semana o escudeiro pode reduzir em 1 hexágono (2 horas em condições perfeitas de viagem) a [penalidade de movimentação](viagem.md) imposta pelo terreno e pelo clima ao grupo.
 
 
-**Estudante das Runas**: Você é um estudioso que sabe que milagres não são um poder concedido apenas aos escolhidos dos deuses ou diabos. É através de seus estudos que o estudante reconhece e por vezes faz uso das runas milagrosas. Suas habilidades são **identificar item mágico**, **detectar energia no ambiente** e cria uma **fogueira de sentinela**. Necessita de um Grimório Rúnico para realizar suas mágicas e o grimório custa 1pp.
-
-- **Identificar Item Mágico**: O ritualista entoa encantamentos de seu grimório enquanto desenha runas ao redor de um item, esclarecendo em sua mente  os completos efeitos de um único item mágico que deve ficar com ele durante o ritual. Demora 1 hora para conjurar por completo.
-
-- **Detectar Energia no Ambiente**: O estudante rúnico vaga pelo lugar dizendo palavras estranhas de seu grimório e desenhando símbolos curiosos no ar buscando vibrações que revelem encantamentos, magias, milagres ou energias no ambiente. Demora 1 hora minutos para completar esta cerimônia e ao fim dela é capaz de confirmar a presença e compreender os efeitos de energias sobrenaturais no ambiente.
-
-- **Fogueira de Sentinela**: O estudante das runas é capaz de realizar um ritual sobre uma chama que a torna sensível à vida em seus arredores até o sol raiar. Todos aqueles que estavam nas proximidades durante o ritual não ativam a chama, mas se um outro ser vivo se aproximar a chama mudará de cor para um vermelho intenso e suas brasas tomarão a forma de minúsculas runas. Isso garante vantagem menor em jogadas de percepção para localizar quem está se aproximando. Quem conhece o ritual pode usar palavras de comando para fazer com que a chama vá em direção de quem causou sua ativação, apagando logo depois. 
-
-
 **Estudante dos Cristais**: O estudante é versado na arte de realizar rituais que se aproveitam de energias sobrenaturais. Com auxílio de seu kit de ritualismo o estudioso da magia dos cristais pode realizar rituais que demoram algum tempo para serem completos e podem **sacramentar morto**, **identificar item mágico** ou **teletransportar** com cristais. Necessita de um Conjunto de Cristais e Diapasões que custa 1pp.
 
 - **Sacramentar Morto**: Por meio de reza ou ritual os mortos que caibam numa área de 3x3 sem serem empilhados são sacramentados e livrados da maldição que os faria levantar como mortos-vivos. Demora uma hora para ser realizado durante a qual os mortos não levantarão.
@@ -89,6 +80,15 @@ A regra com profissões é simples: **Todo jogador começa com uma profissão de
 - **Identificar Item Mágico**: O item mágico é colocado no centro de um círculo de cristais que são tocados pelo estudante com diapasões, as vibrações revelam à mente do ritualista os funcionamentos daquele objeto. Demora uma hora pra realizar.
 
 - **Teletransportar**: Por meio deste ritual é possível teletransportar tudo num volume de 3x3x2. O destino é um Círculo de teletransporte, então das duas uma: O ritualista pode ir de um círculo existente para um outro que esteja atrelado ao primeiro, ou ele pode criar um círculo temporário e teletransportar para um único outro círculo com o qual ele tenha se ligado. Se ligar a um circulo leva 30 minutos, o ritual de teletransporte envolve o posicionamento de cristais, a vibração de diapasões e leva uma hora. Criar um círculo de teletransporte fixo é uma missão à parte.
+
+
+**Estudante das Runas**: Você é um estudioso que sabe que milagres não são um poder concedido apenas aos escolhidos dos deuses ou diabos. É através de seus estudos que o estudante reconhece e por vezes faz uso das runas milagrosas. Suas habilidades são **identificar item mágico**, **detectar energia no ambiente** e cria uma **fogueira de sentinela**. Necessita de um Grimório Rúnico para realizar suas mágicas e o grimório custa 1pp.
+
+- **Identificar Item Mágico**: O ritualista entoa encantamentos de seu grimório enquanto desenha runas ao redor de um item, esclarecendo em sua mente  os completos efeitos de um único item mágico que deve ficar com ele durante o ritual. Demora 1 hora para conjurar por completo.
+
+- **Detectar Energia no Ambiente**: O estudante rúnico vaga pelo lugar dizendo palavras estranhas de seu grimório e desenhando símbolos curiosos no ar buscando vibrações que revelem encantamentos, magias, milagres ou energias no ambiente. Demora 1 hora minutos para completar esta cerimônia e ao fim dela é capaz de confirmar a presença e compreender os efeitos de energias sobrenaturais no ambiente.
+
+- **Fogueira de Sentinela**: O estudante das runas é capaz de realizar um ritual sobre uma chama que a torna sensível à vida em seus arredores até o sol raiar. Todos aqueles que estavam nas proximidades durante o ritual não ativam a chama, mas se um outro ser vivo se aproximar a chama mudará de cor para um vermelho intenso e suas brasas tomarão a forma de minúsculas runas. Isso garante vantagem menor em jogadas de percepção para localizar quem está se aproximando. Quem conhece o ritual pode usar palavras de comando para fazer com que a chama vá em direção de quem causou sua ativação, apagando logo depois. 
 
 
 **Nobre**: O nobre é aquele que pertence a classe de maior prestígio na sociedade. Nobreza é algo herdado no sangue ou comprado com um título, seja qual for a maneira que você chegou lá você é maior que os comuns independente da sua condição material atual. Suas vantagens tem a ver com status e são a **carteirada**, a **barganha esnobe** e a **reputação venerável**. Precisa de um Título de Nobreza que pode ter a forma de documentos, um brasão de família ou objeto análogo.
@@ -120,13 +120,6 @@ A regra com profissões é simples: **Todo jogador começa com uma profissão de
 
 ### Habilidades Profissões Melhoradas
 
-**Conhecedor das Runas**: O **Conhecedor das Runas** já é experiente com a manipulação do mundo em seu favor. Ele é capaz de realizar as magias **encontrar objeto** e **silêncio**. Para trabalhar, o escritor de runas precisa de um Grimório Rúnico e para tornar-se um **Conhecedor das Runas** é preciso que se seja um **Estudante das Runas**.
-
-- **Encontrar Objeto**: Durante 15 minutos o Arcanista folheia seu grimório enquanto diz palavras ininteligíveis e ao fim do encantamento se o objeto procurado estiver na sala ele se manifestará. Pode ser realizado uma vez por dia.
-
-- **Silêncio**: Uma vez por dia o Arcanista pode conjurar uma magia sobre uma área 10x10 na qual nada nem ninguém é capaz de causar som. A magia dura enquanto o Arcanista se manter conjurando.
-
-
 **Armadilheiro**: Um caçador experiente eventualmente perceberá que pode ser mais eficiente se for capaz de arquitetar traquitanas que mirem alvos desavisados. As armadilhas possíveis são a **cata pé**, o **rojão de caça** e a **flechadeira**. Precisa do kit de profissão Materiais de Arapuca que custa 1pp para montar armadilhas. Para ser tornar um **Armadilheiro** deve-se antes ser um **Caçador**.
 
 - **Cata Pé**: Uma famosa armadilha dos caçadores, ela possui dificuldade 2 e quando ativada ergue sua vítima pelo tornozelo. Demora 3 turnos para cortar a corda com uma lâmina e 1 minuto para desamarrar se você está preso. Deve haver onde pendurar a corda para essa armadilha poder ser montada e só se pode montar uma dessas por vez.
@@ -142,6 +135,20 @@ le baixe.
 - **Preparar Banquete**: O chef é capaz de preparar uma refeição digna de um restaurante refinado usando apenas rações de viajem e alimentos encontrados na natureza. Gasta 2 rações de cada pessoa que vai participar do banquete para preparar alimentos que regeneram 5 de vida de todos que comerem por uma hora. A comida demora 2 horas pra ficar pronta e *a cura é aplicada ao final de um descanso completo ou parcial*.
 
 - **Fermentar Bebida**: O chef aprendeu os segredos da fermentação e é capaz de fermentar bebidas ao longo de alguns dias. A partir do momento que o chef prepara a bebida ela demora 3 dias pra ficar pronta, ele pode escolher criar **vinho** ou **cerveja**. Aventureiros que consumirem **vinho** recebem vantagem menor em jogadas que envolvam **MENTE** e **CARISMA** e desvantagem menor em **FORTALEZA** e **AGILIDADE** nas primeiras jogadas que fizerem após consumir a bebida. Aqueles que consumirem **cerveja** ganham vantagem menor em jogadas de **FORTALEZA** e **AGILIDADE** e desvantagem menor em jogadas que usem **MENTE** e **CARISMA**. *Rende 3 garrafas da mesma bebida com dificuldade de carga igual 1/3 cada uma*.
+
+
+**Conhecedor dos Cristais**: O ritualista que possui essa profissão conseguiu aprender novos rituais e refinar suas técnicas. Ele aprende a **fechar corpo**, **esconder acampamento** e usar a **visão verdadeira**. Deve estar munido de seu conjunto de cristais e diapasões para conjurar. Para adquirir esta profissão é necessário ser um estudante dos cristais
+
+- **Esconder Acampamento**: Neste ritual, cristais são posicionados gerando um círculo de 5m de raio para dentro do qual não se pode enxergar claramente, quando vista de fora, a área do círculo aparenta estar sem ninguém e sem nenhuma coisa. Dura até 10h e pode ser realizado a cada descanso longo do ritualista.
+
+- **Visão Verdadeira**: O ritualista senta-se dentro de um círculo de cristais e entoa palavras antigas numa frequência que os faz vibrar. Quando passada uma hora a mente do ritualista vibra em uníssono com os cristais e é capaz de enxergar no escuro perfeito, ver coisas invisíveis e ler em qualquer língua por uma hora.
+
+
+**Conhecedor das Runas**: O **Conhecedor das Runas** já é experiente com a manipulação do mundo em seu favor. Ele é capaz de realizar as magias **encontrar objeto** e **silêncio**. Para trabalhar, o escritor de runas precisa de um Grimório Rúnico e para tornar-se um **Conhecedor das Runas** é preciso que se seja um **Estudante das Runas**.
+
+- **Encontrar Objeto**: Durante 15 minutos o Leitor de Runas folheia seu grimório enquanto diz palavras ininteligíveis e ao fim do encantamento se o objeto procurado estiver na sala ele se manifestará. Pode ser realizado uma vez por dia.
+
+- **Silêncio**: O Escriba de Runas ganhou compreensão desse alfabeto antigo até o ponto de conseguir escrever e entoar um canto gutural que silencia completamente uma área de 10x10 ao seu redor. Nesta área nada nem ninguém é capaz de causar som e apenas se escuta um distante entoar de mantras no fundo da mente. A magia dura enquanto o Conhecedor das Runas se mantiver conjurando. A partir da segunda vez que se realiza esse ritual em um mesmo dia, o ritualista recebe 2 de dano por turno que continue a conjurar enquanto sua garganta se queima e esfola.
 
 
 **Ferreiro**: Com experiência um aprendiz se torna um profissional, o Ferreiro agora é capaz de **melhorar equipamento** e **customizar armadura**. Deve estar munido de sua confiante sacola de ferramentas de oficina para trabalhar. Tornar-se um Ferreiro envolve primeiro ser um Ajudante de Oficina.
@@ -160,15 +167,6 @@ le baixe.
 - **Carne dos Deuses**: O Herbalista passa uma hora preparando uma mistura de fungos e ervas que quando consumidos garante vantagem em *Proezas de **MENTE*** por uma hora além de +1 na Defesa de Vontade.
 
 - **Pito de Pango**: Durante uma hora o Herbalista mistura ervas secas e as enrola em uma folha especial, confeccionado um cigarro que quando fumado concede vantagem menor em *Proezas de **CARISMA*** por uma hora além de +1 na Defesa de Vontade.
-
-
-**Conhecedor dos Cristais**: O ritualista que possui essa profissão conseguiu aprender novos rituais e refinar suas técnicas. Ele aprende a **fechar corpo**, **esconder acampamento** e usar a **visão verdadeira**. Deve estar munido de seu conjunto de cristais e diapasões para conjurar. Para adquirir esta profissão é necessário ser um estudante dos cristais
-
-- **Fechar Corpo**: Este ritual que vibra as vestes de alguém em ressonância com certos cristais torna a pessoa imune ao dano do primeiro ataque que receber. Demora 1 hora, dura 1 hora.
-
-- **Esconder Acampamento**: Neste ritual, cristais são posicionados gerando um círculo de 5m de raio para dentro do qual não se pode enxergar claramente, quando vista de fora, a área do círculo aparenta estar sem ninguém e sem nenhuma coisa. Dura até 10h e pode ser realizado a cada descanso longo do ritualista.
-
-- **Visão Verdadeira**: O ritualista senta-se dentro de um círculo de cristais e entoa palavras antigas numa frequência que os faz vibrar. Quando passada uma hora a mente do ritualista vibra em uníssono com os cristais e é capaz de enxergar no escuro perfeito, ver coisas invisíveis e ler em qualquer língua por uma hora.
 
 
 **Soldado**: Tornar-se um Soldado é o objetivo da maioria dos Escudeiros e você chegou lá, parabéns! Você agora tem as habilidades **irmãos de armas**, **abordagem truculenta** e **cão de guarda**.
