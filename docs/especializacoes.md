@@ -45,7 +45,7 @@ As opções para se especializar um Lutador são, à princípio, uma escolha ent
 
 ---
 
-**Combatente Refinado**: Opção de progressão simples para lutadores de armas médias e grandes, **permite que o personagem realize 2 manobras em seu turno ou 1 ataque + 1 manobra**. Além disso, adiciona 2 do dano da arma em qualquer manobra realizada.
+**Combatente Refinado**: Opção de progressão simples para lutadores de armas médias e grandes, **permite que o personagem realize 2 manobras em seu turno ou 1 ataque + 1 manobra**.
 
 ---
 
@@ -103,7 +103,7 @@ As especializações de Divinos buscarão modificar seus milagres com benefício
 
 ---
 
-**Milagreiro**: Opção de progressão simples para Divino, **permite que o personagem realize 2 milagres em seu turno ou 1 ataque + 1 milagre**. Todo elemento de magia que seja modificado pelo CARISMA recebe um bônus igual ao nível do Símbolo Divino.
+**Milagreiro**: Opção de progressão simples para Divino, **permite que o personagem realize 2 milagres em seu turno ou 1 ataque + 1 milagre**.
 
 ---
 

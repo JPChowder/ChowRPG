@@ -60,7 +60,7 @@ Se um jogador quiser usar um tipo de arma que não existe neste arsenal ele deve
  - **Besta Pesada**: 5 de dano perfurante.
     - Deve gastar metade de sua movimentação para recarregar a arma.
  - **Funda**: 4 de dano contundente.
-   - Crítico deixa o alvo ZONZO além de dobrar o dano.
+    - Crítico deixa o alvo ZONZO além de dobrar o dano.
 
 ### Escudos
 
@@ -117,6 +117,8 @@ Divinos e Elementais precisam de equipamentos especializados para canalizarem se
 Estas ferramentas podem ser melhoradas tal qual armas e a variedade entre elas existe meramente para gerar personagens visualizáveis e interessantes. Por isso não haverá uma lista de focos arcanos e símbolos divinos, mas sim eles serão explicados sob a perspectiva de cada elemento ou divindade.
 
 Lembre-se apenas da regra mais importante: **Seu objeto de conjuração deve ser empunhado no ato do conjurar que também envolve movimentos e dizeres**.
+
+**Melhorar símbolos divinos e focos arcanos concede bônus igual ao nível de melhoria na jogada de conjuração e no dano (se aplicável) de um milagre/magia.**
 
 ### Focos do Fogo
 

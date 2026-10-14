@@ -2,9 +2,11 @@
 
 ## 1. Atualização das profissões
 
+A habilidade de **encontrar objeto** do **conhecedor das runas** é fraca e não é tematicamente interessante. Ela precisa ser alterada pra que ele possa escrever algo e causar um efeito.
+
 Mestre dos cristais precisa de uma habilidade legal e temática com o mundo. Talvez algo como invocar espírito de fogo/gelo/ar/terra que pode ser sempre trocado mas que só pode ser invocado fora de combate. Dessa maneira, o mestre das runas pode invocar um anjo da luz/vida ou demônio das trevas/morte. Desenvolver o uso de porrada/utilidade de cada um.
 
-Nessa linha de controlar uma unidade, o caçador não vai poder trocar seu companheiro animal, então o uso deve ser bem diferente dos espíritos/anjos/demônios, ele deve ser mais capaz que qualquer um individualmente
+Nessa linha de controlar uma unidade, o caçador não vai poder trocar seu companheiro animal, então o uso deve ser bem diferente dos espíritos/anjos/demônios, ele deve ser mais capaz que qualquer um individualmente.
 
 HABILIDADES DAS UNIDADES CONTROLADAS:
 - **Anjo da Vida**: Tem 20 de HP e pode levar dano no lugar de qualquer unidade que o Mestre das Runas determinar. Não tem uma forma física e não pode interagir com o mundo, quando sua habilidade é ativada a imagem de uma chimera se projeta entre seu alvo e a fonte de dano como se impedisse o ataque de acertar.
@@ -17,7 +19,7 @@ HABILIDADES DAS UNIDADES CONTROLADAS:
     - 12 de armor, 20 de HP, 10 DEF FORT, 9 DEF AGI, 8 DEF VONT
     - 7 de dano contundente
     - Pode sacrificar 3 de HP pra dar uma pedrada
-    - Avalanche: pode castar uma vez por combate uma spell que stuna e causa dano numa área de 3x3, movendo o golem 4m pra frente (ele vira uma avalanche de pedras e se monta de novo do outro lado). FAZER ESSA SPELL TER MAIS DANO/ÁREA BASEADA NO HP DELE E CUSTAR VIDA? ELA FICA OPEN DE USOS ASSIMj
+    - Avalanche: pode castar uma vez por combate uma spell que stuna e causa dano numa área de 3x3, movendo o golem 4m pra frente (ele vira uma avalanche de pedras e se monta de novo do outro lado). FAZER ESSA SPELL TER MAIS DANO/ÁREA BASEADA NO HP DELE E CUSTAR VIDA? ELA FICA OPEN DE USOS ASSIM?
 - **Golem do Fogo**: Massa incandescente e ardente de cristais. Poderes com Lava? 
 - **Golem do Gelo**: Massa formada por gelo e cristais azul claro. Tempestade de neve ao redor de sí, causa slow em área, pode aumentar a intensidade para causar dano por turno. Quando morre cobre o chão com uma fina camada de gelo que faz com quem queira atravessá-a seja atacado na sua Defesa de Agilidade sob a pena de cair no chão
 
@@ -27,7 +29,17 @@ HABILIDADES DAS UNIDADES CONTROLADAS:
     - Latido familiar: é capaz de comunicar informações simples com eu mestre. Quantidade de inimigos, perigo, sim ou não...
     - Treinamento de combate: O cão/lobo é capaz de equipar uma arma de lâmina na boca, tornando-se capaz de causar dano cortante com um ataque de passada 
 
-## 2. Progressão
+## 2. Controlar Unidades
+
+Uma vez que a progressão de profissões está levando o jogo para um lado onde se pode controlar unidades, é preciso pensar em regras para balancear isso. Penso em fazer algo semelhante a Pathfinder, no sentido que se deve gastar uma ação para dar um ordem para a sua unidade e essa ordem prevalece até que você dê outra ordem. Penso ainda em fazer com que se um jogador controla mais que uma unidade ele possa dar apenas um comando que é igual para todas ou comandar uma unidade individualmente.
+
+Dessa forma, controladores de unidades que o fazem por profissão tem uma experiência mais simples e direta, além do que, no nível que podem controlar unidades já podem realizar 2 ações por turno.
+
+Divinos da morte e das sombras que podem controlar mais que uma unidade devem gastar uma ação comandando que todas suas unidades ataquem, defendam ou qualquer coisa; ou ainda ordenar apenas uma de suas unidades a fazer algo específico.
+
+Preciso escrever uma página sobre como controlar unidades especificando diferenças entre cada uma delas (um zumbi é 100% idiota, um cachorro é médio inteligente, um clone sombrio é uma extensão do seu conjurador). Essa página deve ser linkada nos textos que mencionam controle de unidades, mas não deve ser indexada na tabela de
+
+## 3. Progressão
 
 Progressão se tornou um problema com tudo upando ao mesmo tempo. **Preciso rebalancear os valores das missões de progressão pra que algumas demorem muito para conseguir**
 
@@ -61,13 +73,13 @@ Especializações de divinos e elementais podem não permitir 2 ataques ou 2 mil
     - Build de tank: mudar taunt pra ser single target e o taunt do tank é em área. Pode fazer 2 manobras ou ataque + manobra
     - Build de ripostar? Pode ripostar uma vez mesmo que já tenha agido, mas aí não ataca depois. Pode desarmar com vantagem/menos custo depois de ripostar
 
-## 3. Talentos
+## 4. Talentos
 
 Talentos de nível 1 são perfeitos, porém os níveis subsequentes tem problemas
 
 ### Nível 3
 
-- David e Golias: Não faz porra nenhuma assim que o talento é adquirido. Talvez valha a pena mudar o bônus, mas levando em consideração em no nível 5 lutadores atacarão 2x.
+- David e Golias: Não faz porra nenhuma assim que o talento é adquirido. Talvez valha a pena mudar o bônus, mas levando em consideração que no nível 5 lutadores atacarão 2x.
 - Diplomacia da força, resiliente a dor e traidor: tem condições muito específicas pra fazer coisas que não auxiliam no combate. Poderiam ser melhoradas ou removidas
 
 - Conjurador opressor: muito situacional
@@ -99,7 +111,7 @@ Talentos de nível 1 são perfeitos, porém os níveis subsequentes tem problema
 - Talvez elementais não devessem ter Couro Grosso
 - Sifão do espírito maior é totalmente quebrada
 
-## 4. Recursos pra facilitar o jogo
+## 5. Recursos pra facilitar o jogo
 
 ### Recursos de jogador
 Assim como os encartes de habilidades aceleram muito o jogo e ajudam os jogadores a planejarem seus turnos, é interessante ter encartes que ajudam com outros elementos do jogo.
@@ -108,6 +120,8 @@ ATUALIZAR ENCARTES DE LUTADORES E ELEMENTAIS (pose defensiva e elemental da terr
 
 Os encartes que devem ser feitos:
 - Melhoria de itens
+- Equipamentos de atirador
+- Profissões
 - Arsenal + carga
 - Armadilhas, correrias e estados
 - Viagem
